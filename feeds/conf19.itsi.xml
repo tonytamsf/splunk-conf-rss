@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Splunk [IT Service Intelligence] 2019 .conf Videos w/ Slides</title>
+    <link>https://conf.splunk.com?podcast</link>
+    <description>Splunk [IT Service Intelligence] 2019 .conf Videos w/ Slides</description>
+    <lastBuildDate>Sat, 21 Dec 2019 01:26:13 EST</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Tony Tam</generator>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Splunk</itunes:author>
+    <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+    <itunes:image href="https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png"/>
+    <itunes:owner>
+      <itunes:name>Splunk</itunes:name>
+      <itunes:email>ttam@splunk.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>ttam@splunk.com</managingEditor>
+    <copyright>Splunk Inc.</copyright>
+    <itunes:subtitle>Splunk [IT Service Intelligence] .conf 2019 Videos w/ Slides</itunes:subtitle>
+    <image>
+      <url>https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png</url>
+      <title>Splunk - The Data-To-Everything Platform</title>
+      <link>https://conf.splunk.com?podcast</link>
+    </image>
+    <itunes:category text="Technology">
+        </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Data"/>
+    </itunes:category>
+    <itunes:category text="Splunk">
+        </itunes:category>
+    <rawvoice:location>San Francisco, CA</rawvoice:location>
+    <rawvoice:frequency>Daily</rawvoice:frequency>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/twistvid"/>
+    <feedburner:info uri="twistvid"/>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+    <geo:lat>34.01491</geo:lat>
+    <geo:long>-118.492202</geo:long>
+
+
+   <item>
+      <title>AIB IRELAND – Splunk/ITSI monitoring of time critical Payment Business Flows with real time insights into health of Mobile and Payment Applications
+                                                     [Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1648.mp4?podcast=1576909574</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:14 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1648.mp4?podcast=1576909574</guid>
+      <comments>AIB IRELAND – Splunk/ITSI monitoring of time critical Payment Business Flows with real time insights into health of Mobile and Payment Applications
+                                                    </comments>
+      <description>Splunk Insights platform supporting AIB Digital Transformation on the journey to AIOps. This presentation will outline the payments business and technology strategy, steps, challenges, and benefits AIB has realized leveraging Splunk and IT Service Intelligence to deliver:* Payments end-to-end business activity monitoring, including payment-level integrity checking, trends, and performance against time critical cut offs; and* Mobile and Payment App “live” health monitoring using Splunk ITSI for predictive service insights into business, application, and inframetrics, including OS and Oracle health diagnostics.AIB is using Splunk ITSI to monitor service health across the stack and will share examples where health degradation of critical services was highlighted, allowing AIB to intervene in time and resolve the issue before a critical incident occurred.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Damien Perrem, Head of Technology - Payments Platforms, AIB&lt;br/&gt; Garvan Power, Middleware Senior Technical Lead, AIB&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1648.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1648.pdf?podcast=1576909574
+&lt;p/&gt;
+Product: Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk Insights platform supporting AIB Digital Transformation on the journey to AIOps. This presentation will outline the payments business and technology strategy, steps, challenges, and benefits AIB has realized leveraging Splunk and IT Service Intelligence to deliver:* Payments end-to-end business activity monitoring, including payment-level integrity checking, trends, and performance against time critical cut offs; and* Mobile and Payment App “live” health monitoring using Splunk ITSI for predictive service insights into business, application, and inframetrics, including OS and Oracle health diagnostics.AIB is using Splunk ITSI to monitor service health across the stack and will share examples where health degradation of critical services was highlighted, allowing AIB to intervene in time and resolve the issue before a critical incident occurred.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Damien Perrem, Head of Technology - Payments Platforms, AIB&lt;br/&gt; Garvan Power, Middleware Senior Technical Lead, AIB&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1648.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1648.pdf?podcast=1576909574
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk Insights platform supporting AIB Digital Transformation on the journey to AIOps. This presentation will outline the payments business and technology strategy, steps, challenges, and benefits AIB has realized leveraging Splunk and IT Service Intelligence to deliver:* Payments end-to-end business activity monitoring, including payment-level integrity checking, trends, and performance against time critical cut offs; and* Mobile and Payment App “live” health monitoring using Splunk ITSI for predictive service insights into business, application, and inframetrics, including OS and Oracle health diagnostics.AIB is using Splunk ITSI to monitor service health across the stack and will share examples where health degradation of critical services was highlighted, allowing AIB to intervene in time and resolve the issue before a critical incident occurred.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1648.mp4?podcast=1576909574" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>AIOps - How to build a Self Learning Event Analytics Platform [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1119.mp4?podcast=1576909574</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:14 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1119.mp4?podcast=1576909574</guid>
+      <comments>AIOps - How to build a Self Learning Event Analytics Platform</comments>
+      <description>AIOps platforms utilize big data, modern machine learning, and advanced analytics technologies to directly and indirectly enhance IT Operations functions. This session shows how to leverage Splunk IT Service Intelligence (ITSI) and the Machine Learning Toolkit (MLTK) to build a basic, self-learning recommendation engine. Your Operations Center will reap the benefits from having assisted recovery input, but this session does not stop there. It also will show you how to fully automate the recovery. If you have AIOps initiatives on your radar come on and participate in this session &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Martin Wiser, ITOA Practitioner, Splunk&lt;br/&gt; Pierre Brunel, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1119.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1119.pdf?podcast=1576909574
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+AIOps platforms utilize big data, modern machine learning, and advanced analytics technologies to directly and indirectly enhance IT Operations functions. This session shows how to leverage Splunk IT Service Intelligence (ITSI) and the Machine Learning Toolkit (MLTK) to build a basic, self-learning recommendation engine. Your Operations Center will reap the benefits from having assisted recovery input, but this session does not stop there. It also will show you how to fully automate the recovery. If you have AIOps initiatives on your radar come on and participate in this session 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Martin Wiser, ITOA Practitioner, Splunk&lt;br/&gt; Pierre Brunel, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1119.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1119.pdf?podcast=1576909574
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>AIOps platforms utilize big data, modern machine learning, and advanced analytics technologies to directly and indirectly enhance IT Operations functions. This session shows how to leverage Splunk IT Service Intelligence (ITSI) and the Machine Learning Toolkit (MLTK) to build a basic, self-learning recommendation engine. Your Operations Center will reap the benefits from having assisted recovery input, but this session does not stop there. It also will show you how to fully automate the recovery. If you have AIOps initiatives on your radar come on and participate in this session </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1119.mp4?podcast=1576909574" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Anatomy of a Successful Event Analytics Deployment [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1118.mp4?podcast=1576909574</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:14 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1118.mp4?podcast=1576909574</guid>
+      <comments>Anatomy of a Successful Event Analytics Deployment</comments>
+      <description>This session dives deep into event analytics deployments and how to execute them. From data onboarding to event consolidation and event reduction, this session covers proven strategies and tips and tricks to show you how to approach replacing an existing Event Management Systems while avoiding information overload for your operations staff. If you want to move off your legacy MoM and replace it with Splunk&#x27;s IT Service Intelligence you don&#x27;t want to miss this!&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Martin Wiser, ITOA Practitioner, Splunk&lt;br/&gt; Alok Bhide, Director of Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1118.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1118.pdf?podcast=1576909574
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+This session dives deep into event analytics deployments and how to execute them. From data onboarding to event consolidation and event reduction, this session covers proven strategies and tips and tricks to show you how to approach replacing an existing Event Management Systems while avoiding information overload for your operations staff. If you want to move off your legacy MoM and replace it with Splunk&#x27;s IT Service Intelligence you don&#x27;t want to miss this!
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Martin Wiser, ITOA Practitioner, Splunk&lt;br/&gt; Alok Bhide, Director of Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1118.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1118.pdf?podcast=1576909574
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>This session dives deep into event analytics deployments and how to execute them. From data onboarding to event consolidation and event reduction, this session covers proven strategies and tips and tricks to show you how to approach replacing an existing Event Management Systems while avoiding information overload for your operations staff. If you want to move off your legacy MoM and replace it with Splunk&#x27;s IT Service Intelligence you don&#x27;t want to miss this!</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1118.mp4?podcast=1576909574" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>A Prescriptive Design for Enterprise-Wide Alerts in IT Service Intelligence [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1514.mp4?podcast=1576909574</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:14 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1514.mp4?podcast=1576909574</guid>
+      <comments>A Prescriptive Design for Enterprise-Wide Alerts in IT Service Intelligence</comments>
+      <description>Producing meaningful, trusted alerts is the holy grail of any IT service monitoring tool, yet the road to get there is winding and perilous. While Splunk IT Service Intelligence is uniquely suited to convert machine data into actionable alerts, how to design your ITSI deployment to effectively produce, maintain, and scale alerts isn&#x27;t obvious, until now! In this talk, we&#x27;ll walk you through the alerting strategy GEHA implemented in conjunction with Splunk to achieve meaningful alerts show you a highly streamlined design that you can replicate in your deployment.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matt  Hasty, Sr. Engineer, GEHA&lt;br/&gt; Jeff Wiedemann, Staff SE and ITSI Master, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1514.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1514.pdf?podcast=1576909574
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Producing meaningful, trusted alerts is the holy grail of any IT service monitoring tool, yet the road to get there is winding and perilous. While Splunk IT Service Intelligence is uniquely suited to convert machine data into actionable alerts, how to design your ITSI deployment to effectively produce, maintain, and scale alerts isn&#x27;t obvious, until now! In this talk, we&#x27;ll walk you through the alerting strategy GEHA implemented in conjunction with Splunk to achieve meaningful alerts show you a highly streamlined design that you can replicate in your deployment.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matt  Hasty, Sr. Engineer, GEHA&lt;br/&gt; Jeff Wiedemann, Staff SE and ITSI Master, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1514.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1514.pdf?podcast=1576909574
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Producing meaningful, trusted alerts is the holy grail of any IT service monitoring tool, yet the road to get there is winding and perilous. While Splunk IT Service Intelligence is uniquely suited to convert machine data into actionable alerts, how to design your ITSI deployment to effectively produce, maintain, and scale alerts isn&#x27;t obvious, until now! In this talk, we&#x27;ll walk you through the alerting strategy GEHA implemented in conjunction with Splunk to achieve meaningful alerts show you a highly streamlined design that you can replicate in your deployment.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1514.mp4?podcast=1576909574" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Architecting Splunk for High Availability and Disaster Recovery [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN2067.mp4?podcast=1576909574</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:14 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN2067.mp4?podcast=1576909574</guid>
+      <comments>Architecting Splunk for High Availability and Disaster Recovery</comments>
+      <description>As Splunk Enterprise becomes more critical to organizations and business functions, it becomes crucial to maximize the uptime of the service. We&#x27;ll talk about general principles of resiliency/high availability and disaster recovery, and how they apply to a Splunk deployment. We&#x27;ll also discuss the various mechanisms for implementing them, levels of availability, relative advantages, and the costs of each.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sean Delaney, Principal Architect, Splunk&lt;br/&gt; Justin Hardeman, Platform Architect - Sales Engineering, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2067.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2067.pdf?podcast=1576909574
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+As Splunk Enterprise becomes more critical to organizations and business functions, it becomes crucial to maximize the uptime of the service. We&#x27;ll talk about general principles of resiliency/high availability and disaster recovery, and how they apply to a Splunk deployment. We&#x27;ll also discuss the various mechanisms for implementing them, levels of availability, relative advantages, and the costs of each.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sean Delaney, Principal Architect, Splunk&lt;br/&gt; Justin Hardeman, Platform Architect - Sales Engineering, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2067.pdf?podcast=1576909574"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2067.pdf?podcast=1576909574
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>As Splunk Enterprise becomes more critical to organizations and business functions, it becomes crucial to maximize the uptime of the service. We&#x27;ll talk about general principles of resiliency/high availability and disaster recovery, and how they apply to a Splunk deployment. We&#x27;ll also discuss the various mechanisms for implementing them, levels of availability, relative advantages, and the costs of each.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN2067.mp4?podcast=1576909574" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Building a Splunk SmartStore data platform with FlashBlade for high-volume datasets [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FNS2529.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FNS2529.mp4?podcast=1576909575</guid>
+      <comments>Building a Splunk SmartStore data platform with FlashBlade for high-volume datasets</comments>
+      <description>Splunk’s new, cloud native architecture SmartStore simplifies Indexer maintenance by 10X by disaggregating compute from storage. Learn how SmartStore with Pure Storage FlashBlade delivers dynamic scaling, storage efficiency and high performance to accelerate operational intelligence and security management. This session will cover new capabilities enabled by SmartStore, performance considerations and deployment best practices.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Vaughn Stewart, Pure Storage&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2529.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2529.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk’s new, cloud native architecture SmartStore simplifies Indexer maintenance by 10X by disaggregating compute from storage. Learn how SmartStore with Pure Storage FlashBlade delivers dynamic scaling, storage efficiency and high performance to accelerate operational intelligence and security management. This session will cover new capabilities enabled by SmartStore, performance considerations and deployment best practices.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Vaughn Stewart, Pure Storage&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2529.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2529.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk’s new, cloud native architecture SmartStore simplifies Indexer maintenance by 10X by disaggregating compute from storage. Learn how SmartStore with Pure Storage FlashBlade delivers dynamic scaling, storage efficiency and high performance to accelerate operational intelligence and security management. This session will cover new capabilities enabled by SmartStore, performance considerations and deployment best practices.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FNS2529.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Cover Your Assets: Protect Your Knowledge Objects from Yourself (and Others) - A Paychex story [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1315.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1315.mp4?podcast=1576909575</guid>
+      <comments>Cover Your Assets: Protect Your Knowledge Objects from Yourself (and Others) - A Paychex story</comments>
+      <description>&quot;Did we just lose ALL our knowledge objects? Do you know how much time and energy that was?&quot; After a destructive resync, Paychex lost two months of its knowledge object creations/modifications. We learned to be prepared if it were to ever happen again. How? It&#x27;s easier than you might think, and you don&#x27;t have to be an admin. You’ll learn how to proactively save your work (dashboards, reports, data models, MLTK experiments, ITSI glass tables, macros, views, etc.) and audit changes when they occur. You will leave the session knowing how to manage the ever-increasing amount of things you create. You&#x27;ll also have solutions that can save you time and effort from having to recreate lost/modified objects, including how to restore service faster. You also will come away with peace of mind knowing that you can take control of safeguarding and protecting your work, thereby covering your assets when a disaster happens.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Dustin Marling, Splunk App Developer, Paychex&lt;br/&gt; Eric Favreau, Service Health Operations Analyst, Paychex&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1315.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1315.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+&quot;Did we just lose ALL our knowledge objects? Do you know how much time and energy that was?&quot; After a destructive resync, Paychex lost two months of its knowledge object creations/modifications. We learned to be prepared if it were to ever happen again. How? It&#x27;s easier than you might think, and you don&#x27;t have to be an admin. You’ll learn how to proactively save your work (dashboards, reports, data models, MLTK experiments, ITSI glass tables, macros, views, etc.) and audit changes when they occur. You will leave the session knowing how to manage the ever-increasing amount of things you create. You&#x27;ll also have solutions that can save you time and effort from having to recreate lost/modified objects, including how to restore service faster. You also will come away with peace of mind knowing that you can take control of safeguarding and protecting your work, thereby covering your assets when a disaster happens.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Dustin Marling, Splunk App Developer, Paychex&lt;br/&gt; Eric Favreau, Service Health Operations Analyst, Paychex&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1315.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1315.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>&quot;Did we just lose ALL our knowledge objects? Do you know how much time and energy that was?&quot; After a destructive resync, Paychex lost two months of its knowledge object creations/modifications. We learned to be prepared if it were to ever happen again. How? It&#x27;s easier than you might think, and you don&#x27;t have to be an admin. You’ll learn how to proactively save your work (dashboards, reports, data models, MLTK experiments, ITSI glass tables, macros, views, etc.) and audit changes when they occur. You will leave the session knowing how to manage the ever-increasing amount of things you create. You&#x27;ll also have solutions that can save you time and effort from having to recreate lost/modified objects, including how to restore service faster. You also will come away with peace of mind knowing that you can take control of safeguarding and protecting your work, thereby covering your assets when a disaster happens.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1315.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Customer Service is as Easy as Pie with ITSI [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1670.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1670.mp4?podcast=1576909575</guid>
+      <comments>Customer Service is as Easy as Pie with ITSI</comments>
+      <description>Do you need to support thousands of people every day logging into your organization’s web applications? Customer service is important to Penn State University (PSU), and Splunk ITSI offered the perfect solution for health monitoring and data sharing between executive management and subject matter experts within the WebAccess team. At PSU, WebAccess is the Single Sign-On (SSO) solution supporting over 140,000 students, facility, and staff. ITSI’s Service Analyzer showcases the relationships among various SSO components: Active Directory, CoSign, Duo Two-Factor Authentication (2FA), Lightweight Directory Access Protocol (LDAP), Kerberos, and Shibboleth. Join us and learn how ITSI pioneered the recipe for PSU to isolate root cause slicing deep dives and allowed management to analyze performance on a glass table. Splunk’s ITSI continues to deliver valuable insights from back end systems to front end user interfaces, improving customer service. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Christina Miceli, Splunk System Design Engineer, Penn State University &lt;br/&gt; Sandy Leon, Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1670.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1670.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Do you need to support thousands of people every day logging into your organization’s web applications? Customer service is important to Penn State University (PSU), and Splunk ITSI offered the perfect solution for health monitoring and data sharing between executive management and subject matter experts within the WebAccess team. At PSU, WebAccess is the Single Sign-On (SSO) solution supporting over 140,000 students, facility, and staff. ITSI’s Service Analyzer showcases the relationships among various SSO components: Active Directory, CoSign, Duo Two-Factor Authentication (2FA), Lightweight Directory Access Protocol (LDAP), Kerberos, and Shibboleth. Join us and learn how ITSI pioneered the recipe for PSU to isolate root cause slicing deep dives and allowed management to analyze performance on a glass table. Splunk’s ITSI continues to deliver valuable insights from back end systems to front end user interfaces, improving customer service. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Christina Miceli, Splunk System Design Engineer, Penn State University &lt;br/&gt; Sandy Leon, Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1670.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1670.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Do you need to support thousands of people every day logging into your organization’s web applications? Customer service is important to Penn State University (PSU), and Splunk ITSI offered the perfect solution for health monitoring and data sharing between executive management and subject matter experts within the WebAccess team. At PSU, WebAccess is the Single Sign-On (SSO) solution supporting over 140,000 students, facility, and staff. ITSI’s Service Analyzer showcases the relationships among various SSO components: Active Directory, CoSign, Duo Two-Factor Authentication (2FA), Lightweight Directory Access Protocol (LDAP), Kerberos, and Shibboleth. Join us and learn how ITSI pioneered the recipe for PSU to isolate root cause slicing deep dives and allowed management to analyze performance on a glass table. Splunk’s ITSI continues to deliver valuable insights from back end systems to front end user interfaces, improving customer service. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1670.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Data Models: Bridging the Knowledge Gap to Work with Complex Data … Even Mainframe Data!  [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/ITS2579.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/ITS2579.mp4?podcast=1576909575</guid>
+      <comments>Data Models: Bridging the Knowledge Gap to Work with Complex Data … Even Mainframe Data! </comments>
+      <description>Do you have complex or obscure data?  Do users, without the necessary domain knowledge, struggle to work with this data?  Perhaps a Data Model can help bridge the knowledge gap.  This session will use valuable (but complex…and even scary) mainframe metrics as a working example of how to get users up and running fast by leveraging the power of a data model.  But, these principles are not just for mainframe.  They can equally apply to other data types and scenarios.  Not all users are well-versed in complex data structures and fields, but some are…so combine Subject Matter Expert (SME) knowledge with this great Splunk facility to make everyone’s life simpler.  Deliver real results in a very short time with little overhead or burden on users.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ian Hartley, Technology Architect, Syncsort&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2579.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2579.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Do you have complex or obscure data?  Do users, without the necessary domain knowledge, struggle to work with this data?  Perhaps a Data Model can help bridge the knowledge gap.  This session will use valuable (but complex…and even scary) mainframe metrics as a working example of how to get users up and running fast by leveraging the power of a data model.  But, these principles are not just for mainframe.  They can equally apply to other data types and scenarios.  Not all users are well-versed in complex data structures and fields, but some are…so combine Subject Matter Expert (SME) knowledge with this great Splunk facility to make everyone’s life simpler.  Deliver real results in a very short time with little overhead or burden on users.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ian Hartley, Technology Architect, Syncsort&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2579.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2579.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Do you have complex or obscure data?  Do users, without the necessary domain knowledge, struggle to work with this data?  Perhaps a Data Model can help bridge the knowledge gap.  This session will use valuable (but complex…and even scary) mainframe metrics as a working example of how to get users up and running fast by leveraging the power of a data model.  But, these principles are not just for mainframe.  They can equally apply to other data types and scenarios.  Not all users are well-versed in complex data structures and fields, but some are…so combine Subject Matter Expert (SME) knowledge with this great Splunk facility to make everyone’s life simpler.  Deliver real results in a very short time with little overhead or burden on users.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/ITS2579.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Deep Dive: How to use Splunk to protect the environment [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, AI/ML]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1576909575</guid>
+      <comments>Deep Dive: How to use Splunk to protect the environment</comments>
+      <description>Can Splunk help eliminate environmental risks and save the company money at the same time? The Alabama Department of Environmental Management (ADEM) sets standards defining the amount of Volatile Organic Compounds (VOCs) that can be safely released. Honda Manufacturing of Alabama (HMA) must adhere to those standards and track our compliance within the parameters set forth by the ADEM. Failure to comply with these standards will result in potentially damaging the environment and large fines. HMA uses a Regenerative Thermal Oven (RTO) to burn off pollutants from our paint department, which is controlled by an Allen Bradley Programmable Logic Controller (PLC). Using this PLC and the sensors built into the RTO, we collect individual chamber temperatures, fan speeds, exhaust temperatures, motor winding temperatures, motor vibrations, and fan vibrations. Using these readings and the Splunk Machine Learning Toolkit we try to predict if the temperature will be within the set range. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Charlie Studdard, Machine Data Analytics, Honda Manufacturing of Alabama&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, AI/ML
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Can Splunk help eliminate environmental risks and save the company money at the same time? The Alabama Department of Environmental Management (ADEM) sets standards defining the amount of Volatile Organic Compounds (VOCs) that can be safely released. Honda Manufacturing of Alabama (HMA) must adhere to those standards and track our compliance within the parameters set forth by the ADEM. Failure to comply with these standards will result in potentially damaging the environment and large fines. HMA uses a Regenerative Thermal Oven (RTO) to burn off pollutants from our paint department, which is controlled by an Allen Bradley Programmable Logic Controller (PLC). Using this PLC and the sensors built into the RTO, we collect individual chamber temperatures, fan speeds, exhaust temperatures, motor winding temperatures, motor vibrations, and fan vibrations. Using these readings and the Splunk Machine Learning Toolkit we try to predict if the temperature will be within the set range. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Charlie Studdard, Machine Data Analytics, Honda Manufacturing of Alabama&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Can Splunk help eliminate environmental risks and save the company money at the same time? The Alabama Department of Environmental Management (ADEM) sets standards defining the amount of Volatile Organic Compounds (VOCs) that can be safely released. Honda Manufacturing of Alabama (HMA) must adhere to those standards and track our compliance within the parameters set forth by the ADEM. Failure to comply with these standards will result in potentially damaging the environment and large fines. HMA uses a Regenerative Thermal Oven (RTO) to burn off pollutants from our paint department, which is controlled by an Allen Bradley Programmable Logic Controller (PLC). Using this PLC and the sensors built into the RTO, we collect individual chamber temperatures, fan speeds, exhaust temperatures, motor winding temperatures, motor vibrations, and fan vibrations. Using these readings and the Splunk Machine Learning Toolkit we try to predict if the temperature will be within the set range. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Delivering real-time sales journey analytics and IT operational health with IT Service Intelligence [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1868.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1868.mp4?podcast=1576909575</guid>
+      <comments>Delivering real-time sales journey analytics and IT operational health with IT Service Intelligence</comments>
+      <description>Splunk and ITSI are already loved by IT Operations and Application Support teams - but can you help your Business Operations teams love them too?Splunk’s unique approach to AIOps and monitoring empowers every organization in your enterprise – from IT to Apps to Business – to utilise the same data for multiple use cases and user communities.  Through this session, you’ll learn how to implement a logging framework that delivers across multiple channels.  Key concepts will include ingesting AWS data, ITSI KPI base searches, entity filtering, and APM techniques.  Join this session to learn how to extend your Splunk usage with business KPIs and perform sales journey analytics to grow your list of stakeholders.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Stuart Robertson, Consulting Director, iDelta&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1868.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1868.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk and ITSI are already loved by IT Operations and Application Support teams - but can you help your Business Operations teams love them too?Splunk’s unique approach to AIOps and monitoring empowers every organization in your enterprise – from IT to Apps to Business – to utilise the same data for multiple use cases and user communities.  Through this session, you’ll learn how to implement a logging framework that delivers across multiple channels.  Key concepts will include ingesting AWS data, ITSI KPI base searches, entity filtering, and APM techniques.  Join this session to learn how to extend your Splunk usage with business KPIs and perform sales journey analytics to grow your list of stakeholders.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Stuart Robertson, Consulting Director, iDelta&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1868.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1868.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk and ITSI are already loved by IT Operations and Application Support teams - but can you help your Business Operations teams love them too?Splunk’s unique approach to AIOps and monitoring empowers every organization in your enterprise – from IT to Apps to Business – to utilise the same data for multiple use cases and user communities.  Through this session, you’ll learn how to implement a logging framework that delivers across multiple channels.  Key concepts will include ingesting AWS data, ITSI KPI base searches, entity filtering, and APM techniques.  Join this session to learn how to extend your Splunk usage with business KPIs and perform sales journey analytics to grow your list of stakeholders.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1868.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Differentiating Evil from Benign in the Normally Abnormal World [Splunk Enterprise Security, Splunk IT Service Intelligence, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SECS2917.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SECS2917.mp4?podcast=1576909575</guid>
+      <comments>Differentiating Evil from Benign in the Normally Abnormal World</comments>
+      <description>Have you ever been positive you had found evil, only to realize it was normal after hours of triage and work? We have all heard and love “KNOW NORMAL FIND EVIL,” but how hard is it to actually know normal? The MITRE ATT&amp;CK Framework gives defenders a better map to “find evil,” but how can this framework be used to “know normal”?Rick will discuss how knowing normal in a world of abnormal is harder than one thinks, and how addressing the actual root cause of evil can improve the technology industry as a whole.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rick  McElroy, Principal Security Strategist , Carbon Black&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk IT Service Intelligence, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Have you ever been positive you had found evil, only to realize it was normal after hours of triage and work? We have all heard and love “KNOW NORMAL FIND EVIL,” but how hard is it to actually know normal? The MITRE ATT&amp;CK Framework gives defenders a better map to “find evil,” but how can this framework be used to “know normal”?Rick will discuss how knowing normal in a world of abnormal is harder than one thinks, and how addressing the actual root cause of evil can improve the technology industry as a whole.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rick  McElroy, Principal Security Strategist , Carbon Black&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Have you ever been positive you had found evil, only to realize it was normal after hours of triage and work? We have all heard and love “KNOW NORMAL FIND EVIL,” but how hard is it to actually know normal? The MITRE ATT&amp;CK Framework gives defenders a better map to “find evil,” but how can this framework be used to “know normal”?Rick will discuss how knowing normal in a world of abnormal is harder than one thinks, and how addressing the actual root cause of evil can improve the technology industry as a whole.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SECS2917.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Distributed Tracing in Splunk: Get end-to-end visibility into application performance with Splunk and OpenTracing  [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2095.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2095.mp4?podcast=1576909575</guid>
+      <comments>Distributed Tracing in Splunk: Get end-to-end visibility into application performance with Splunk and OpenTracing </comments>
+      <description>Are you addressing the challenges of gaining visibility into a distributed microservices environment? Is your organization considering using distributed tracing to augment your APM capabilities? Have you heard of OpenTracing and want to learn what capabilities it gives you and how to get started? Come learn about the OpenTracing project and how you can use it with Splunk to get a complete picture of your application environment using logs, metrics, and traces. We&#x27;ll go from the basics of what the project is to how to get started integrating with Splunk. We&#x27;ll also review an example of a large telco customer to see how they got started with OpenTracing and how they rolled it out in their application environments.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Gary Burgett, Staff Sales Engineer, Splunk&lt;br/&gt; Dave Cornette, Enterprise Monitoring Architect, T-Mobile&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2095.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2095.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Are you addressing the challenges of gaining visibility into a distributed microservices environment? Is your organization considering using distributed tracing to augment your APM capabilities? Have you heard of OpenTracing and want to learn what capabilities it gives you and how to get started? Come learn about the OpenTracing project and how you can use it with Splunk to get a complete picture of your application environment using logs, metrics, and traces. We&#x27;ll go from the basics of what the project is to how to get started integrating with Splunk. We&#x27;ll also review an example of a large telco customer to see how they got started with OpenTracing and how they rolled it out in their application environments.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Gary Burgett, Staff Sales Engineer, Splunk&lt;br/&gt; Dave Cornette, Enterprise Monitoring Architect, T-Mobile&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2095.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2095.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Are you addressing the challenges of gaining visibility into a distributed microservices environment? Is your organization considering using distributed tracing to augment your APM capabilities? Have you heard of OpenTracing and want to learn what capabilities it gives you and how to get started? Come learn about the OpenTracing project and how you can use it with Splunk to get a complete picture of your application environment using logs, metrics, and traces. We&#x27;ll go from the basics of what the project is to how to get started integrating with Splunk. We&#x27;ll also review an example of a large telco customer to see how they got started with OpenTracing and how they rolled it out in their application environments.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2095.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Down in the Weeds, Up in the Cloud: IT Ops [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1433.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1433.mp4?podcast=1576909575</guid>
+      <comments>Down in the Weeds, Up in the Cloud: IT Ops</comments>
+      <description>Analytics Workspaces, Application Insights, Azure Monitor, O365 Admin Centers, just a few of the many Microsoft tools required to monitor and interrogate information from Azure &amp; Office 365. Getting the valuable intel and insights from your Azure and Office 365 environments should be easy, and effortless. Throw on your Splunk hoodie and join Ryan as we Splunk our way through all things IT in Azure, Office365 as part of the Microsoft-as-a-Service world! Infrastructure management, real-time billing, SLA monitoring, capacity planning, all quick, all easy, all powerful with Splunk!&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ry Lait, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1433.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1433.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Analytics Workspaces, Application Insights, Azure Monitor, O365 Admin Centers, just a few of the many Microsoft tools required to monitor and interrogate information from Azure &amp; Office 365. Getting the valuable intel and insights from your Azure and Office 365 environments should be easy, and effortless. Throw on your Splunk hoodie and join Ryan as we Splunk our way through all things IT in Azure, Office365 as part of the Microsoft-as-a-Service world! Infrastructure management, real-time billing, SLA monitoring, capacity planning, all quick, all easy, all powerful with Splunk!
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ry Lait, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1433.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1433.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Analytics Workspaces, Application Insights, Azure Monitor, O365 Admin Centers, just a few of the many Microsoft tools required to monitor and interrogate information from Azure &amp; Office 365. Getting the valuable intel and insights from your Azure and Office 365 environments should be easy, and effortless. Throw on your Splunk hoodie and join Ryan as we Splunk our way through all things IT in Azure, Office365 as part of the Microsoft-as-a-Service world! Infrastructure management, real-time billing, SLA monitoring, capacity planning, all quick, all easy, all powerful with Splunk!</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1433.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Every Minute Counts: Integrating Splunk and VictorOps to Accelerate Incident Response [Splunk Enterprise, Splunk IT Service Intelligence, VictorOps]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1576909575</guid>
+      <comments>Every Minute Counts: Integrating Splunk and VictorOps to Accelerate Incident Response</comments>
+      <description>Splunk/VictorOps allows your data to talk to people, and your people to talk to data, all while improving MTTR/MTTI. You’re already using Splunk today to get cool dashboards, ask questions of your data with search, and trigger important alerts based on data that’s of interest to you. But, just because alerts are important doesn’t mean they are for everyone. And for those who should respond to the alert, it’s important to get the alert into their hands immediately. Transitioning to a modern NOC, or “New Operations Center,” Splunk and VictorOps enable teams to collaboratively solve issues by providing on-call users with actionable alerts that allow for smarter investigation, faster mobilization, and lower mean time to resolution. In this session we’ll take a look under the hood at different Splunk and VictorOps integrations.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kirk  Kirk, ITOA Architect , Splunk&lt;br/&gt; Dylan Klausing, Sales Engineer Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, VictorOps
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk/VictorOps allows your data to talk to people, and your people to talk to data, all while improving MTTR/MTTI. You’re already using Splunk today to get cool dashboards, ask questions of your data with search, and trigger important alerts based on data that’s of interest to you. But, just because alerts are important doesn’t mean they are for everyone. And for those who should respond to the alert, it’s important to get the alert into their hands immediately. Transitioning to a modern NOC, or “New Operations Center,” Splunk and VictorOps enable teams to collaboratively solve issues by providing on-call users with actionable alerts that allow for smarter investigation, faster mobilization, and lower mean time to resolution. In this session we’ll take a look under the hood at different Splunk and VictorOps integrations.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kirk  Kirk, ITOA Architect , Splunk&lt;br/&gt; Dylan Klausing, Sales Engineer Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk/VictorOps allows your data to talk to people, and your people to talk to data, all while improving MTTR/MTTI. You’re already using Splunk today to get cool dashboards, ask questions of your data with search, and trigger important alerts based on data that’s of interest to you. But, just because alerts are important doesn’t mean they are for everyone. And for those who should respond to the alert, it’s important to get the alert into their hands immediately. Transitioning to a modern NOC, or “New Operations Center,” Splunk and VictorOps enable teams to collaboratively solve issues by providing on-call users with actionable alerts that allow for smarter investigation, faster mobilization, and lower mean time to resolution. In this session we’ll take a look under the hood at different Splunk and VictorOps integrations.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>“Excuse Me! Your Microphone isn’t on” – supporting 400 teaching spaces with Splunk &amp; ITSI – A case study [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1589.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1589.mp4?podcast=1576909575</guid>
+      <comments>“Excuse Me! Your Microphone isn’t on” – supporting 400 teaching spaces with Splunk &amp; ITSI – A case study</comments>
+      <description>Do you remember the time when you had to attend lectures in person? Monash University has extended teaching hours and stopped repeating lectures. To provide flexibility to students and release pressure on finite campus facilities, lectures are now live streamed and are guaranteed to cover 100% of the classroom content. We are using Splunk and IT Service Intelligence (ITSI) to help monitor live streaming of lectures. It is impossible to manually monitor hundreds of teaching spaces in real-time and keep track of lecture schedules, the status of AV devices, microphones, and audio signals. Come and see how we at Monash University use Splunk ITSI glass tables to rule them all! Using ITSI we get real-time insights into service health and entity-level alerting based on ITSI thresholds.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Paul  Brasier, Service Improvement Manager -Technical Services, Monash University&lt;br/&gt; Ed Messina, IT Security and Risk Manager, Monash University&lt;br/&gt; Rashmi Pokharel, Systems Engineer, Monash University&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1589.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1589.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Do you remember the time when you had to attend lectures in person? Monash University has extended teaching hours and stopped repeating lectures. To provide flexibility to students and release pressure on finite campus facilities, lectures are now live streamed and are guaranteed to cover 100% of the classroom content. We are using Splunk and IT Service Intelligence (ITSI) to help monitor live streaming of lectures. It is impossible to manually monitor hundreds of teaching spaces in real-time and keep track of lecture schedules, the status of AV devices, microphones, and audio signals. Come and see how we at Monash University use Splunk ITSI glass tables to rule them all! Using ITSI we get real-time insights into service health and entity-level alerting based on ITSI thresholds.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Paul  Brasier, Service Improvement Manager -Technical Services, Monash University&lt;br/&gt; Ed Messina, IT Security and Risk Manager, Monash University&lt;br/&gt; Rashmi Pokharel, Systems Engineer, Monash University&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1589.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1589.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Do you remember the time when you had to attend lectures in person? Monash University has extended teaching hours and stopped repeating lectures. To provide flexibility to students and release pressure on finite campus facilities, lectures are now live streamed and are guaranteed to cover 100% of the classroom content. We are using Splunk and IT Service Intelligence (ITSI) to help monitor live streaming of lectures. It is impossible to manually monitor hundreds of teaching spaces in real-time and keep track of lecture schedules, the status of AV devices, microphones, and audio signals. Come and see how we at Monash University use Splunk ITSI glass tables to rule them all! Using ITSI we get real-time insights into service health and entity-level alerting based on ITSI thresholds.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1589.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Fiserv Turns ITSI Up to 11 – with Powerful KPIs, Better Performance, &amp; Custom Alerts [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2184.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2184.mp4?podcast=1576909575</guid>
+      <comments>Fiserv Turns ITSI Up to 11 – with Powerful KPIs, Better Performance, &amp; Custom Alerts</comments>
+      <description>ITSI provides a platform to turn your never-ending stream of app and infrastructure data into manageable KPIs that you can act on, but how do you manage the number of events ITSI detects? What if you need to extend ITSI with additional capabilities in order to merge your alerts with your support team&#x27;s response processes? We will turn ITSI up to 11 by adding the concept of &quot;platforms&quot; as a collection of related services, support reoccurring maintenance windows, and generate rich alerts that include information such as which entities are impacted and what the KPI values are. These concepts are combined so that all the problems in your platform generate a single alert with alert text rich enough that that your support teams can respond without opening ITSI, and we will do it all with just SPL.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Peter Thomas, Manager, Application Monitoring, Fiserv&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2184.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2184.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+ITSI provides a platform to turn your never-ending stream of app and infrastructure data into manageable KPIs that you can act on, but how do you manage the number of events ITSI detects? What if you need to extend ITSI with additional capabilities in order to merge your alerts with your support team&#x27;s response processes? We will turn ITSI up to 11 by adding the concept of &quot;platforms&quot; as a collection of related services, support reoccurring maintenance windows, and generate rich alerts that include information such as which entities are impacted and what the KPI values are. These concepts are combined so that all the problems in your platform generate a single alert with alert text rich enough that that your support teams can respond without opening ITSI, and we will do it all with just SPL.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Peter Thomas, Manager, Application Monitoring, Fiserv&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2184.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2184.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>ITSI provides a platform to turn your never-ending stream of app and infrastructure data into manageable KPIs that you can act on, but how do you manage the number of events ITSI detects? What if you need to extend ITSI with additional capabilities in order to merge your alerts with your support team&#x27;s response processes? We will turn ITSI up to 11 by adding the concept of &quot;platforms&quot; as a collection of related services, support reoccurring maintenance windows, and generate rich alerts that include information such as which entities are impacted and what the KPI values are. These concepts are combined so that all the problems in your platform generate a single alert with alert text rich enough that that your support teams can respond without opening ITSI, and we will do it all with just SPL.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2184.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>From 0 to 6 Terabytes Real Quick: Cox Automotive’s Fast and Furious Splunk Adoption [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1922.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1922.mp4?podcast=1576909575</guid>
+      <comments>From 0 to 6 Terabytes Real Quick: Cox Automotive’s Fast and Furious Splunk Adoption</comments>
+      <description>How do you control a race car with unlimited horsepower and make sure it doesn’t go off the track? With over 25 unique business affiliates within our enterprise and hundreds of application, engineering, and business teams driving rapid adoption, Cox Automotive’s Splunk Cloud deployment is our very own race car. Come sit in the passenger seat as we recap our ride, which is filled with explosive data ingest rates, unpredictable search slowdowns, out of control data drifts, and rapidly increasing end user requirements. Let our experiences and in-house solutions help you navigate the potholes you will encounter when dealing with the seemingly unstoppable growth rate of an enterprise-level Splunk distributed deployment.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; John Lim, Systems Engineer, Cox Automotive&lt;br/&gt; Jason Spears, Lead Systems Engineer, Cox Automotive&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1922.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1922.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+How do you control a race car with unlimited horsepower and make sure it doesn’t go off the track? With over 25 unique business affiliates within our enterprise and hundreds of application, engineering, and business teams driving rapid adoption, Cox Automotive’s Splunk Cloud deployment is our very own race car. Come sit in the passenger seat as we recap our ride, which is filled with explosive data ingest rates, unpredictable search slowdowns, out of control data drifts, and rapidly increasing end user requirements. Let our experiences and in-house solutions help you navigate the potholes you will encounter when dealing with the seemingly unstoppable growth rate of an enterprise-level Splunk distributed deployment.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; John Lim, Systems Engineer, Cox Automotive&lt;br/&gt; Jason Spears, Lead Systems Engineer, Cox Automotive&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1922.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1922.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>How do you control a race car with unlimited horsepower and make sure it doesn’t go off the track? With over 25 unique business affiliates within our enterprise and hundreds of application, engineering, and business teams driving rapid adoption, Cox Automotive’s Splunk Cloud deployment is our very own race car. Come sit in the passenger seat as we recap our ride, which is filled with explosive data ingest rates, unpredictable search slowdowns, out of control data drifts, and rapidly increasing end user requirements. Let our experiences and in-house solutions help you navigate the potholes you will encounter when dealing with the seemingly unstoppable growth rate of an enterprise-level Splunk distributed deployment.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1922.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>How 3M is Transforming SAP ERP Operations through AIOPS [Splunk Enterprise, Splunk IT Service Intelligence, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1642.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1642.mp4?podcast=1576909575</guid>
+      <comments>How 3M is Transforming SAP ERP Operations through AIOPS</comments>
+      <description>Discover how 3M is using Splunk to get more value and insights from their mission-critical SAP deployment and its complex legacy environment. You can see how far we have we come and where  our vision will take us. Managing SAP is a complex and mission-critical challenge. With its proprietary and often-customized inner workings, SAP has become synonymous with complexity and has long been a difficult challenge for IT departments around the globe to manage. With even short outages carrying the potential of large impacts, it is more important than ever for large ERP customers to bring their systems management and monitoring practices into the data-driven world. In this session, learn what transformational outcomes have been and are being achieved as this 116-year-old global manufacturer partners with Splunk to embrace and overcome ERP and legacy operational data chaos.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Claw Clawson, SplunkYoda, Splunk&lt;br/&gt; Michael Flint, IT Operations Manager, 3M&lt;br/&gt; Nathan Carr, DevOps Engineer, 3M&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Discover how 3M is using Splunk to get more value and insights from their mission-critical SAP deployment and its complex legacy environment. You can see how far we have we come and where  our vision will take us. Managing SAP is a complex and mission-critical challenge. With its proprietary and often-customized inner workings, SAP has become synonymous with complexity and has long been a difficult challenge for IT departments around the globe to manage. With even short outages carrying the potential of large impacts, it is more important than ever for large ERP customers to bring their systems management and monitoring practices into the data-driven world. In this session, learn what transformational outcomes have been and are being achieved as this 116-year-old global manufacturer partners with Splunk to embrace and overcome ERP and legacy operational data chaos.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Claw Clawson, SplunkYoda, Splunk&lt;br/&gt; Michael Flint, IT Operations Manager, 3M&lt;br/&gt; Nathan Carr, DevOps Engineer, 3M&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Discover how 3M is using Splunk to get more value and insights from their mission-critical SAP deployment and its complex legacy environment. You can see how far we have we come and where  our vision will take us. Managing SAP is a complex and mission-critical challenge. With its proprietary and often-customized inner workings, SAP has become synonymous with complexity and has long been a difficult challenge for IT departments around the globe to manage. With even short outages carrying the potential of large impacts, it is more important than ever for large ERP customers to bring their systems management and monitoring practices into the data-driven world. In this session, learn what transformational outcomes have been and are being achieved as this 116-year-old global manufacturer partners with Splunk to embrace and overcome ERP and legacy operational data chaos.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1642.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Infrastructure and System Monitoring with Splunk and Telegraf [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1258.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1258.mp4?podcast=1576909575</guid>
+      <comments>Infrastructure and System Monitoring with Splunk and Telegraf</comments>
+      <description>Telegraf is a open source tool that is used for collecting metrics from a variety of inputs, including system data (CPU, memory, disk, and network), docker, MySQL, etc. Telegraf (as of v1.8) supports a &quot;splunkmetric&quot; serializer for native ingest into Splunk&#x27;s metric store using a variety of Telegraf&#x27;s output modules, including file outputs, and HTTP with the ability to include HEC-required fields. Telegraf can be deployed as a stand-alone daemon or as a Splunk application that can be pushed out from deployers, masters, and the like. We&#x27;ll investigate the various integrations with Telegraf and Splunk including using Telegraf as the system to feed Splunk&#x27;s App for Infrastructure (in lieu of collectd), custom dashboards, as well as integrations with ITSI. With Telegraf&#x27;s multitude of inputs, outputs, and a nearly universal run-time, it&#x27;s a fantastic tool to add to your system monitoring workflows.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Lance O&#x27;Connor, Distinguished Engineer, TiVo Inc.&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1258.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1258.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Telegraf is a open source tool that is used for collecting metrics from a variety of inputs, including system data (CPU, memory, disk, and network), docker, MySQL, etc. Telegraf (as of v1.8) supports a &quot;splunkmetric&quot; serializer for native ingest into Splunk&#x27;s metric store using a variety of Telegraf&#x27;s output modules, including file outputs, and HTTP with the ability to include HEC-required fields. Telegraf can be deployed as a stand-alone daemon or as a Splunk application that can be pushed out from deployers, masters, and the like. We&#x27;ll investigate the various integrations with Telegraf and Splunk including using Telegraf as the system to feed Splunk&#x27;s App for Infrastructure (in lieu of collectd), custom dashboards, as well as integrations with ITSI. With Telegraf&#x27;s multitude of inputs, outputs, and a nearly universal run-time, it&#x27;s a fantastic tool to add to your system monitoring workflows.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Lance O&#x27;Connor, Distinguished Engineer, TiVo Inc.&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1258.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1258.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Telegraf is a open source tool that is used for collecting metrics from a variety of inputs, including system data (CPU, memory, disk, and network), docker, MySQL, etc. Telegraf (as of v1.8) supports a &quot;splunkmetric&quot; serializer for native ingest into Splunk&#x27;s metric store using a variety of Telegraf&#x27;s output modules, including file outputs, and HTTP with the ability to include HEC-required fields. Telegraf can be deployed as a stand-alone daemon or as a Splunk application that can be pushed out from deployers, masters, and the like. We&#x27;ll investigate the various integrations with Telegraf and Splunk including using Telegraf as the system to feed Splunk&#x27;s App for Infrastructure (in lieu of collectd), custom dashboards, as well as integrations with ITSI. With Telegraf&#x27;s multitude of inputs, outputs, and a nearly universal run-time, it&#x27;s a fantastic tool to add to your system monitoring workflows.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1258.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Integrating with improved visibility and insight - with IBM Z in your hybrid multicloud [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/ITS2617.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/ITS2617.mp4?podcast=1576909575</guid>
+      <comments>Integrating with improved visibility and insight - with IBM Z in your hybrid multicloud</comments>
+      <description>IBM Z continues to be the cornerstone of the global economy powering the world&#x27;s largest banks, retailers, airlines and insurance companies.   With the adoption of hybrid multicloud a reality for today&#x27;s fast moving businesses, the mainframe is no longer isolated from the rest of the IT infrastructure and is now an integral part of your cloud strategy.   As you expose and integrate your data and applications through APIs and look to gain further insight, any lack of visibility impacts your business&#x27;s ability to deliver key services .  Learn how IBM is not only providing access to the volumes of IBM Z machine data but is also providing valuable insight into that data to both operations and  lines of business. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Dan Wiegand, Senior Offering Manager, IBM&lt;br/&gt; Tony Papageorgiou, Offering Manager for API Enablement on IBM Z, IBM&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2617.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2617.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+IBM Z continues to be the cornerstone of the global economy powering the world&#x27;s largest banks, retailers, airlines and insurance companies.   With the adoption of hybrid multicloud a reality for today&#x27;s fast moving businesses, the mainframe is no longer isolated from the rest of the IT infrastructure and is now an integral part of your cloud strategy.   As you expose and integrate your data and applications through APIs and look to gain further insight, any lack of visibility impacts your business&#x27;s ability to deliver key services .  Learn how IBM is not only providing access to the volumes of IBM Z machine data but is also providing valuable insight into that data to both operations and  lines of business. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Dan Wiegand, Senior Offering Manager, IBM&lt;br/&gt; Tony Papageorgiou, Offering Manager for API Enablement on IBM Z, IBM&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2617.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2617.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>IBM Z continues to be the cornerstone of the global economy powering the world&#x27;s largest banks, retailers, airlines and insurance companies.   With the adoption of hybrid multicloud a reality for today&#x27;s fast moving businesses, the mainframe is no longer isolated from the rest of the IT infrastructure and is now an integral part of your cloud strategy.   As you expose and integrate your data and applications through APIs and look to gain further insight, any lack of visibility impacts your business&#x27;s ability to deliver key services .  Learn how IBM is not only providing access to the volumes of IBM Z machine data but is also providing valuable insight into that data to both operations and  lines of business. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/ITS2617.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Introduction to monitoring business operations with Acceleris’ party dashboard [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1623.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1623.mp4?podcast=1576909575</guid>
+      <comments>Introduction to monitoring business operations with Acceleris’ party dashboard</comments>
+      <description>Why should running a business feel any different than throwing a party? To demonstrate how Splunk can be used to monitor and manage business operations, the DATA Mavericks team at Acceleris has iteratively perfected its Party Dashboard. It started out as a gimmick at the inauguration party of the company&#x27;s new headquarters, but now the Party Dashboard demonstrates how Splunk’s dashboarding helps any team get real-time visibility into any operation. Join this session to learn why they chose the relevant metrics, how they collected and fed the data to Splunk, and what meaningful insights were generated as a fun introductory example of using Splunk to get visibility into your business operations.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; OJ Stapleton, Data / Tech Master, Data Mavericks by Acceleris&lt;br/&gt; Martin Gerber, Crunching Master, Acceleris AG&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1623.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1623.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Why should running a business feel any different than throwing a party? To demonstrate how Splunk can be used to monitor and manage business operations, the DATA Mavericks team at Acceleris has iteratively perfected its Party Dashboard. It started out as a gimmick at the inauguration party of the company&#x27;s new headquarters, but now the Party Dashboard demonstrates how Splunk’s dashboarding helps any team get real-time visibility into any operation. Join this session to learn why they chose the relevant metrics, how they collected and fed the data to Splunk, and what meaningful insights were generated as a fun introductory example of using Splunk to get visibility into your business operations.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; OJ Stapleton, Data / Tech Master, Data Mavericks by Acceleris&lt;br/&gt; Martin Gerber, Crunching Master, Acceleris AG&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1623.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1623.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Why should running a business feel any different than throwing a party? To demonstrate how Splunk can be used to monitor and manage business operations, the DATA Mavericks team at Acceleris has iteratively perfected its Party Dashboard. It started out as a gimmick at the inauguration party of the company&#x27;s new headquarters, but now the Party Dashboard demonstrates how Splunk’s dashboarding helps any team get real-time visibility into any operation. Join this session to learn why they chose the relevant metrics, how they collected and fed the data to Splunk, and what meaningful insights were generated as a fun introductory example of using Splunk to get visibility into your business operations.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1623.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Just a normal day in the office – Data driven business process improvements for a global supply chain company. [Splunk Cloud, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1512.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1512.mp4?podcast=1576909575</guid>
+      <comments>Just a normal day in the office – Data driven business process improvements for a global supply chain company.</comments>
+      <description>“Our IT-powered business processes are too slow.” Does this sound familiar? If so, that is usually the perfect starting point to dig in and start improving them. Unfortunately, specific data that could help with that effort are not available – normally. In this session we will show you how we at Arvato Supply Chain Solutions got the data we needed and used it to improve the collaboration between IT and business. You will learn how we connected different IT systems such as SAP and conveyor line to Splunk Cloud, and how this helped us to analyze business processes with IT Service Intelligence (ITSI). And, as the icing on the cake, we give you a sneak peak of the machine learning algorithm we implemented to continuously improve our business processes.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ralf  Walkenhorst, ITOA Specialist, Splunk&lt;br/&gt; Holger Diekhoff, Manager Operational Intelligence, Arvato Supply Chain Solutions&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1512.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1512.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Cloud, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+“Our IT-powered business processes are too slow.” Does this sound familiar? If so, that is usually the perfect starting point to dig in and start improving them. Unfortunately, specific data that could help with that effort are not available – normally. In this session we will show you how we at Arvato Supply Chain Solutions got the data we needed and used it to improve the collaboration between IT and business. You will learn how we connected different IT systems such as SAP and conveyor line to Splunk Cloud, and how this helped us to analyze business processes with IT Service Intelligence (ITSI). And, as the icing on the cake, we give you a sneak peak of the machine learning algorithm we implemented to continuously improve our business processes.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ralf  Walkenhorst, ITOA Specialist, Splunk&lt;br/&gt; Holger Diekhoff, Manager Operational Intelligence, Arvato Supply Chain Solutions&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1512.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1512.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>“Our IT-powered business processes are too slow.” Does this sound familiar? If so, that is usually the perfect starting point to dig in and start improving them. Unfortunately, specific data that could help with that effort are not available – normally. In this session we will show you how we at Arvato Supply Chain Solutions got the data we needed and used it to improve the collaboration between IT and business. You will learn how we connected different IT systems such as SAP and conveyor line to Splunk Cloud, and how this helped us to analyze business processes with IT Service Intelligence (ITSI). And, as the icing on the cake, we give you a sneak peak of the machine learning algorithm we implemented to continuously improve our business processes.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1512.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Los Angeles World Airports - Streamlining event management with IT Service Intelligence (ITSI) [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1564.mp4?podcast=1576909575</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:15 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1564.mp4?podcast=1576909575</guid>
+      <comments>Los Angeles World Airports - Streamlining event management with IT Service Intelligence (ITSI)</comments>
+      <description>Los Angeles World Airport has chosen Splunk&#x27;s ITSI as their centralized event/alert management platform. We’ve consolidated alerts/events from multiple management platforms across the enterprise, reducing help desk churn by grouping similar events, and evaluating the results against smart Key Performance Indicator (KPI) thresholds so that only actionable alerts or events are processed. In addition, we’ve broken down the legacy data siloes through the use of service definitions, glass tables, and deep-dives, providing better insight for all team members. Lastly, we’ve automated ITSI service and dependency creation via the Splunk ServiceNow bi-direction integration App. Plan top attend this session and you will learn how we’ve increased visibility (making data available for everyone); increased efficiency by reducing alert/event noise; improved resolution using ITSI Smart KPIs; and implemented auto service creation via ServiceNow &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kelcy Taylor, SLED Account Manager, Splunk&lt;br/&gt; Shahla  Dallalzadeh, IT Manager, Los Angeles World Airports&lt;br/&gt; Michael Friedhoff, Director &amp; Lead Architect, Wipro Ltd.&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1564.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1564.pdf?podcast=1576909575
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Los Angeles World Airport has chosen Splunk&#x27;s ITSI as their centralized event/alert management platform. We’ve consolidated alerts/events from multiple management platforms across the enterprise, reducing help desk churn by grouping similar events, and evaluating the results against smart Key Performance Indicator (KPI) thresholds so that only actionable alerts or events are processed. In addition, we’ve broken down the legacy data siloes through the use of service definitions, glass tables, and deep-dives, providing better insight for all team members. Lastly, we’ve automated ITSI service and dependency creation via the Splunk ServiceNow bi-direction integration App. Plan top attend this session and you will learn how we’ve increased visibility (making data available for everyone); increased efficiency by reducing alert/event noise; improved resolution using ITSI Smart KPIs; and implemented auto service creation via ServiceNow 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kelcy Taylor, SLED Account Manager, Splunk&lt;br/&gt; Shahla  Dallalzadeh, IT Manager, Los Angeles World Airports&lt;br/&gt; Michael Friedhoff, Director &amp; Lead Architect, Wipro Ltd.&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1564.pdf?podcast=1576909575"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1564.pdf?podcast=1576909575
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Los Angeles World Airport has chosen Splunk&#x27;s ITSI as their centralized event/alert management platform. We’ve consolidated alerts/events from multiple management platforms across the enterprise, reducing help desk churn by grouping similar events, and evaluating the results against smart Key Performance Indicator (KPI) thresholds so that only actionable alerts or events are processed. In addition, we’ve broken down the legacy data siloes through the use of service definitions, glass tables, and deep-dives, providing better insight for all team members. Lastly, we’ve automated ITSI service and dependency creation via the Splunk ServiceNow bi-direction integration App. Plan top attend this session and you will learn how we’ve increased visibility (making data available for everyone); increased efficiency by reducing alert/event noise; improved resolution using ITSI Smart KPIs; and implemented auto service creation via ServiceNow </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1564.mp4?podcast=1576909575" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Monitoring your VMWare vSphere Environment with Splunk [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1766.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1766.mp4?podcast=1576909576</guid>
+      <comments>Monitoring your VMWare vSphere Environment with Splunk</comments>
+      <description>Siloed IT monitoring for Virtualization struggles to scale as teams use different tools to monitor the same IT environment, increasing complexity and decreasing productivity. Imagine analysts, admins and virtualization teams collaborating and troubleshooting on a single platform. No more finger pointing, no more “my tool says”, no more data disagreements. Use Splunk for centralized infrastructure monitoring of your virtualized environment. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ian Torbett, Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1766.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1766.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Siloed IT monitoring for Virtualization struggles to scale as teams use different tools to monitor the same IT environment, increasing complexity and decreasing productivity. Imagine analysts, admins and virtualization teams collaborating and troubleshooting on a single platform. No more finger pointing, no more “my tool says”, no more data disagreements. Use Splunk for centralized infrastructure monitoring of your virtualized environment. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ian Torbett, Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1766.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1766.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Siloed IT monitoring for Virtualization struggles to scale as teams use different tools to monitor the same IT environment, increasing complexity and decreasing productivity. Imagine analysts, admins and virtualization teams collaborating and troubleshooting on a single platform. No more finger pointing, no more “my tool says”, no more data disagreements. Use Splunk for centralized infrastructure monitoring of your virtualized environment. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1766.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Next Generation Smart SOC [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1576909576</guid>
+      <comments>Next Generation Smart SOC</comments>
+      <description>The mega event Expo brings together ideas, innovations, and inventions is will open its doors in the UAE on 20 October 2020 for a period of six months. This celebration of human ingenuity offers a glimpse into the future and is anticipated to attract 25 million visits, 70 percent of those visitors from 190 countries. The Expo 2020 Dubai is teaming up with the DarkMatter Group, which is the region’s first and only fully-integrated digital transformation, defense, and cybersecurity solutions provider, to fully deploy advanced cybersecurity technologies to oversee the entire digital platform, as well as the applications and data to secure the Expo 2020’s digital experience. This session will cover why Expo 2020 and DarkMatter chose Splunk as the right solution to reduce their operational requirements to single solution that is able to ingest and analyze events from every single asset (IT&amp;IoT) supported by the automation frameworks in the solution.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Eric Eifert, DarkMatter&lt;br/&gt; Eman Alawadhi, VP Cyber Security and Resilience , Expo 2020&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+The mega event Expo brings together ideas, innovations, and inventions is will open its doors in the UAE on 20 October 2020 for a period of six months. This celebration of human ingenuity offers a glimpse into the future and is anticipated to attract 25 million visits, 70 percent of those visitors from 190 countries. The Expo 2020 Dubai is teaming up with the DarkMatter Group, which is the region’s first and only fully-integrated digital transformation, defense, and cybersecurity solutions provider, to fully deploy advanced cybersecurity technologies to oversee the entire digital platform, as well as the applications and data to secure the Expo 2020’s digital experience. This session will cover why Expo 2020 and DarkMatter chose Splunk as the right solution to reduce their operational requirements to single solution that is able to ingest and analyze events from every single asset (IT&amp;IoT) supported by the automation frameworks in the solution.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Eric Eifert, DarkMatter&lt;br/&gt; Eman Alawadhi, VP Cyber Security and Resilience , Expo 2020&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>The mega event Expo brings together ideas, innovations, and inventions is will open its doors in the UAE on 20 October 2020 for a period of six months. This celebration of human ingenuity offers a glimpse into the future and is anticipated to attract 25 million visits, 70 percent of those visitors from 190 countries. The Expo 2020 Dubai is teaming up with the DarkMatter Group, which is the region’s first and only fully-integrated digital transformation, defense, and cybersecurity solutions provider, to fully deploy advanced cybersecurity technologies to oversee the entire digital platform, as well as the applications and data to secure the Expo 2020’s digital experience. This session will cover why Expo 2020 and DarkMatter chose Splunk as the right solution to reduce their operational requirements to single solution that is able to ingest and analyze events from every single asset (IT&amp;IoT) supported by the automation frameworks in the solution.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Operational Efficiencies with Splunk SmartStore [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/ITS2633.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/ITS2633.mp4?podcast=1576909576</guid>
+      <comments>Operational Efficiencies with Splunk SmartStore</comments>
+      <description>Splunk SmartStore not only reduces the storage requirements for the aged data by maintaining only one copy of the data across the indexer cluster but significantly improves the operational aspects of the indexer cluster be it recovery from node failures or data rebalancing activities.  In this session, the speaker will go over the operational efficiency tests performed on traditional and SmartStore indexes and review the results.  &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Somu Rajarathinam, Pure Storage&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2633.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2633.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk SmartStore not only reduces the storage requirements for the aged data by maintaining only one copy of the data across the indexer cluster but significantly improves the operational aspects of the indexer cluster be it recovery from node failures or data rebalancing activities.  In this session, the speaker will go over the operational efficiency tests performed on traditional and SmartStore indexes and review the results.  
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Somu Rajarathinam, Pure Storage&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2633.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2633.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk SmartStore not only reduces the storage requirements for the aged data by maintaining only one copy of the data across the indexer cluster but significantly improves the operational aspects of the indexer cluster be it recovery from node failures or data rebalancing activities.  In this session, the speaker will go over the operational efficiency tests performed on traditional and SmartStore indexes and review the results.  </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/ITS2633.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Performance and scale testing of Splunk Enterprise [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/ITS2634.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/ITS2634.mp4?podcast=1576909576</guid>
+      <comments>Performance and scale testing of Splunk Enterprise</comments>
+      <description> What if you can scale test your Splunk Enterprise with multi-terabyte of data ingest followed by concurrent search tests on the loaded data?  Attend this session to learn more about the framework for multi-terabyte data generation and multi-user search tests on Splunk Enterprise 7.2+.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Somu Rajarathinam, Pure Storage&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2634.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2634.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+ What if you can scale test your Splunk Enterprise with multi-terabyte of data ingest followed by concurrent search tests on the loaded data?  Attend this session to learn more about the framework for multi-terabyte data generation and multi-user search tests on Splunk Enterprise 7.2+.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Somu Rajarathinam, Pure Storage&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2634.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2634.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle> What if you can scale test your Splunk Enterprise with multi-terabyte of data ingest followed by concurrent search tests on the loaded data?  Attend this session to learn more about the framework for multi-terabyte data generation and multi-user search tests on Splunk Enterprise 7.2+.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/ITS2634.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Qualcomm’s Journey to World-Class IT Monitoring Using Splunk [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1798.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1798.mp4?podcast=1576909576</guid>
+      <comments>Qualcomm’s Journey to World-Class IT Monitoring Using Splunk</comments>
+      <description>Qualcomm’s focus on inventing mobile technology breakthroughs relies on a complex, global IT infrastructure. In order to deliver on this mission, its IT team embarked on a journey using Splunk Enterprise and IT Service Intelligence to develop world-class IT monitoring approach and implement a framework for continuous improvements. Learn how Qualcomm got started with core Splunk for logging, evolved to include system metrics, and ITSI for core services. Qualcomm will present how it approaches achieving its major objectives, such as democratizing access to data, breaking down silos around teams to improve collaboration, reducing time to troubleshoot and recover incidents, and achieving better visibility and understanding around service performance.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ben Marcus, Sr. Staff IT Engineer, Qualcomm&lt;br/&gt; Michael Donnelly, ITOA Solutions Architect, Splunk&lt;br/&gt; Ryan Sims, Staff Manager, IT, Qualcomm&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1798.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1798.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Qualcomm’s focus on inventing mobile technology breakthroughs relies on a complex, global IT infrastructure. In order to deliver on this mission, its IT team embarked on a journey using Splunk Enterprise and IT Service Intelligence to develop world-class IT monitoring approach and implement a framework for continuous improvements. Learn how Qualcomm got started with core Splunk for logging, evolved to include system metrics, and ITSI for core services. Qualcomm will present how it approaches achieving its major objectives, such as democratizing access to data, breaking down silos around teams to improve collaboration, reducing time to troubleshoot and recover incidents, and achieving better visibility and understanding around service performance.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ben Marcus, Sr. Staff IT Engineer, Qualcomm&lt;br/&gt; Michael Donnelly, ITOA Solutions Architect, Splunk&lt;br/&gt; Ryan Sims, Staff Manager, IT, Qualcomm&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1798.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1798.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Qualcomm’s focus on inventing mobile technology breakthroughs relies on a complex, global IT infrastructure. In order to deliver on this mission, its IT team embarked on a journey using Splunk Enterprise and IT Service Intelligence to develop world-class IT monitoring approach and implement a framework for continuous improvements. Learn how Qualcomm got started with core Splunk for logging, evolved to include system metrics, and ITSI for core services. Qualcomm will present how it approaches achieving its major objectives, such as democratizing access to data, breaking down silos around teams to improve collaboration, reducing time to troubleshoot and recover incidents, and achieving better visibility and understanding around service performance.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1798.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Remediation-as-a-Service with Splunk ITSI [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1186.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1186.mp4?podcast=1576909576</guid>
+      <comments>Remediation-as-a-Service with Splunk ITSI</comments>
+      <description>A large volume of known production incidents and end-user issues are still being resolved manually. This becomes worse when it happens in unusual hours and no one is there to fix it. Every minute of downtime is detrimental to business and waking up an engineer at the middle of the night to fix simple known issues is not worthwhile. Our self-healing (Event-Driven Remediation) solution fixes simple and known incidents automatically. For complex alerts, it gets relevant diagnostics and context from the logs. This could massively improve customers&#x27; and employees&#x27; experience in any organization.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Karthick Muruganantham, JPMorgan Chase&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1186.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1186.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+A large volume of known production incidents and end-user issues are still being resolved manually. This becomes worse when it happens in unusual hours and no one is there to fix it. Every minute of downtime is detrimental to business and waking up an engineer at the middle of the night to fix simple known issues is not worthwhile. Our self-healing (Event-Driven Remediation) solution fixes simple and known incidents automatically. For complex alerts, it gets relevant diagnostics and context from the logs. This could massively improve customers&#x27; and employees&#x27; experience in any organization.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Karthick Muruganantham, JPMorgan Chase&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1186.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1186.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>A large volume of known production incidents and end-user issues are still being resolved manually. This becomes worse when it happens in unusual hours and no one is there to fix it. Every minute of downtime is detrimental to business and waking up an engineer at the middle of the night to fix simple known issues is not worthwhile. Our self-healing (Event-Driven Remediation) solution fixes simple and known incidents automatically. For complex alerts, it gets relevant diagnostics and context from the logs. This could massively improve customers&#x27; and employees&#x27; experience in any organization.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1186.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Service and Asset Discovery with Wire Data [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1761.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1761.mp4?podcast=1576909576</guid>
+      <comments>Service and Asset Discovery with Wire Data</comments>
+      <description>Your network is speaking to you! Listen to what your applications are saying. Monitoring the metrics already present in your wire data can provide the key to understanding and characterizing their performance. Using tools like Splunk Stream, you can collect dozens of metrics at the IP, TCP, and Application layers. This session will show you how to characterize the performance of your applications and the network, and how to tell which is the source of trouble. We&#x27;ll also explore how to perform service and asset discovery with wire data as a basis of fact, correlating it with your database &quot;of record&quot; to ensure its accuracy.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; David Cavuto, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1761.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1761.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Your network is speaking to you! Listen to what your applications are saying. Monitoring the metrics already present in your wire data can provide the key to understanding and characterizing their performance. Using tools like Splunk Stream, you can collect dozens of metrics at the IP, TCP, and Application layers. This session will show you how to characterize the performance of your applications and the network, and how to tell which is the source of trouble. We&#x27;ll also explore how to perform service and asset discovery with wire data as a basis of fact, correlating it with your database &quot;of record&quot; to ensure its accuracy.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; David Cavuto, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1761.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1761.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Your network is speaking to you! Listen to what your applications are saying. Monitoring the metrics already present in your wire data can provide the key to understanding and characterizing their performance. Using tools like Splunk Stream, you can collect dozens of metrics at the IP, TCP, and Application layers. This session will show you how to characterize the performance of your applications and the network, and how to tell which is the source of trouble. We&#x27;ll also explore how to perform service and asset discovery with wire data as a basis of fact, correlating it with your database &quot;of record&quot; to ensure its accuracy.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1761.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Soup to Nuts SRE: How to leverage ITSI, VictorOps and Phantom to be a site reliability engineering super hero [Splunk Enterprise, Splunk IT Service Intelligence, Phantom, VictorOps]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909576</guid>
+      <comments>Soup to Nuts SRE: How to leverage ITSI, VictorOps and Phantom to be a site reliability engineering super hero</comments>
+      <description>Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Chris Crocco, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Phantom, VictorOps
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Chris Crocco, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk as a Tool for DevOps Acceleration [Splunk Enterprise, Splunk IT Service Intelligence, VictorOps]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1576909576</guid>
+      <comments>Splunk as a Tool for DevOps Acceleration</comments>
+      <description>DevOps adoption requires high performing teams. One of the biggest challenges organizations have when adopting a DevOps framework is how to get early wins, get value early in the process, and overcome plateaus in adoption. These improvements are typically achieved through the use of automation, improved responsiveness, better situational awareness, and increased sharing between teams. As you will see in this session, Splunk easily sits in the middle of all of this.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Josh Atwell, Sr Technology Advocate, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, VictorOps
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+DevOps adoption requires high performing teams. One of the biggest challenges organizations have when adopting a DevOps framework is how to get early wins, get value early in the process, and overcome plateaus in adoption. These improvements are typically achieved through the use of automation, improved responsiveness, better situational awareness, and increased sharing between teams. As you will see in this session, Splunk easily sits in the middle of all of this.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Josh Atwell, Sr Technology Advocate, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>DevOps adoption requires high performing teams. One of the biggest challenges organizations have when adopting a DevOps framework is how to get early wins, get value early in the process, and overcome plateaus in adoption. These improvements are typically achieved through the use of automation, improved responsiveness, better situational awareness, and increased sharing between teams. As you will see in this session, Splunk easily sits in the middle of all of this.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk at the Speed of Flight – Delivering Critical Passenger Cabin Services  [Splunk Enterprise, Splunk IT Service Intelligence, Splunk for Industrial IoT]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1576909576</guid>
+      <comments>Splunk at the Speed of Flight – Delivering Critical Passenger Cabin Services </comments>
+      <description>Business General Aviation (BGA) relies on multiple critical communications services, operating in flawless concert, for a safe and successful flight.  In-Flight Connectivity (IFC) is a critical BGA cabin service driving the industry. Learn how SatCom Direct is using Splunk to capture and cross-correlate live KPI feeds from various sources such as aircraft flight dynamics, satellites and ground stations to provide the ultimate in-air experience from a single aircraft to an entire managed fleet. Armed with Splunk, Satcom Direct can immediately detect and work to restore any service impacting events and from the same data, develop improved insights for ongoing performance enhancements. From the executive suite to the operations battleground, come learn how Splunk leverages data and insights at the speed of flight.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Q Damiano, Sr. Engineer, Systems Architecture, Satcom Direct&lt;br/&gt; Bill Babilon, USAF Account Executive and Splunk Solutions Architect, Splunk&lt;br/&gt; Paul Jeffery, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk for Industrial IoT
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Business General Aviation (BGA) relies on multiple critical communications services, operating in flawless concert, for a safe and successful flight.  In-Flight Connectivity (IFC) is a critical BGA cabin service driving the industry. Learn how SatCom Direct is using Splunk to capture and cross-correlate live KPI feeds from various sources such as aircraft flight dynamics, satellites and ground stations to provide the ultimate in-air experience from a single aircraft to an entire managed fleet. Armed with Splunk, Satcom Direct can immediately detect and work to restore any service impacting events and from the same data, develop improved insights for ongoing performance enhancements. From the executive suite to the operations battleground, come learn how Splunk leverages data and insights at the speed of flight.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Q Damiano, Sr. Engineer, Systems Architecture, Satcom Direct&lt;br/&gt; Bill Babilon, USAF Account Executive and Splunk Solutions Architect, Splunk&lt;br/&gt; Paul Jeffery, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Business General Aviation (BGA) relies on multiple critical communications services, operating in flawless concert, for a safe and successful flight.  In-Flight Connectivity (IFC) is a critical BGA cabin service driving the industry. Learn how SatCom Direct is using Splunk to capture and cross-correlate live KPI feeds from various sources such as aircraft flight dynamics, satellites and ground stations to provide the ultimate in-air experience from a single aircraft to an entire managed fleet. Armed with Splunk, Satcom Direct can immediately detect and work to restore any service impacting events and from the same data, develop improved insights for ongoing performance enhancements. From the executive suite to the operations battleground, come learn how Splunk leverages data and insights at the speed of flight.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk Autobahn - SaaS proof of value program: from 0 to HERO [Splunk Cloud, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1452.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1452.mp4?podcast=1576909576</guid>
+      <comments>Splunk Autobahn - SaaS proof of value program: from 0 to HERO</comments>
+      <description>You already know Splunk is amazing, but now you have to prove this to someone in your organization before you get the keys to your Splunky Supercar. Good news - we&#x27;ve got a solution that gets your data - not fake data - into Splunk Cloud, and makes it immediately accessible, useable and valuable to everyone in your organization. You&#x27;ll be able to kick-the-tires on your new data analytics engine for 30 days at no cost. Attend this session to learn more.... Let me introduce you to the Autobahn, Splunk-style.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ken Tallman, Sr Sales Engineer, Splunk &lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1452.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1452.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Cloud, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+You already know Splunk is amazing, but now you have to prove this to someone in your organization before you get the keys to your Splunky Supercar. Good news - we&#x27;ve got a solution that gets your data - not fake data - into Splunk Cloud, and makes it immediately accessible, useable and valuable to everyone in your organization. You&#x27;ll be able to kick-the-tires on your new data analytics engine for 30 days at no cost. Attend this session to learn more.... Let me introduce you to the Autobahn, Splunk-style.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ken Tallman, Sr Sales Engineer, Splunk &lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1452.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1452.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>You already know Splunk is amazing, but now you have to prove this to someone in your organization before you get the keys to your Splunky Supercar. Good news - we&#x27;ve got a solution that gets your data - not fake data - into Splunk Cloud, and makes it immediately accessible, useable and valuable to everyone in your organization. You&#x27;ll be able to kick-the-tires on your new data analytics engine for 30 days at no cost. Attend this session to learn more.... Let me introduce you to the Autobahn, Splunk-style.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1452.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk Cloud&#x27;s Silver Lining [Splunk Cloud, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1647.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1647.mp4?podcast=1576909576</guid>
+      <comments>Splunk Cloud&#x27;s Silver Lining</comments>
+      <description>Are you considering moving to Splunk Cloud? This session will show you the benefits of migrating to Splunk Cloud and letting Splunk do all the heavy lifting so you can focus on getting value from your data. We also will go into what makes the Splunk Cloud service unique. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kyle Hourihan, Principal Cloud Architect, Splunk&lt;br/&gt; Kam Amir, Cloud Architect, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1647.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1647.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Cloud, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Are you considering moving to Splunk Cloud? This session will show you the benefits of migrating to Splunk Cloud and letting Splunk do all the heavy lifting so you can focus on getting value from your data. We also will go into what makes the Splunk Cloud service unique. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kyle Hourihan, Principal Cloud Architect, Splunk&lt;br/&gt; Kam Amir, Cloud Architect, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1647.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1647.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Are you considering moving to Splunk Cloud? This session will show you the benefits of migrating to Splunk Cloud and letting Splunk do all the heavy lifting so you can focus on getting value from your data. We also will go into what makes the Splunk Cloud service unique. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1647.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk for NewOps – Using Data-Driven IT Operations to Better Manage IT Systems at Scale [Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, VictorOps]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1576909576</guid>
+      <comments>Splunk for NewOps – Using Data-Driven IT Operations to Better Manage IT Systems at Scale</comments>
+      <description>Splunk is increasingly at the forefront of new approaches to IT Operations, especially in disruptive ‘cloud-native’ businesses. This session will help you understand how ‘New Ops’ techniques like Observability, Site Reliability Engineering, SLOs/SLIs, Error Budgets, ChatOps, and Blameless Post-Mortems can help your IT Ops team; and how you can adopt ‘New Ops’ technologies like Containers, Microservice Architectures, Machine Learning, Orchestration, Predictive Analytics, and AI for IT Ops.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Andi Mann, Chief Technology Advocate, Splunk&lt;br/&gt; Endre Peterfi, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, VictorOps
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk is increasingly at the forefront of new approaches to IT Operations, especially in disruptive ‘cloud-native’ businesses. This session will help you understand how ‘New Ops’ techniques like Observability, Site Reliability Engineering, SLOs/SLIs, Error Budgets, ChatOps, and Blameless Post-Mortems can help your IT Ops team; and how you can adopt ‘New Ops’ technologies like Containers, Microservice Architectures, Machine Learning, Orchestration, Predictive Analytics, and AI for IT Ops.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Andi Mann, Chief Technology Advocate, Splunk&lt;br/&gt; Endre Peterfi, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk is increasingly at the forefront of new approaches to IT Operations, especially in disruptive ‘cloud-native’ businesses. This session will help you understand how ‘New Ops’ techniques like Observability, Site Reliability Engineering, SLOs/SLIs, Error Budgets, ChatOps, and Blameless Post-Mortems can help your IT Ops team; and how you can adopt ‘New Ops’ technologies like Containers, Microservice Architectures, Machine Learning, Orchestration, Predictive Analytics, and AI for IT Ops.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>“Splunking” IBM i Data to Power a Complete View of Your Infrastructure [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1990.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1990.mp4?podcast=1576909576</guid>
+      <comments>“Splunking” IBM i Data to Power a Complete View of Your Infrastructure</comments>
+      <description>IBM i systems are used by many customers in a number of industries such as banking, retail, transportation and hospitality. Splunk is a perfect tool for consolidating and analyzing event, security, performance, and application data from these critical IBM i systems. Having a single and complete view of infrastructure data allows operations, security, and performance analysts to quickly identify and correlate operational, security, and performance issues. Syncsort Ironstream™ for Splunk can easily capture the needed event, security, and performance data in real time. Detailed performance data from these IBM i systems combined with Splunk’s machine learning algorithms can provide a new degree of confidence in capacity planning.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Brian Brake , Senior System Engineer, Cox Automotive &lt;br/&gt; Chip Sutton, Director of Software Development, Syncsort&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1990.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1990.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+IBM i systems are used by many customers in a number of industries such as banking, retail, transportation and hospitality. Splunk is a perfect tool for consolidating and analyzing event, security, performance, and application data from these critical IBM i systems. Having a single and complete view of infrastructure data allows operations, security, and performance analysts to quickly identify and correlate operational, security, and performance issues. Syncsort Ironstream™ for Splunk can easily capture the needed event, security, and performance data in real time. Detailed performance data from these IBM i systems combined with Splunk’s machine learning algorithms can provide a new degree of confidence in capacity planning.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Brian Brake , Senior System Engineer, Cox Automotive &lt;br/&gt; Chip Sutton, Director of Software Development, Syncsort&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1990.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1990.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>IBM i systems are used by many customers in a number of industries such as banking, retail, transportation and hospitality. Splunk is a perfect tool for consolidating and analyzing event, security, performance, and application data from these critical IBM i systems. Having a single and complete view of infrastructure data allows operations, security, and performance analysts to quickly identify and correlate operational, security, and performance issues. Syncsort Ironstream™ for Splunk can easily capture the needed event, security, and performance data in real time. Detailed performance data from these IBM i systems combined with Splunk’s machine learning algorithms can provide a new degree of confidence in capacity planning.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1990.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk ITSI – From “Just Getting Started” to “What’s Hot in This Release [Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1227.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1227.mp4?podcast=1576909576</guid>
+      <comments>Splunk ITSI – From “Just Getting Started” to “What’s Hot in This Release</comments>
+      <description>Have you heard the buzz? Splunk IT Service Intelligence (ITSI) just hit its latest release, and it’s jam-packed with new feature you just can’t miss, including the latest in infrastructure troubleshooting and monitoring, app analytics, event management, service insights, predictive analytics, and, of course, AIOps. Attendees at this session can sample it all, from just getting started to making the most of the latest and greatest.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Alok Bhide, Director of Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1227.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1227.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Have you heard the buzz? Splunk IT Service Intelligence (ITSI) just hit its latest release, and it’s jam-packed with new feature you just can’t miss, including the latest in infrastructure troubleshooting and monitoring, app analytics, event management, service insights, predictive analytics, and, of course, AIOps. Attendees at this session can sample it all, from just getting started to making the most of the latest and greatest.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Alok Bhide, Director of Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1227.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1227.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Have you heard the buzz? Splunk IT Service Intelligence (ITSI) just hit its latest release, and it’s jam-packed with new feature you just can’t miss, including the latest in infrastructure troubleshooting and monitoring, app analytics, event management, service insights, predictive analytics, and, of course, AIOps. Attendees at this session can sample it all, from just getting started to making the most of the latest and greatest.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1227.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk, PCF and ITSI – supporting PCF with ITSI at scale [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1388.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1388.mp4?podcast=1576909576</guid>
+      <comments>Splunk, PCF and ITSI – supporting PCF with ITSI at scale</comments>
+      <description>Many Fortune 500 companies use Pivotal Cloud Foundry to push its high-quality code into production faster. While this helps companies enforce enterprise logging and application development standards, the traditional monitoring tools used to monitor development environments become the bottleneck because they are not architected to handle a firehose-nozzle connection. Learn how to use the new Splunk ITSI module for PCF, along with the new version of Splunk Firehose Nozzle for PCF to gain operational insight into PCF platform and increase developer satisfaction.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kirk  Kirk, ITOA Architect , Splunk&lt;br/&gt; Shubham Jain, Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1388.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1388.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Many Fortune 500 companies use Pivotal Cloud Foundry to push its high-quality code into production faster. While this helps companies enforce enterprise logging and application development standards, the traditional monitoring tools used to monitor development environments become the bottleneck because they are not architected to handle a firehose-nozzle connection. Learn how to use the new Splunk ITSI module for PCF, along with the new version of Splunk Firehose Nozzle for PCF to gain operational insight into PCF platform and increase developer satisfaction.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kirk  Kirk, ITOA Architect , Splunk&lt;br/&gt; Shubham Jain, Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1388.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1388.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Many Fortune 500 companies use Pivotal Cloud Foundry to push its high-quality code into production faster. While this helps companies enforce enterprise logging and application development standards, the traditional monitoring tools used to monitor development environments become the bottleneck because they are not architected to handle a firehose-nozzle connection. Learn how to use the new Splunk ITSI module for PCF, along with the new version of Splunk Firehose Nozzle for PCF to gain operational insight into PCF platform and increase developer satisfaction.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1388.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk Performance: making hardware and platform choices [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1350.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1350.mp4?podcast=1576909576</guid>
+      <comments>Splunk Performance: making hardware and platform choices</comments>
+      <description>Splunk Enterprise is powerful. Don&#x27;t cheat yourself of its power. When making decisions as to how to expand or standup Splunk’s footprint, you need to know what matters when making platform decisions. Considering compute, storage, virtualization, cloud infrastructure is a lot. There isn’t one place to review all the options you have. We will share the Splunk way to think of performance and how it relates to the underlying system resources. This means getting into the real nuts and bolts of performance. If you want to know how search affects indexing and what resources get consumed, this is the session to attend. If you also want to know how it affects what you purchase as a platform choice, this also is the session to attend. We also will review how partners have built architectures to simplify this process.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Brian Wooden, Director, Sales Engineering GSA, Splunk&lt;br/&gt; Simeon Yep, AVP, Sales Engineering Global Partners, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1350.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1350.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk Enterprise is powerful. Don&#x27;t cheat yourself of its power. When making decisions as to how to expand or standup Splunk’s footprint, you need to know what matters when making platform decisions. Considering compute, storage, virtualization, cloud infrastructure is a lot. There isn’t one place to review all the options you have. We will share the Splunk way to think of performance and how it relates to the underlying system resources. This means getting into the real nuts and bolts of performance. If you want to know how search affects indexing and what resources get consumed, this is the session to attend. If you also want to know how it affects what you purchase as a platform choice, this also is the session to attend. We also will review how partners have built architectures to simplify this process.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Brian Wooden, Director, Sales Engineering GSA, Splunk&lt;br/&gt; Simeon Yep, AVP, Sales Engineering Global Partners, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1350.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1350.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk Enterprise is powerful. Don&#x27;t cheat yourself of its power. When making decisions as to how to expand or standup Splunk’s footprint, you need to know what matters when making platform decisions. Considering compute, storage, virtualization, cloud infrastructure is a lot. There isn’t one place to review all the options you have. We will share the Splunk way to think of performance and how it relates to the underlying system resources. This means getting into the real nuts and bolts of performance. If you want to know how search affects indexing and what resources get consumed, this is the session to attend. If you also want to know how it affects what you purchase as a platform choice, this also is the session to attend. We also will review how partners have built architectures to simplify this process.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1350.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Success in the Public Sector: How the State of Michigan uses Splunk to improve the lives of its citizens [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Mobile]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1576909576</guid>
+      <comments>Success in the Public Sector: How the State of Michigan uses Splunk to improve the lives of its citizens</comments>
+      <description>If you’re not investing in new technology, you are going to be left behind! One of the key challenges within any state government agency is ensuring system and application performance, SLA enforcement, secure operations, and adhering to strict federal and state compliance mandates, all while operating with limited budgets and staff. With help from Splunk, Health and Human Services (HHS) agencies manage systems that issue public benefits to citizens, maintain child welfare, enforce child support, and monitor public health. Come to this session to learn how to leverage Splunk to help you understand the &quot;complete picture&quot; of your systems and business processes to help your team move toward proactive management and increase customer satisfaction within your governmental applications. Create something useful from millions and billons of lines of log data to improve your application!&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Josh  Scheurer, System Architect, State of Michigan&lt;br/&gt; Amy Hundley, Deputy Director for Field Operations Administration, State of Michigan - DHHS’, State of Michigan&lt;br/&gt; Sanjay  Srivastava, Division Director (Eligibility) , Department of Technology Management and Budget, State of Michigan &lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Mobile
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+If you’re not investing in new technology, you are going to be left behind! One of the key challenges within any state government agency is ensuring system and application performance, SLA enforcement, secure operations, and adhering to strict federal and state compliance mandates, all while operating with limited budgets and staff. With help from Splunk, Health and Human Services (HHS) agencies manage systems that issue public benefits to citizens, maintain child welfare, enforce child support, and monitor public health. Come to this session to learn how to leverage Splunk to help you understand the &quot;complete picture&quot; of your systems and business processes to help your team move toward proactive management and increase customer satisfaction within your governmental applications. Create something useful from millions and billons of lines of log data to improve your application!
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Josh  Scheurer, System Architect, State of Michigan&lt;br/&gt; Amy Hundley, Deputy Director for Field Operations Administration, State of Michigan - DHHS’, State of Michigan&lt;br/&gt; Sanjay  Srivastava, Division Director (Eligibility) , Department of Technology Management and Budget, State of Michigan &lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>If you’re not investing in new technology, you are going to be left behind! One of the key challenges within any state government agency is ensuring system and application performance, SLA enforcement, secure operations, and adhering to strict federal and state compliance mandates, all while operating with limited budgets and staff. With help from Splunk, Health and Human Services (HHS) agencies manage systems that issue public benefits to citizens, maintain child welfare, enforce child support, and monitor public health. Come to this session to learn how to leverage Splunk to help you understand the &quot;complete picture&quot; of your systems and business processes to help your team move toward proactive management and increase customer satisfaction within your governmental applications. Create something useful from millions and billons of lines of log data to improve your application!</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Tame the Beast of IT Complexity: AI, ML, &amp; Automation Are the Answer [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/ITS2752.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/ITS2752.mp4?podcast=1576909576</guid>
+      <comments>Tame the Beast of IT Complexity: AI, ML, &amp; Automation Are the Answer</comments>
+      <description>Are you drowning in a sea of data that expands daily? Overwhelmed by 1000s of events and alarms? Tasked with tracking a dynamic, ever-morphing infrastructure? Expected to resolve requests, incidents, and performance issues in seconds, not days… without adding any more headcount to your team? You’re not alone.Enter Automation, AIOps, and machine learning (ML). It’s finally IT’s turn to harness these powerful technologies to improve operational efficiency, reduce MTTR, eliminate alarm noise, streamline service requests, increase performance without lifting a finger, and tame the beast of IT complexity. Join our session as we explore practical applications for these technologies today and in the future to transform the way you approach IT operations. Get real world examples from other IT professionals and see how you can maximize your investments in Splunk, ITSM, monitoring tools, and more by bringing AI, ML, and automation to the mix.​&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rob Kelsall, VP, Global Sales Engineering, Resolve Systems&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2752.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2752.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Are you drowning in a sea of data that expands daily? Overwhelmed by 1000s of events and alarms? Tasked with tracking a dynamic, ever-morphing infrastructure? Expected to resolve requests, incidents, and performance issues in seconds, not days… without adding any more headcount to your team? You’re not alone.Enter Automation, AIOps, and machine learning (ML). It’s finally IT’s turn to harness these powerful technologies to improve operational efficiency, reduce MTTR, eliminate alarm noise, streamline service requests, increase performance without lifting a finger, and tame the beast of IT complexity. Join our session as we explore practical applications for these technologies today and in the future to transform the way you approach IT operations. Get real world examples from other IT professionals and see how you can maximize your investments in Splunk, ITSM, monitoring tools, and more by bringing AI, ML, and automation to the mix.​
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rob Kelsall, VP, Global Sales Engineering, Resolve Systems&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/ITS2752.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/ITS2752.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Are you drowning in a sea of data that expands daily? Overwhelmed by 1000s of events and alarms? Tasked with tracking a dynamic, ever-morphing infrastructure? Expected to resolve requests, incidents, and performance issues in seconds, not days… without adding any more headcount to your team? You’re not alone.Enter Automation, AIOps, and machine learning (ML). It’s finally IT’s turn to harness these powerful technologies to improve operational efficiency, reduce MTTR, eliminate alarm noise, streamline service requests, increase performance without lifting a finger, and tame the beast of IT complexity. Join our session as we explore practical applications for these technologies today and in the future to transform the way you approach IT operations. Get real world examples from other IT professionals and see how you can maximize your investments in Splunk, ITSM, monitoring tools, and more by bringing AI, ML, and automation to the mix.​</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/ITS2752.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>The New Dashboarding &amp; Content Export Experience in Splunk: A single experience across Enterprise, ITSI and more! [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Developer Cloud]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1815.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1815.mp4?podcast=1576909576</guid>
+      <comments>The New Dashboarding &amp; Content Export Experience in Splunk: A single experience across Enterprise, ITSI and more!</comments>
+      <description>So you saw the new Splunk Dashboards framework and PNG export on the main stage and want to know more? You want to understand what this will mean for your Enterprise, Cloud, ITSI, ES and/or IAI deployments? You&#x27;ve come to the right place. In this session, we&#x27;ll provide an overview and extended demo of the new dashboarding framework and context export service. We&#x27;ll cover what&#x27;s different about this new framework in comparison to both SimpleXML and Glass Tables. We&#x27;ll also cover the support roadmap for Simple XML and Glass Tables as well as what you need to know in order to migrate. If you&#x27;re planning to attend any of the other dashboard deep dive sessions, we recommend attending this one first.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nachi Mistry, Sr. Engineering Manager, Splunk&lt;br/&gt; Miranda Luna, Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1815.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1815.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Developer Cloud
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+So you saw the new Splunk Dashboards framework and PNG export on the main stage and want to know more? You want to understand what this will mean for your Enterprise, Cloud, ITSI, ES and/or IAI deployments? You&#x27;ve come to the right place. In this session, we&#x27;ll provide an overview and extended demo of the new dashboarding framework and context export service. We&#x27;ll cover what&#x27;s different about this new framework in comparison to both SimpleXML and Glass Tables. We&#x27;ll also cover the support roadmap for Simple XML and Glass Tables as well as what you need to know in order to migrate. If you&#x27;re planning to attend any of the other dashboard deep dive sessions, we recommend attending this one first.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nachi Mistry, Sr. Engineering Manager, Splunk&lt;br/&gt; Miranda Luna, Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1815.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1815.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>So you saw the new Splunk Dashboards framework and PNG export on the main stage and want to know more? You want to understand what this will mean for your Enterprise, Cloud, ITSI, ES and/or IAI deployments? You&#x27;ve come to the right place. In this session, we&#x27;ll provide an overview and extended demo of the new dashboarding framework and context export service. We&#x27;ll cover what&#x27;s different about this new framework in comparison to both SimpleXML and Glass Tables. We&#x27;ll also cover the support roadmap for Simple XML and Glass Tables as well as what you need to know in order to migrate. If you&#x27;re planning to attend any of the other dashboard deep dive sessions, we recommend attending this one first.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1815.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>The path to operational enlightenment. An introduction to wire data with Splunk Stream. [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1206.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1206.mp4?podcast=1576909576</guid>
+      <comments>The path to operational enlightenment. An introduction to wire data with Splunk Stream.</comments>
+      <description>Have you ever wondered what Joe meant when he referred to “Wire Data”? Today, you&#x27;ll see the applicability of wire data in your organization, and you&#x27;ll be amazed. Solve fraud, cybersecurity, ops, and business challenges, all with one single source of data. Wire data is the information that passes over computer and telecommunications networks to define communications between client and server devices. It is the result of decoding wire and transport protocols containing the bi-directional data payload. We will cover the use of wire data to solve security, IT operations, and business use cases, and see how the Splunk Stream platform is easily integrated into your existing data flows. The Splunk Essentials for Wire Data app from Splunkbase will be used to showcase dozens of examples using wire data to solve common business and technical issues. We will cover how to deploy and configure Splunk Stream in a distributed environment, including a demonstration.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Simon O’Brien, Principal Sales Engineer, Splunk&lt;br/&gt; Vinu Alazath, Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1206.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1206.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Have you ever wondered what Joe meant when he referred to “Wire Data”? Today, you&#x27;ll see the applicability of wire data in your organization, and you&#x27;ll be amazed. Solve fraud, cybersecurity, ops, and business challenges, all with one single source of data. Wire data is the information that passes over computer and telecommunications networks to define communications between client and server devices. It is the result of decoding wire and transport protocols containing the bi-directional data payload. We will cover the use of wire data to solve security, IT operations, and business use cases, and see how the Splunk Stream platform is easily integrated into your existing data flows. The Splunk Essentials for Wire Data app from Splunkbase will be used to showcase dozens of examples using wire data to solve common business and technical issues. We will cover how to deploy and configure Splunk Stream in a distributed environment, including a demonstration.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Simon O’Brien, Principal Sales Engineer, Splunk&lt;br/&gt; Vinu Alazath, Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1206.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1206.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Have you ever wondered what Joe meant when he referred to “Wire Data”? Today, you&#x27;ll see the applicability of wire data in your organization, and you&#x27;ll be amazed. Solve fraud, cybersecurity, ops, and business challenges, all with one single source of data. Wire data is the information that passes over computer and telecommunications networks to define communications between client and server devices. It is the result of decoding wire and transport protocols containing the bi-directional data payload. We will cover the use of wire data to solve security, IT operations, and business use cases, and see how the Splunk Stream platform is easily integrated into your existing data flows. The Splunk Essentials for Wire Data app from Splunkbase will be used to showcase dozens of examples using wire data to solve common business and technical issues. We will cover how to deploy and configure Splunk Stream in a distributed environment, including a demonstration.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1206.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>United Health Group: Providing real-time visibility with Splunk IT Service Intelligence from the front end all the way to the mainframe [Splunk Enterprise, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2139.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2139.mp4?podcast=1576909576</guid>
+      <comments>United Health Group: Providing real-time visibility with Splunk IT Service Intelligence from the front end all the way to the mainframe</comments>
+      <description>Does your IT environment look like a huge bowl of spaghetti? Is it even possible to untangle that vast, complex, and diverse ecosystem? Is moving from reactive to proactive even a possibility? Join us to learn how United Health Group is using Splunk IT Service Intelligence to provide end-to-end visibility and proactive incident response to its critical business applications. We’ll show you how mapping service dependencies and defining meaningful key performance indicators from the front end all the way back to the mainframe is providing value to the DevOps teams and the businesses they support.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ben Nolan, Splunk IT Service Intelligence Administrator, Optum &lt;br/&gt; Jacob  Edelen, Splunk ITSI Administrator, Optum&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2139.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2139.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Does your IT environment look like a huge bowl of spaghetti? Is it even possible to untangle that vast, complex, and diverse ecosystem? Is moving from reactive to proactive even a possibility? Join us to learn how United Health Group is using Splunk IT Service Intelligence to provide end-to-end visibility and proactive incident response to its critical business applications. We’ll show you how mapping service dependencies and defining meaningful key performance indicators from the front end all the way back to the mainframe is providing value to the DevOps teams and the businesses they support.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ben Nolan, Splunk IT Service Intelligence Administrator, Optum &lt;br/&gt; Jacob  Edelen, Splunk ITSI Administrator, Optum&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2139.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2139.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Does your IT environment look like a huge bowl of spaghetti? Is it even possible to untangle that vast, complex, and diverse ecosystem? Is moving from reactive to proactive even a possibility? Join us to learn how United Health Group is using Splunk IT Service Intelligence to provide end-to-end visibility and proactive incident response to its critical business applications. We’ll show you how mapping service dependencies and defining meaningful key performance indicators from the front end all the way back to the mainframe is providing value to the DevOps teams and the businesses they support.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2139.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Unleash your inner Picasso: experience the new Splunk dashboards [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1933.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1933.mp4?podcast=1576909576</guid>
+      <comments>Unleash your inner Picasso: experience the new Splunk dashboards</comments>
+      <description>Seeking guidance to help create amazing Splunk dashboards? Want to wow your team as well as your execs and become THE dashboard master? Come learn about Splunk&#x27;s new dashboarding capabilities, and experience rich dashboard examples as well as the art of the possible. We will demo a variety of dashboards, and we’ll share tips and tricks, tutorials and templates to ensure you can build your own. Attend this session and you’ll be on the path to becoming a Splunk dashboard ninja in no time. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Stephen  Luedtke, Sr. Data Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1933.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1933.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Seeking guidance to help create amazing Splunk dashboards? Want to wow your team as well as your execs and become THE dashboard master? Come learn about Splunk&#x27;s new dashboarding capabilities, and experience rich dashboard examples as well as the art of the possible. We will demo a variety of dashboards, and we’ll share tips and tricks, tutorials and templates to ensure you can build your own. Attend this session and you’ll be on the path to becoming a Splunk dashboard ninja in no time. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Stephen  Luedtke, Sr. Data Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1933.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1933.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Seeking guidance to help create amazing Splunk dashboards? Want to wow your team as well as your execs and become THE dashboard master? Come learn about Splunk&#x27;s new dashboarding capabilities, and experience rich dashboard examples as well as the art of the possible. We will demo a variety of dashboards, and we’ll share tips and tricks, tutorials and templates to ensure you can build your own. Attend this session and you’ll be on the path to becoming a Splunk dashboard ninja in no time. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1933.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Using Splunk and its premium solution to accelerate DevOps lifecycle [Splunk Enterprise, Splunk IT Service Intelligence, VictorOps]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1576909576</guid>
+      <comments>Using Splunk and its premium solution to accelerate DevOps lifecycle</comments>
+      <description>As more technology organizations pursue agility and move towards continuous delivery, a stable and reliable IT infrastructure is the foundation that enables the transformation. However, the increasing complexity of the underlying infrastructure also brings a lot of challenges. Splunk has built a variety of solutions on top of our platform to deal with this complexity and deliver analytics and troubleshooting data to our engineering teams and decision makers. We will share a bit about our continuous integration process for triaging automated tests using Splunk, how we build IT infrastructure monitoring/analytics system based on Splunk ITSI, and how we take corresponding actions via VictorOps.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Scott Lu, Senior Engineering Manager, Splunk&lt;br/&gt; Alfie You, Principal Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, VictorOps
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+As more technology organizations pursue agility and move towards continuous delivery, a stable and reliable IT infrastructure is the foundation that enables the transformation. However, the increasing complexity of the underlying infrastructure also brings a lot of challenges. Splunk has built a variety of solutions on top of our platform to deal with this complexity and deliver analytics and troubleshooting data to our engineering teams and decision makers. We will share a bit about our continuous integration process for triaging automated tests using Splunk, how we build IT infrastructure monitoring/analytics system based on Splunk ITSI, and how we take corresponding actions via VictorOps.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Scott Lu, Senior Engineering Manager, Splunk&lt;br/&gt; Alfie You, Principal Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>As more technology organizations pursue agility and move towards continuous delivery, a stable and reliable IT infrastructure is the foundation that enables the transformation. However, the increasing complexity of the underlying infrastructure also brings a lot of challenges. Splunk has built a variety of solutions on top of our platform to deal with this complexity and deliver analytics and troubleshooting data to our engineering teams and decision makers. We will share a bit about our continuous integration process for triaging automated tests using Splunk, how we build IT infrastructure monitoring/analytics system based on Splunk ITSI, and how we take corresponding actions via VictorOps.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Why Dinosaurs Make Bad Pets: Legacy Monitoring Tools and their Extinction – TIAA Adopts ITSI as their new MoM [Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1346.mp4?podcast=1576909576</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:16 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1346.mp4?podcast=1576909576</guid>
+      <comments>Why Dinosaurs Make Bad Pets: Legacy Monitoring Tools and their Extinction – TIAA Adopts ITSI as their new MoM</comments>
+      <description>Too many tools, too many silos between data and collaboration, Outages take too long to Identify Root Cause and There is So Much Noise Abstract:  TIAA had a goal – to replace Legacy Monitoring with an AIOps approach.  What did that mean?  They had to find a better way to break down the silos between data and collaboration and start focusing attention on the right things with the right people.  Monitoring had become about MTTI (mean time to innocence) instead of fixing the fight issues more quickly and finding a way to move from ‘reacting’ to outages to ‘preventing’ them.  ITSI has become the ‘aggregator’ of monitoring data and will help TIAA move from the old Dinosaur Approach of being event driven to the AiOps approach of Service and Priority Driven.  Learn about the Journey, the Lessons Learned, and the Best Practices to Ensure Success.   &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Emily  Duncan, ITOA Specialist, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1346.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1346.pdf?podcast=1576909576
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk IT Service Intelligence
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Too many tools, too many silos between data and collaboration, Outages take too long to Identify Root Cause and There is So Much Noise Abstract:  TIAA had a goal – to replace Legacy Monitoring with an AIOps approach.  What did that mean?  They had to find a better way to break down the silos between data and collaboration and start focusing attention on the right things with the right people.  Monitoring had become about MTTI (mean time to innocence) instead of fixing the fight issues more quickly and finding a way to move from ‘reacting’ to outages to ‘preventing’ them.  ITSI has become the ‘aggregator’ of monitoring data and will help TIAA move from the old Dinosaur Approach of being event driven to the AiOps approach of Service and Priority Driven.  Learn about the Journey, the Lessons Learned, and the Best Practices to Ensure Success.   
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Emily  Duncan, ITOA Specialist, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1346.pdf?podcast=1576909576"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1346.pdf?podcast=1576909576
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Too many tools, too many silos between data and collaboration, Outages take too long to Identify Root Cause and There is So Much Noise Abstract:  TIAA had a goal – to replace Legacy Monitoring with an AIOps approach.  What did that mean?  They had to find a better way to break down the silos between data and collaboration and start focusing attention on the right things with the right people.  Monitoring had become about MTTI (mean time to innocence) instead of fixing the fight issues more quickly and finding a way to move from ‘reacting’ to outages to ‘preventing’ them.  ITSI has become the ‘aggregator’ of monitoring data and will help TIAA move from the old Dinosaur Approach of being event driven to the AiOps approach of Service and Priority Driven.  Learn about the Journey, the Lessons Learned, and the Best Practices to Ensure Success.   </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1346.mp4?podcast=1576909576" type="video/mp4"/>
+    </item>
+      
+
+   </channel>
+</rss>
+      

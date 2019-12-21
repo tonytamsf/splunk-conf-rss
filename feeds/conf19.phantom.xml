@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Splunk [Phantom] 2019 .conf Videos w/ Slides</title>
+    <link>https://conf.splunk.com?podcast</link>
+    <description>Splunk [Phantom] 2019 .conf Videos w/ Slides</description>
+    <lastBuildDate>Sat, 21 Dec 2019 01:26:09 EST</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Tony Tam</generator>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Splunk</itunes:author>
+    <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+    <itunes:image href="https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png"/>
+    <itunes:owner>
+      <itunes:name>Splunk</itunes:name>
+      <itunes:email>ttam@splunk.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>ttam@splunk.com</managingEditor>
+    <copyright>Splunk Inc.</copyright>
+    <itunes:subtitle>Splunk [Phantom] .conf 2019 Videos w/ Slides</itunes:subtitle>
+    <image>
+      <url>https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png</url>
+      <title>Splunk - The Data-To-Everything Platform</title>
+      <link>https://conf.splunk.com?podcast</link>
+    </image>
+    <itunes:category text="Technology">
+        </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Data"/>
+    </itunes:category>
+    <itunes:category text="Splunk">
+        </itunes:category>
+    <rawvoice:location>San Francisco, CA</rawvoice:location>
+    <rawvoice:frequency>Daily</rawvoice:frequency>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/twistvid"/>
+    <feedburner:info uri="twistvid"/>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+    <geo:lat>34.01491</geo:lat>
+    <geo:long>-118.492202</geo:long>
+
+
+   <item>
+      <title>Attacking and Defending Kubernetes: A Purple Team Approach to Improving Detection Using Splunk Enterprise Security, Splunk Phantom and Peirates
+                                                     [Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2286.mp4?podcast=1576909570</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:10 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2286.mp4?podcast=1576909570</guid>
+      <comments>Attacking and Defending Kubernetes: A Purple Team Approach to Improving Detection Using Splunk Enterprise Security, Splunk Phantom and Peirates
+                                                    </comments>
+      <description>Would you be able to detect a sophisticated adversary targeting your Kubernetes clusters and workloads tonight? How do busy teams with stacked backlogs find time to learn how to attack Kubernetes clusters, detect those attacks, and build defenses to reduce the attack surface? We will demonstrate an effective purple team methodology that &quot;uses every part of the buffalo&quot; by 1) executing attacks on Kubernetes using the open source tool Peirates, 2) tracking the attack artifacts from the adversary simulation in Splunk, 3) teaching the defenders how the attack was performed and where to look for forensic artifacts, and 4) working together in the purple-est way possible to improve detection and response capabilities using Splunk Enterprise Security, Splunk Phantom, and Peirates.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Brian Genz, Senior Manager, Threat &amp; Vulnerability Mgmt., Splunk&lt;br/&gt; Jay Beale, CTO, InGuardians&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2286.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2286.pdf?podcast=1576909570
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Would you be able to detect a sophisticated adversary targeting your Kubernetes clusters and workloads tonight? How do busy teams with stacked backlogs find time to learn how to attack Kubernetes clusters, detect those attacks, and build defenses to reduce the attack surface? We will demonstrate an effective purple team methodology that &quot;uses every part of the buffalo&quot; by 1) executing attacks on Kubernetes using the open source tool Peirates, 2) tracking the attack artifacts from the adversary simulation in Splunk, 3) teaching the defenders how the attack was performed and where to look for forensic artifacts, and 4) working together in the purple-est way possible to improve detection and response capabilities using Splunk Enterprise Security, Splunk Phantom, and Peirates.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Brian Genz, Senior Manager, Threat &amp; Vulnerability Mgmt., Splunk&lt;br/&gt; Jay Beale, CTO, InGuardians&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2286.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2286.pdf?podcast=1576909570
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Would you be able to detect a sophisticated adversary targeting your Kubernetes clusters and workloads tonight? How do busy teams with stacked backlogs find time to learn how to attack Kubernetes clusters, detect those attacks, and build defenses to reduce the attack surface? We will demonstrate an effective purple team methodology that &quot;uses every part of the buffalo&quot; by 1) executing attacks on Kubernetes using the open source tool Peirates, 2) tracking the attack artifacts from the adversary simulation in Splunk, 3) teaching the defenders how the attack was performed and where to look for forensic artifacts, and 4) working together in the purple-est way possible to improve detection and response capabilities using Splunk Enterprise Security, Splunk Phantom, and Peirates.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2286.mp4?podcast=1576909570" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>ATT&amp;CK™ Yourself Before Someone Else Does [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1927.mp4?podcast=1576909570</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:10 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1927.mp4?podcast=1576909570</guid>
+      <comments>ATT&amp;CK™ Yourself Before Someone Else Does</comments>
+      <description>Do you love the idea of the MITRE ATT&amp;CK™ framework, but you’re not sure how to use it in your Splunk-centric security program? This talk will teach you practical ways to use the framework in your own organization and the Splunk security tools that will help you do so. We&#x27;ll start the talk by identifying an adversary and some of their known techniques, and then we&#x27;ll show how to choose an appropriate set of detections and how to test whether those detections are working as expected. You&#x27;ll leave the talk better able to take advantage of threat intelligence, cover the right set of ATT&amp;CK™ tactics and adversary groups, and eliminate organizational blind spots.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; BOTSFATHER Kovar, Principal Security Strategist, Splunk&lt;br/&gt; John Stoner, Principal Security Strategist, Splunk&lt;br/&gt; Dave Herrald, Principal Security Strategist, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1927.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1927.pdf?podcast=1576909570
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Do you love the idea of the MITRE ATT&amp;CK™ framework, but you’re not sure how to use it in your Splunk-centric security program? This talk will teach you practical ways to use the framework in your own organization and the Splunk security tools that will help you do so. We&#x27;ll start the talk by identifying an adversary and some of their known techniques, and then we&#x27;ll show how to choose an appropriate set of detections and how to test whether those detections are working as expected. You&#x27;ll leave the talk better able to take advantage of threat intelligence, cover the right set of ATT&amp;CK™ tactics and adversary groups, and eliminate organizational blind spots.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; BOTSFATHER Kovar, Principal Security Strategist, Splunk&lt;br/&gt; John Stoner, Principal Security Strategist, Splunk&lt;br/&gt; Dave Herrald, Principal Security Strategist, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1927.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1927.pdf?podcast=1576909570
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Do you love the idea of the MITRE ATT&amp;CK™ framework, but you’re not sure how to use it in your Splunk-centric security program? This talk will teach you practical ways to use the framework in your own organization and the Splunk security tools that will help you do so. We&#x27;ll start the talk by identifying an adversary and some of their known techniques, and then we&#x27;ll show how to choose an appropriate set of detections and how to test whether those detections are working as expected. You&#x27;ll leave the talk better able to take advantage of threat intelligence, cover the right set of ATT&amp;CK™ tactics and adversary groups, and eliminate organizational blind spots.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1927.mp4?podcast=1576909570" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Automate Your Phishing Response with Splunk Enterprise Security, Splunk Phantom, and Machine Learning [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1128.mp4?podcast=1576909570</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:10 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1128.mp4?podcast=1576909570</guid>
+      <comments>Automate Your Phishing Response with Splunk Enterprise Security, Splunk Phantom, and Machine Learning</comments>
+      <description>We developed an automation framework that classifies and mitigates emails reported to the SOC. The framework acts as an engine that consumes multiple data sources, including a supervised machine learning model and a risk scoring algorithm to assess with high confidence if an email is phishing, spam, or benign. We will discuss the benefits of our approach to phishing mitigation, such as enhancing our SOC&#x27;s ability to automatically identify, prioritize, and mitigate malicious phishing attempts against employees before any damage is done.  The session will outline the overall design of the framework, detail the primary components that are used within Splunk Phantom and Splunk Enterprise Security, and will outline the supervised machine learning model that we trained to aide the automation engine.  &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mackenzie Kyle, Manager - Cybersecurity Operations Center, JPMorgan Chase&lt;br/&gt; Benji Arnold, Sr. Security Analyst , JPMorgan Chase&lt;br/&gt; Dennis Rhodes, Sr. Security Analyst, JPMorgan Chase&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1128.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1128.pdf?podcast=1576909570
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+We developed an automation framework that classifies and mitigates emails reported to the SOC. The framework acts as an engine that consumes multiple data sources, including a supervised machine learning model and a risk scoring algorithm to assess with high confidence if an email is phishing, spam, or benign. We will discuss the benefits of our approach to phishing mitigation, such as enhancing our SOC&#x27;s ability to automatically identify, prioritize, and mitigate malicious phishing attempts against employees before any damage is done.  The session will outline the overall design of the framework, detail the primary components that are used within Splunk Phantom and Splunk Enterprise Security, and will outline the supervised machine learning model that we trained to aide the automation engine.  
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mackenzie Kyle, Manager - Cybersecurity Operations Center, JPMorgan Chase&lt;br/&gt; Benji Arnold, Sr. Security Analyst , JPMorgan Chase&lt;br/&gt; Dennis Rhodes, Sr. Security Analyst, JPMorgan Chase&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1128.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1128.pdf?podcast=1576909570
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>We developed an automation framework that classifies and mitigates emails reported to the SOC. The framework acts as an engine that consumes multiple data sources, including a supervised machine learning model and a risk scoring algorithm to assess with high confidence if an email is phishing, spam, or benign. We will discuss the benefits of our approach to phishing mitigation, such as enhancing our SOC&#x27;s ability to automatically identify, prioritize, and mitigate malicious phishing attempts against employees before any damage is done.  The session will outline the overall design of the framework, detail the primary components that are used within Splunk Phantom and Splunk Enterprise Security, and will outline the supervised machine learning model that we trained to aide the automation engine.  </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1128.mp4?podcast=1576909570" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Best Practices for Rapid Containment of Incidents [Splunk Enterprise, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SECS2841.mp4?podcast=1576909570</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:10 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SECS2841.mp4?podcast=1576909570</guid>
+      <comments>Best Practices for Rapid Containment of Incidents</comments>
+      <description>Prevention and detection solutions are vital to maintain a healthy network but not sufficient.When a security incident occurs, the ability to investigate rapidly and recover is crucial but is manually intensive, especially when dealing with networks spanning on premise, public, and private cloud environments.Once an incident is detected, then what?Learn how RedSeal integrates within Splunk Enterprise Security and Phantom framework to provide you with immediate answers to burning questions.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Noam Syrkin, Sr. Technical Marketing Engineer, RedSeal&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2841.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2841.pdf?podcast=1576909570
+&lt;p/&gt;
+Product: Splunk Enterprise, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Prevention and detection solutions are vital to maintain a healthy network but not sufficient.When a security incident occurs, the ability to investigate rapidly and recover is crucial but is manually intensive, especially when dealing with networks spanning on premise, public, and private cloud environments.Once an incident is detected, then what?Learn how RedSeal integrates within Splunk Enterprise Security and Phantom framework to provide you with immediate answers to burning questions.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Noam Syrkin, Sr. Technical Marketing Engineer, RedSeal&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2841.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2841.pdf?podcast=1576909570
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Prevention and detection solutions are vital to maintain a healthy network but not sufficient.When a security incident occurs, the ability to investigate rapidly and recover is crucial but is manually intensive, especially when dealing with networks spanning on premise, public, and private cloud environments.Once an incident is detected, then what?Learn how RedSeal integrates within Splunk Enterprise Security and Phantom framework to provide you with immediate answers to burning questions.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SECS2841.mp4?podcast=1576909570" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Beyond Tier 1 Automation: The Hidden Value of Splunk Phantom Automation for Security Operations  [Splunk Enterprise, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2205.mp4?podcast=1576909570</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:10 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2205.mp4?podcast=1576909570</guid>
+      <comments>Beyond Tier 1 Automation: The Hidden Value of Splunk Phantom Automation for Security Operations </comments>
+      <description>You&#x27;ve probably heard examples of Splunk Phantom automating 90% of Tier 1 processes, but did you know that Phantom improves human-lead processes too? Come learn about the hidden value of validation and utility playbooks from Penn State University’s Enterprise Security Manager and Splunk’s Lead Technologist for Higher Education. Validation playbooks are automated tests run to validate a human judgement or request. Utility playbooks are short easy-to-create playbooks in Phantom that an analyst  runs during an investigation.  We’ll cover when to use validation and utility playbooks, how to get started creating them, and ideas for other playbooks you can use to improve your daily operations. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Craig Vincent, Lead Technologist,SLED, Splunk&lt;br/&gt; Chris Decker, Enterprise Security Manager, Penn State University&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2205.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2205.pdf?podcast=1576909570
+&lt;p/&gt;
+Product: Splunk Enterprise, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+You&#x27;ve probably heard examples of Splunk Phantom automating 90% of Tier 1 processes, but did you know that Phantom improves human-lead processes too? Come learn about the hidden value of validation and utility playbooks from Penn State University’s Enterprise Security Manager and Splunk’s Lead Technologist for Higher Education. Validation playbooks are automated tests run to validate a human judgement or request. Utility playbooks are short easy-to-create playbooks in Phantom that an analyst  runs during an investigation.  We’ll cover when to use validation and utility playbooks, how to get started creating them, and ideas for other playbooks you can use to improve your daily operations. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Craig Vincent, Lead Technologist,SLED, Splunk&lt;br/&gt; Chris Decker, Enterprise Security Manager, Penn State University&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2205.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2205.pdf?podcast=1576909570
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>You&#x27;ve probably heard examples of Splunk Phantom automating 90% of Tier 1 processes, but did you know that Phantom improves human-lead processes too? Come learn about the hidden value of validation and utility playbooks from Penn State University’s Enterprise Security Manager and Splunk’s Lead Technologist for Higher Education. Validation playbooks are automated tests run to validate a human judgement or request. Utility playbooks are short easy-to-create playbooks in Phantom that an analyst  runs during an investigation.  We’ll cover when to use validation and utility playbooks, how to get started creating them, and ideas for other playbooks you can use to improve your daily operations. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2205.mp4?podcast=1576909570" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Build Automated Decisions for Incident Response with Splunk Phantom [Splunk Enterprise, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1446.mp4?podcast=1576909570</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:10 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1446.mp4?podcast=1576909570</guid>
+      <comments>Build Automated Decisions for Incident Response with Splunk Phantom</comments>
+      <description>Incident response (IR) analysts are required to make multiple decisions on every alert and incident. Whether the decision is to escalate, respond, or to discard the alert, each one of those decisions is critical to protecting their environment. With the integration of SOAR platforms like Splunk Phantom into IR teams, many of those decisions can now be automated for analysts. These decisions can save hours of work for analysts and allow for focus on more critical alerts. However, there are still questions to answer before implementing these decisions. What data is needed to make confident decisions? Where in the process should these decisions be made? How can existing decisions be improved? How should new decisions be integrated? The General Electric IR team has worked to answer these questions by using Splunk Enterprise and Splunk Phantom. In this session, we will show how our team approached these questions, implemented solutions, and integrated decisions for our analysts to save time and focus their efforts.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mark Cooke, Staff Incident Responder, GE&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1446.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1446.pdf?podcast=1576909570
+&lt;p/&gt;
+Product: Splunk Enterprise, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Incident response (IR) analysts are required to make multiple decisions on every alert and incident. Whether the decision is to escalate, respond, or to discard the alert, each one of those decisions is critical to protecting their environment. With the integration of SOAR platforms like Splunk Phantom into IR teams, many of those decisions can now be automated for analysts. These decisions can save hours of work for analysts and allow for focus on more critical alerts. However, there are still questions to answer before implementing these decisions. What data is needed to make confident decisions? Where in the process should these decisions be made? How can existing decisions be improved? How should new decisions be integrated? The General Electric IR team has worked to answer these questions by using Splunk Enterprise and Splunk Phantom. In this session, we will show how our team approached these questions, implemented solutions, and integrated decisions for our analysts to save time and focus their efforts.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mark Cooke, Staff Incident Responder, GE&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1446.pdf?podcast=1576909570"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1446.pdf?podcast=1576909570
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Incident response (IR) analysts are required to make multiple decisions on every alert and incident. Whether the decision is to escalate, respond, or to discard the alert, each one of those decisions is critical to protecting their environment. With the integration of SOAR platforms like Splunk Phantom into IR teams, many of those decisions can now be automated for analysts. These decisions can save hours of work for analysts and allow for focus on more critical alerts. However, there are still questions to answer before implementing these decisions. What data is needed to make confident decisions? Where in the process should these decisions be made? How can existing decisions be improved? How should new decisions be integrated? The General Electric IR team has worked to answer these questions by using Splunk Enterprise and Splunk Phantom. In this session, we will show how our team approached these questions, implemented solutions, and integrated decisions for our analysts to save time and focus their efforts.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1446.mp4?podcast=1576909570" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Building a Security Monitoring Strategy 2.0 [Splunk Enterprise Security, Splunk Machine Learning Toolkit, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1391.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1391.mp4?podcast=1576909571</guid>
+      <comments>Building a Security Monitoring Strategy 2.0</comments>
+      <description>So you have a SIEM with security data, e.g. firewalls, proxy, endpoint data, etc. Now what? How do you effectively operationalize your investment? This session provides recipes, principles, patterns, and strategies for using Splunk and data-driven analytics to move your security monitoring and compliance effectiveness up the maturity curve. This session will cover how to identify key mixes of data sources, core OOTB content to use, and how to layer capabilities aligned with your maturity. We will help you go beyond the endless alerts and investigations and start creating value by reducing the impact of potential security events. We&#x27;re excited to show you that there&#x27;s no need for a PhD in security assurance and operations—just Splunk and a solid plan.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Paul Davilar, Security Consultant, Splunk&lt;br/&gt; Paul Pelletier, Sr. Security Consultant, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1391.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1391.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk Machine Learning Toolkit, Phantom
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+So you have a SIEM with security data, e.g. firewalls, proxy, endpoint data, etc. Now what? How do you effectively operationalize your investment? This session provides recipes, principles, patterns, and strategies for using Splunk and data-driven analytics to move your security monitoring and compliance effectiveness up the maturity curve. This session will cover how to identify key mixes of data sources, core OOTB content to use, and how to layer capabilities aligned with your maturity. We will help you go beyond the endless alerts and investigations and start creating value by reducing the impact of potential security events. We&#x27;re excited to show you that there&#x27;s no need for a PhD in security assurance and operations—just Splunk and a solid plan.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Paul Davilar, Security Consultant, Splunk&lt;br/&gt; Paul Pelletier, Sr. Security Consultant, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1391.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1391.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>So you have a SIEM with security data, e.g. firewalls, proxy, endpoint data, etc. Now what? How do you effectively operationalize your investment? This session provides recipes, principles, patterns, and strategies for using Splunk and data-driven analytics to move your security monitoring and compliance effectiveness up the maturity curve. This session will cover how to identify key mixes of data sources, core OOTB content to use, and how to layer capabilities aligned with your maturity. We will help you go beyond the endless alerts and investigations and start creating value by reducing the impact of potential security events. We&#x27;re excited to show you that there&#x27;s no need for a PhD in security assurance and operations—just Splunk and a solid plan.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1391.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Deploying Splunk Enterprise Security and Splunk Phantom At Scale [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2233.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2233.mp4?podcast=1576909571</guid>
+      <comments>Deploying Splunk Enterprise Security and Splunk Phantom At Scale</comments>
+      <description>Ever wondered how to integrate or scale Splunk Enterprise Security (ES) and Splunk Phantom?  Join us as we explore best practices involved in setting up clustered environments for ES and Phantom that yield a highly available and scalable security platform. You will leave this session better able to create scalable ES and Phantom deployments, tools, commands, cheat sheets, and troubleshooting methods at your own organizations.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mayur Pipaliya, Forward Deployed Software Engineer, Splunk&lt;br/&gt; Ankit Bhagat, Forward Deployed Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2233.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2233.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Ever wondered how to integrate or scale Splunk Enterprise Security (ES) and Splunk Phantom?  Join us as we explore best practices involved in setting up clustered environments for ES and Phantom that yield a highly available and scalable security platform. You will leave this session better able to create scalable ES and Phantom deployments, tools, commands, cheat sheets, and troubleshooting methods at your own organizations.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mayur Pipaliya, Forward Deployed Software Engineer, Splunk&lt;br/&gt; Ankit Bhagat, Forward Deployed Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2233.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2233.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Ever wondered how to integrate or scale Splunk Enterprise Security (ES) and Splunk Phantom?  Join us as we explore best practices involved in setting up clustered environments for ES and Phantom that yield a highly available and scalable security platform. You will leave this session better able to create scalable ES and Phantom deployments, tools, commands, cheat sheets, and troubleshooting methods at your own organizations.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2233.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Differentiating Evil from Benign in the Normally Abnormal World [Splunk Enterprise Security, Splunk IT Service Intelligence, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SECS2917.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SECS2917.mp4?podcast=1576909571</guid>
+      <comments>Differentiating Evil from Benign in the Normally Abnormal World</comments>
+      <description>Have you ever been positive you had found evil, only to realize it was normal after hours of triage and work? We have all heard and love “KNOW NORMAL FIND EVIL,” but how hard is it to actually know normal? The MITRE ATT&amp;CK Framework gives defenders a better map to “find evil,” but how can this framework be used to “know normal”?Rick will discuss how knowing normal in a world of abnormal is harder than one thinks, and how addressing the actual root cause of evil can improve the technology industry as a whole.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rick  McElroy, Principal Security Strategist , Carbon Black&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk IT Service Intelligence, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Have you ever been positive you had found evil, only to realize it was normal after hours of triage and work? We have all heard and love “KNOW NORMAL FIND EVIL,” but how hard is it to actually know normal? The MITRE ATT&amp;CK Framework gives defenders a better map to “find evil,” but how can this framework be used to “know normal”?Rick will discuss how knowing normal in a world of abnormal is harder than one thinks, and how addressing the actual root cause of evil can improve the technology industry as a whole.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rick  McElroy, Principal Security Strategist , Carbon Black&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2917.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Have you ever been positive you had found evil, only to realize it was normal after hours of triage and work? We have all heard and love “KNOW NORMAL FIND EVIL,” but how hard is it to actually know normal? The MITRE ATT&amp;CK Framework gives defenders a better map to “find evil,” but how can this framework be used to “know normal”?Rick will discuss how knowing normal in a world of abnormal is harder than one thinks, and how addressing the actual root cause of evil can improve the technology industry as a whole.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SECS2917.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Diving into Splunk Phantom&#x27;s Overlooked Features [Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1705.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1705.mp4?podcast=1576909571</guid>
+      <comments>Diving into Splunk Phantom&#x27;s Overlooked Features</comments>
+      <description>Whether you&#x27;re a new or experienced Splunk Phantom user, you&#x27;ll learn from the high-value, often overlooked features we discuss in this session. We&#x27;ll showcase some of Phantom&#x27;s most overlooked valuable features, as well as experienced users&#x27; top ranked features. Join us to learn more about how you can optimize your use of Splunk’s SOAR (Security Orchestration Automation &amp; Response) platform.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Phil Royer, Research Engineer, Splunk&lt;br/&gt; Kavita Varadarajan, Product Manager - Phantom, Splunk&lt;br/&gt; Sam Hays, Sr. Technical Community Manager , Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1705.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1705.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Phantom
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Whether you&#x27;re a new or experienced Splunk Phantom user, you&#x27;ll learn from the high-value, often overlooked features we discuss in this session. We&#x27;ll showcase some of Phantom&#x27;s most overlooked valuable features, as well as experienced users&#x27; top ranked features. Join us to learn more about how you can optimize your use of Splunk’s SOAR (Security Orchestration Automation &amp; Response) platform.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Phil Royer, Research Engineer, Splunk&lt;br/&gt; Kavita Varadarajan, Product Manager - Phantom, Splunk&lt;br/&gt; Sam Hays, Sr. Technical Community Manager , Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1705.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1705.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Whether you&#x27;re a new or experienced Splunk Phantom user, you&#x27;ll learn from the high-value, often overlooked features we discuss in this session. We&#x27;ll showcase some of Phantom&#x27;s most overlooked valuable features, as well as experienced users&#x27; top ranked features. Join us to learn more about how you can optimize your use of Splunk’s SOAR (Security Orchestration Automation &amp; Response) platform.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1705.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Don&#x27;t Blow Your Budget Fighting Fraud; Orchestrate and Automate Instead [Splunk Enterprise, Splunk Cloud, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1104.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1104.mp4?podcast=1576909571</guid>
+      <comments>Don&#x27;t Blow Your Budget Fighting Fraud; Orchestrate and Automate Instead</comments>
+      <description>Manual sorting through spreadsheets, disparate applications, and scattered data sources to conduct link analysis for a fraud investigation is both painful and ineffective. There must be a better way, right? In this session we&#x27;ll use Splunk Enterprise and Splunk Phantom to automate repeatable fraud investigation tasks, which will save your team time and better protect your assets from the bad guys.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matthew Joseff, Director of Specialists - North Asia and Japan, Splunk&lt;br/&gt; Abhishek Dujari, Security Specialist, APAC, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1104.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1104.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Manual sorting through spreadsheets, disparate applications, and scattered data sources to conduct link analysis for a fraud investigation is both painful and ineffective. There must be a better way, right? In this session we&#x27;ll use Splunk Enterprise and Splunk Phantom to automate repeatable fraud investigation tasks, which will save your team time and better protect your assets from the bad guys.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matthew Joseff, Director of Specialists - North Asia and Japan, Splunk&lt;br/&gt; Abhishek Dujari, Security Specialist, APAC, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1104.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1104.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Manual sorting through spreadsheets, disparate applications, and scattered data sources to conduct link analysis for a fraud investigation is both painful and ineffective. There must be a better way, right? In this session we&#x27;ll use Splunk Enterprise and Splunk Phantom to automate repeatable fraud investigation tasks, which will save your team time and better protect your assets from the bad guys.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1104.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Examining Splunk Phantom&#x27;s Architecture [Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1709.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1709.mp4?podcast=1576909571</guid>
+      <comments>Examining Splunk Phantom&#x27;s Architecture</comments>
+      <description>Want to learn more about Splunk Phantom&#x27;s platform architecture? Join us in this session for an in-depth technical review of all key processes, including ingestion, automation, action execution, health monitoring, the data store, and more.  This session will give experienced users a much deeper understanding of the technology behind Splunk’s SOAR (Security Orchestration Automation &amp; Response) platform.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sourabh Sourabh, VP &amp; Distinguished Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1709.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1709.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Phantom
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Want to learn more about Splunk Phantom&#x27;s platform architecture? Join us in this session for an in-depth technical review of all key processes, including ingestion, automation, action execution, health monitoring, the data store, and more.  This session will give experienced users a much deeper understanding of the technology behind Splunk’s SOAR (Security Orchestration Automation &amp; Response) platform.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sourabh Sourabh, VP &amp; Distinguished Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1709.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1709.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Want to learn more about Splunk Phantom&#x27;s platform architecture? Join us in this session for an in-depth technical review of all key processes, including ingestion, automation, action execution, health monitoring, the data store, and more.  This session will give experienced users a much deeper understanding of the technology behind Splunk’s SOAR (Security Orchestration Automation &amp; Response) platform.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1709.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Handling Expanding Data Sources &amp; Datacenter Migration While Strengthening the Nutanix Security Posture with Splunk and HCI [Splunk Enterprise, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FNS2584.mov?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FNS2584.mov?podcast=1576909571</guid>
+      <comments>Handling Expanding Data Sources &amp; Datacenter Migration While Strengthening the Nutanix Security Posture with Splunk and HCI</comments>
+      <description>Nutanix implemented Splunk to improve operations and security. Attend this session to learn how we started small and grew our Splunk footprint, going from 80 GB/day to 700GB-1.8TB/day, to satisfy key IT and business needs. You will also learn how we leveraged Splunk and our own Nutanix infrastructure for a successful data center migration that involved over 2000 clients and 80+TB of data. We’ll share best practices and insights into running virtualized Splunk Enterprise on hyperconverged infrastructure (HCI). You’ll also learn about an app for Phantom, which we’ll demo, we built to provide security operations teams the ability to quickly contain a VM by stopping or suspending it, then safely starting it, plus the other workloads, like firewall, Docker (incl. Splunk Docker), ETL, etc., we run alongside Splunk on the same infrastructure stack. Whether you’re a Splunk user or own the infrastructure that supports your Splunk team, you’ll get details to help you in your job.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nicholas Pierini, Manager, Security Engineering, Nutanix&lt;br/&gt; Brandon Gagliardi, Sr. Security Engineer, Nutanix&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FNS2584.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FNS2584.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Nutanix implemented Splunk to improve operations and security. Attend this session to learn how we started small and grew our Splunk footprint, going from 80 GB/day to 700GB-1.8TB/day, to satisfy key IT and business needs. You will also learn how we leveraged Splunk and our own Nutanix infrastructure for a successful data center migration that involved over 2000 clients and 80+TB of data. We’ll share best practices and insights into running virtualized Splunk Enterprise on hyperconverged infrastructure (HCI). You’ll also learn about an app for Phantom, which we’ll demo, we built to provide security operations teams the ability to quickly contain a VM by stopping or suspending it, then safely starting it, plus the other workloads, like firewall, Docker (incl. Splunk Docker), ETL, etc., we run alongside Splunk on the same infrastructure stack. Whether you’re a Splunk user or own the infrastructure that supports your Splunk team, you’ll get details to help you in your job.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nicholas Pierini, Manager, Security Engineering, Nutanix&lt;br/&gt; Brandon Gagliardi, Sr. Security Engineer, Nutanix&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FNS2584.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FNS2584.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Nutanix implemented Splunk to improve operations and security. Attend this session to learn how we started small and grew our Splunk footprint, going from 80 GB/day to 700GB-1.8TB/day, to satisfy key IT and business needs. You will also learn how we leveraged Splunk and our own Nutanix infrastructure for a successful data center migration that involved over 2000 clients and 80+TB of data. We’ll share best practices and insights into running virtualized Splunk Enterprise on hyperconverged infrastructure (HCI). You’ll also learn about an app for Phantom, which we’ll demo, we built to provide security operations teams the ability to quickly contain a VM by stopping or suspending it, then safely starting it, plus the other workloads, like firewall, Docker (incl. Splunk Docker), ETL, etc., we run alongside Splunk on the same infrastructure stack. Whether you’re a Splunk user or own the infrastructure that supports your Splunk team, you’ll get details to help you in your job.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FNS2584.mov?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>How 3M is Transforming SAP ERP Operations through AIOPS [Splunk Enterprise, Splunk IT Service Intelligence, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1642.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1642.mp4?podcast=1576909571</guid>
+      <comments>How 3M is Transforming SAP ERP Operations through AIOPS</comments>
+      <description>Discover how 3M is using Splunk to get more value and insights from their mission-critical SAP deployment and its complex legacy environment. You can see how far we have we come and where  our vision will take us. Managing SAP is a complex and mission-critical challenge. With its proprietary and often-customized inner workings, SAP has become synonymous with complexity and has long been a difficult challenge for IT departments around the globe to manage. With even short outages carrying the potential of large impacts, it is more important than ever for large ERP customers to bring their systems management and monitoring practices into the data-driven world. In this session, learn what transformational outcomes have been and are being achieved as this 116-year-old global manufacturer partners with Splunk to embrace and overcome ERP and legacy operational data chaos.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Claw Clawson, SplunkYoda, Splunk&lt;br/&gt; Michael Flint, IT Operations Manager, 3M&lt;br/&gt; Nathan Carr, DevOps Engineer, 3M&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Discover how 3M is using Splunk to get more value and insights from their mission-critical SAP deployment and its complex legacy environment. You can see how far we have we come and where  our vision will take us. Managing SAP is a complex and mission-critical challenge. With its proprietary and often-customized inner workings, SAP has become synonymous with complexity and has long been a difficult challenge for IT departments around the globe to manage. With even short outages carrying the potential of large impacts, it is more important than ever for large ERP customers to bring their systems management and monitoring practices into the data-driven world. In this session, learn what transformational outcomes have been and are being achieved as this 116-year-old global manufacturer partners with Splunk to embrace and overcome ERP and legacy operational data chaos.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Claw Clawson, SplunkYoda, Splunk&lt;br/&gt; Michael Flint, IT Operations Manager, 3M&lt;br/&gt; Nathan Carr, DevOps Engineer, 3M&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1642.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Discover how 3M is using Splunk to get more value and insights from their mission-critical SAP deployment and its complex legacy environment. You can see how far we have we come and where  our vision will take us. Managing SAP is a complex and mission-critical challenge. With its proprietary and often-customized inner workings, SAP has become synonymous with complexity and has long been a difficult challenge for IT departments around the globe to manage. With even short outages carrying the potential of large impacts, it is more important than ever for large ERP customers to bring their systems management and monitoring practices into the data-driven world. In this session, learn what transformational outcomes have been and are being achieved as this 116-year-old global manufacturer partners with Splunk to embrace and overcome ERP and legacy operational data chaos.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1642.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Ideas to Data to Outcomes [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BAS2765.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BAS2765.mp4?podcast=1576909571</guid>
+      <comments>Ideas to Data to Outcomes</comments>
+      <description>WWT integrates Splunk in enterprise architectures for our joint customers.  Rick Pina from WWT is going to describe how Splunk, when part of a larger architecture, is providing true mission and operational outcomes.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rick Pina, WWT&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BAS2765.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BAS2765.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+WWT integrates Splunk in enterprise architectures for our joint customers.  Rick Pina from WWT is going to describe how Splunk, when part of a larger architecture, is providing true mission and operational outcomes.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rick Pina, WWT&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BAS2765.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BAS2765.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>WWT integrates Splunk in enterprise architectures for our joint customers.  Rick Pina from WWT is going to describe how Splunk, when part of a larger architecture, is providing true mission and operational outcomes.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BAS2765.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Improve Your Cyber Monitoring &amp; Response Strategy with Splunk Enterprise Security and Splunk Phantom [Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1545.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1545.mp4?podcast=1576909571</guid>
+      <comments>Improve Your Cyber Monitoring &amp; Response Strategy with Splunk Enterprise Security and Splunk Phantom</comments>
+      <description>How do you know if your alerting and response processes adequately cover the tactics and techniques that your adversaries will use against you? If you&#x27;re not sure, then how do to you continuously improve to adapt to ever-evolving threats? This session will provide practical guidance on leveraging models like the diamond model, MITRE ATT&amp;CK™, and OODA to deconstruct your monitoring and response program so that you can make strategic improvements and mature it on a strong foundation. Using these frameworks will help your team recognize its own bias in developing use cases, understand how its alerting and response coverage maps to adversary tactics/techniques, and develop and prioritize new use cases. The session will wrap up discussing practical tips for creating a continuous improvement program that helps you leverage Splunk Enterprise Security and Splunk Phantom to maintain a strong security posture.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ed Svaleson, Accenture&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1545.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1545.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+How do you know if your alerting and response processes adequately cover the tactics and techniques that your adversaries will use against you? If you&#x27;re not sure, then how do to you continuously improve to adapt to ever-evolving threats? This session will provide practical guidance on leveraging models like the diamond model, MITRE ATT&amp;CK™, and OODA to deconstruct your monitoring and response program so that you can make strategic improvements and mature it on a strong foundation. Using these frameworks will help your team recognize its own bias in developing use cases, understand how its alerting and response coverage maps to adversary tactics/techniques, and develop and prioritize new use cases. The session will wrap up discussing practical tips for creating a continuous improvement program that helps you leverage Splunk Enterprise Security and Splunk Phantom to maintain a strong security posture.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ed Svaleson, Accenture&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1545.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1545.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>How do you know if your alerting and response processes adequately cover the tactics and techniques that your adversaries will use against you? If you&#x27;re not sure, then how do to you continuously improve to adapt to ever-evolving threats? This session will provide practical guidance on leveraging models like the diamond model, MITRE ATT&amp;CK™, and OODA to deconstruct your monitoring and response program so that you can make strategic improvements and mature it on a strong foundation. Using these frameworks will help your team recognize its own bias in developing use cases, understand how its alerting and response coverage maps to adversary tactics/techniques, and develop and prioritize new use cases. The session will wrap up discussing practical tips for creating a continuous improvement program that helps you leverage Splunk Enterprise Security and Splunk Phantom to maintain a strong security posture.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1545.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Klapp-Back at Attackers: Capturing Data in the Wild to Build Tailored Defenses with Splunk Security Analytics [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1357.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1357.mp4?podcast=1576909571</guid>
+      <comments>Klapp-Back at Attackers: Capturing Data in the Wild to Build Tailored Defenses with Splunk Security Analytics</comments>
+      <description>Splunk&#x27;s Security Research Team collects attack data in the wild from across the globe and analyzes new and unusual techniques, tactics, and procedures employed by threat actors. We use this data to help customers build tailored defenses—defenses that automatically detect, investigate, and respond to suspicious activities in real time. In this session we will discuss how Splunk security researchers created our own honeypot and data collection framework in response to research demonstrating that honeypots were twice as effective as open-source intelligence feeds at detecting new threats (http://tinyurl.com/y335po8d). We will provide an introduction to honeypots and explain how we architected and built KLAPP-Back, a high-interaction SSH honeypot. We will also discuss how KLAPP-Back helped us build better detection analytics and seed Splunk Enterprise Security, Splunk Phantom, and Splunk User Behavior Analytics use cases with attacker data. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Bhavin Patel, Security Software Engineer, Splunk&lt;br/&gt; Jose Hernandez, Security Researcher, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1357.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1357.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Splunk&#x27;s Security Research Team collects attack data in the wild from across the globe and analyzes new and unusual techniques, tactics, and procedures employed by threat actors. We use this data to help customers build tailored defenses—defenses that automatically detect, investigate, and respond to suspicious activities in real time. In this session we will discuss how Splunk security researchers created our own honeypot and data collection framework in response to research demonstrating that honeypots were twice as effective as open-source intelligence feeds at detecting new threats (http://tinyurl.com/y335po8d). We will provide an introduction to honeypots and explain how we architected and built KLAPP-Back, a high-interaction SSH honeypot. We will also discuss how KLAPP-Back helped us build better detection analytics and seed Splunk Enterprise Security, Splunk Phantom, and Splunk User Behavior Analytics use cases with attacker data. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Bhavin Patel, Security Software Engineer, Splunk&lt;br/&gt; Jose Hernandez, Security Researcher, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1357.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1357.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Splunk&#x27;s Security Research Team collects attack data in the wild from across the globe and analyzes new and unusual techniques, tactics, and procedures employed by threat actors. We use this data to help customers build tailored defenses—defenses that automatically detect, investigate, and respond to suspicious activities in real time. In this session we will discuss how Splunk security researchers created our own honeypot and data collection framework in response to research demonstrating that honeypots were twice as effective as open-source intelligence feeds at detecting new threats (http://tinyurl.com/y335po8d). We will provide an introduction to honeypots and explain how we architected and built KLAPP-Back, a high-interaction SSH honeypot. We will also discuss how KLAPP-Back helped us build better detection analytics and seed Splunk Enterprise Security, Splunk Phantom, and Splunk User Behavior Analytics use cases with attacker data. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1357.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Make Your Security Tools Work Better Together Using Splunk&#x27;s Adaptive Operations Framework [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2372.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2372.mp4?podcast=1576909571</guid>
+      <comments>Make Your Security Tools Work Better Together Using Splunk&#x27;s Adaptive Operations Framework</comments>
+      <description>Security architectures typically involve many layers of tools and products that are not designed to work together, leaving gaps in how security teams bridge multiple domains to coordinate defense. The Splunk Adaptive Operations Framework (AOF) addresses these gaps by connecting security products and technologies from our partners with Splunk security solutions including Splunk Enterprise Security (ES) and Splunk Phantom. Join this session to learn how the Splunk AOF benefits both users and security technology providers by enabling rich context for all security decisions, collaborative decision-making, and orchestrated actions across diverse security technologies. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Alexa Araneta, Product Marketing Manager, Splunk&lt;br/&gt; John Dominguez, Product Marketing Director, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2372.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2372.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Security architectures typically involve many layers of tools and products that are not designed to work together, leaving gaps in how security teams bridge multiple domains to coordinate defense. The Splunk Adaptive Operations Framework (AOF) addresses these gaps by connecting security products and technologies from our partners with Splunk security solutions including Splunk Enterprise Security (ES) and Splunk Phantom. Join this session to learn how the Splunk AOF benefits both users and security technology providers by enabling rich context for all security decisions, collaborative decision-making, and orchestrated actions across diverse security technologies. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Alexa Araneta, Product Marketing Manager, Splunk&lt;br/&gt; John Dominguez, Product Marketing Director, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2372.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2372.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Security architectures typically involve many layers of tools and products that are not designed to work together, leaving gaps in how security teams bridge multiple domains to coordinate defense. The Splunk Adaptive Operations Framework (AOF) addresses these gaps by connecting security products and technologies from our partners with Splunk security solutions including Splunk Enterprise Security (ES) and Splunk Phantom. Join this session to learn how the Splunk AOF benefits both users and security technology providers by enabling rich context for all security decisions, collaborative decision-making, and orchestrated actions across diverse security technologies. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2372.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Mission Control: A Day in the Life of a Security Analyst [Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1706.mp4?podcast=1576909571</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:11 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1706.mp4?podcast=1576909571</guid>
+      <comments>Mission Control: A Day in the Life of a Security Analyst</comments>
+      <description>Join us to see the latest developments with Splunk’s Security Operations Suite. We’ll share background on the underlying architecture as well as a showcase of new features. Learn how your security use cases are solved with scale and performance.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Atom Coffman, Starbucks&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1706.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1706.pdf?podcast=1576909571
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Join us to see the latest developments with Splunk’s Security Operations Suite. We’ll share background on the underlying architecture as well as a showcase of new features. Learn how your security use cases are solved with scale and performance.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Atom Coffman, Starbucks&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1706.pdf?podcast=1576909571"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1706.pdf?podcast=1576909571
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Join us to see the latest developments with Splunk’s Security Operations Suite. We’ll share background on the underlying architecture as well as a showcase of new features. Learn how your security use cases are solved with scale and performance.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1706.mp4?podcast=1576909571" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Our Splunk Phantom Journey: Implementation, Lessons Learned, and Playbook Walkthroughs [Splunk Enterprise, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1506.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1506.mp4?podcast=1576909572</guid>
+      <comments>Our Splunk Phantom Journey: Implementation, Lessons Learned, and Playbook Walkthroughs</comments>
+      <description>Learn from our experience implementing Splunk Phantom so that you can speed up your automation journey.  We&#x27;ll examine key decisions we made with our implementation and the good and the bad that resulted. We&#x27;ll also cover our automation efforts in event triage, incident response and everything in between, with walkthroughs of our top playbooks. Additionally, we&#x27;ll present how we tackled Splunk alert ingestion and what Phantom could look like in a cloud-first deployment.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; John Murphy, Security Analyst, NAB&lt;br/&gt; Chris Hanlen, Lead Cyber Security Specialist, NAB&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1506.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1506.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Learn from our experience implementing Splunk Phantom so that you can speed up your automation journey.  We&#x27;ll examine key decisions we made with our implementation and the good and the bad that resulted. We&#x27;ll also cover our automation efforts in event triage, incident response and everything in between, with walkthroughs of our top playbooks. Additionally, we&#x27;ll present how we tackled Splunk alert ingestion and what Phantom could look like in a cloud-first deployment.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; John Murphy, Security Analyst, NAB&lt;br/&gt; Chris Hanlen, Lead Cyber Security Specialist, NAB&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1506.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1506.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Learn from our experience implementing Splunk Phantom so that you can speed up your automation journey.  We&#x27;ll examine key decisions we made with our implementation and the good and the bad that resulted. We&#x27;ll also cover our automation efforts in event triage, incident response and everything in between, with walkthroughs of our top playbooks. Additionally, we&#x27;ll present how we tackled Splunk alert ingestion and what Phantom could look like in a cloud-first deployment.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1506.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Pull up your SOCs 2.0 [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2186.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2186.mp4?podcast=1576909572</guid>
+      <comments>Pull up your SOCs 2.0</comments>
+      <description>Last year, after our outrageously successful talk &quot;Pull Up Your SOCs: A Splunk Primer on Building or Rebuilding your Security Operations&quot;, we wanted to revisit this topic to cover changes in Security Operations that have taken place over the last 12 months. Whether you’re starting from scratch or rebuilding your security program, the first twelve months of standing up your security operations is absolutely critical to success. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Dimitri McKay, Staff Security Architect | Jedi Master, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2186.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2186.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Last year, after our outrageously successful talk &quot;Pull Up Your SOCs: A Splunk Primer on Building or Rebuilding your Security Operations&quot;, we wanted to revisit this topic to cover changes in Security Operations that have taken place over the last 12 months. Whether you’re starting from scratch or rebuilding your security program, the first twelve months of standing up your security operations is absolutely critical to success. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Dimitri McKay, Staff Security Architect | Jedi Master, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2186.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2186.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Last year, after our outrageously successful talk &quot;Pull Up Your SOCs: A Splunk Primer on Building or Rebuilding your Security Operations&quot;, we wanted to revisit this topic to cover changes in Security Operations that have taken place over the last 12 months. Whether you’re starting from scratch or rebuilding your security program, the first twelve months of standing up your security operations is absolutely critical to success. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2186.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Running Splunk in an Air-gapped environment  [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1190.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1190.mp4?podcast=1576909572</guid>
+      <comments>Running Splunk in an Air-gapped environment </comments>
+      <description>Many government agencies and for-profit companies require that you run Splunk on a network disconnected from the outside Internet. This presents many challenges, including how to cross air gaps and one-way transfers, how to operate indexers in an air-gapped environment, and how to automate backwards. This session will cover lessons learned from a variety of air-gapped deployments.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Steve Schohn, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1190.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1190.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Many government agencies and for-profit companies require that you run Splunk on a network disconnected from the outside Internet. This presents many challenges, including how to cross air gaps and one-way transfers, how to operate indexers in an air-gapped environment, and how to automate backwards. This session will cover lessons learned from a variety of air-gapped deployments.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Steve Schohn, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1190.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1190.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Many government agencies and for-profit companies require that you run Splunk on a network disconnected from the outside Internet. This presents many challenges, including how to cross air gaps and one-way transfers, how to operate indexers in an air-gapped environment, and how to automate backwards. This session will cover lessons learned from a variety of air-gapped deployments.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1190.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Scary (Spooky?) Fast Intelligence-Based Hunting with Splunk Phantom [Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1280.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1280.mp4?podcast=1576909572</guid>
+      <comments>Scary (Spooky?) Fast Intelligence-Based Hunting with Splunk Phantom</comments>
+      <description>Organizations today struggle with quickly and consistently applying behavior-based threat intelligence across their security tools. The hours needed to stitch together this information manually leave analysts unprepared to quickly turnaround questions from management about their vulnerability to threats that their management sees in the news. In this session we will demonstrate how to use Splunk Phantom to reduce that time lag by automating your threat hunts. Specifically, we will show you how to use Yet Another Recursive Algorithm (YARA) rules on endpoint and network security tools automatically and simultaneously. We will use a case study to show the benefits achieved from this playbook: better reporting, more robust procedures, faster time to detect malware variants, and generally more efficient and effective threat hunts.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Robb Mayeski, Security Automation Magician , EY&lt;br/&gt; Will Burger, Security Automation Consultant, EY &lt;br/&gt; Haris Shawl, EY&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1280.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1280.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Organizations today struggle with quickly and consistently applying behavior-based threat intelligence across their security tools. The hours needed to stitch together this information manually leave analysts unprepared to quickly turnaround questions from management about their vulnerability to threats that their management sees in the news. In this session we will demonstrate how to use Splunk Phantom to reduce that time lag by automating your threat hunts. Specifically, we will show you how to use Yet Another Recursive Algorithm (YARA) rules on endpoint and network security tools automatically and simultaneously. We will use a case study to show the benefits achieved from this playbook: better reporting, more robust procedures, faster time to detect malware variants, and generally more efficient and effective threat hunts.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Robb Mayeski, Security Automation Magician , EY&lt;br/&gt; Will Burger, Security Automation Consultant, EY &lt;br/&gt; Haris Shawl, EY&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1280.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1280.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Organizations today struggle with quickly and consistently applying behavior-based threat intelligence across their security tools. The hours needed to stitch together this information manually leave analysts unprepared to quickly turnaround questions from management about their vulnerability to threats that their management sees in the news. In this session we will demonstrate how to use Splunk Phantom to reduce that time lag by automating your threat hunts. Specifically, we will show you how to use Yet Another Recursive Algorithm (YARA) rules on endpoint and network security tools automatically and simultaneously. We will use a case study to show the benefits achieved from this playbook: better reporting, more robust procedures, faster time to detect malware variants, and generally more efficient and effective threat hunts.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1280.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Solving Endpoint Security &amp; Perimeter Blindness with Splunk – Lessons from Cisco’s Internal InfoSec Deployment  [Splunk Cloud, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SECS2899.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SECS2899.mp4?podcast=1576909572</guid>
+      <comments>Solving Endpoint Security &amp; Perimeter Blindness with Splunk – Lessons from Cisco’s Internal InfoSec Deployment </comments>
+      <description>Endpoint security is more than detecting malware.  Most insider threats, however, don’t involve malware, but other security issues associated with the user and endpoint.  Learn how Cisco’s own InfoSec team uses Cisco Endpoint Security Analytics Built on Splunk and Cisco NGFW integration to increase its endpoint security and threat visibility.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Scott Pope, Cisco&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2899.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2899.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Cloud, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Endpoint security is more than detecting malware.  Most insider threats, however, don’t involve malware, but other security issues associated with the user and endpoint.  Learn how Cisco’s own InfoSec team uses Cisco Endpoint Security Analytics Built on Splunk and Cisco NGFW integration to increase its endpoint security and threat visibility.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Scott Pope, Cisco&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SECS2899.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SECS2899.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Endpoint security is more than detecting malware.  Most insider threats, however, don’t involve malware, but other security issues associated with the user and endpoint.  Learn how Cisco’s own InfoSec team uses Cisco Endpoint Security Analytics Built on Splunk and Cisco NGFW integration to increase its endpoint security and threat visibility.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SECS2899.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Soup to Nuts SRE: How to leverage ITSI, VictorOps and Phantom to be a site reliability engineering super hero [Splunk Enterprise, Splunk IT Service Intelligence, Phantom, VictorOps]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909572</guid>
+      <comments>Soup to Nuts SRE: How to leverage ITSI, VictorOps and Phantom to be a site reliability engineering super hero</comments>
+      <description>Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Chris Crocco, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk IT Service Intelligence, Phantom, VictorOps
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Chris Crocco, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk Phantom Ignition: Getting Automation Off the Ground and Working for You [Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1949.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1949.mp4?podcast=1576909572</guid>
+      <comments>Splunk Phantom Ignition: Getting Automation Off the Ground and Working for You</comments>
+      <description>Did you get more staff for heartbleed? How about Shellshock or the OPM breach? Neither did we. The threat landscape is growing faster than ever and we need to cover more bases without more people. Enter Splunk Phantom: automation and integration for the masses. This session will help you understand what you need to build an effective Phantom ecosystem. I will go over initial strategies, real world examples, and use cases, and we will also take a glance at some more robust development projects that show the power of Phantom&#x27;s extensibility. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mhike Funderburk, Senior Security Engineer, Stage 2 Security&lt;br/&gt; Brandon Robinson, Senior Security Architect, Stage 2 Security&lt;br/&gt; Luke Summers, Cyber Security Engineer, Stage 2 Security&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1949.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1949.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Did you get more staff for heartbleed? How about Shellshock or the OPM breach? Neither did we. The threat landscape is growing faster than ever and we need to cover more bases without more people. Enter Splunk Phantom: automation and integration for the masses. This session will help you understand what you need to build an effective Phantom ecosystem. I will go over initial strategies, real world examples, and use cases, and we will also take a glance at some more robust development projects that show the power of Phantom&#x27;s extensibility. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Mhike Funderburk, Senior Security Engineer, Stage 2 Security&lt;br/&gt; Brandon Robinson, Senior Security Architect, Stage 2 Security&lt;br/&gt; Luke Summers, Cyber Security Engineer, Stage 2 Security&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1949.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1949.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Did you get more staff for heartbleed? How about Shellshock or the OPM breach? Neither did we. The threat landscape is growing faster than ever and we need to cover more bases without more people. Enter Splunk Phantom: automation and integration for the masses. This session will help you understand what you need to build an effective Phantom ecosystem. I will go over initial strategies, real world examples, and use cases, and we will also take a glance at some more robust development projects that show the power of Phantom&#x27;s extensibility. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1949.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Step Up Your Defenses with End-To-End Detection, Investigation, and Response [Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1775.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1775.mp4?podcast=1576909572</guid>
+      <comments>Step Up Your Defenses with End-To-End Detection, Investigation, and Response</comments>
+      <description>Maturing and scaling your security operations rests on your ability to process and analyze huge volumes of often unrelated data in real time. But today&#x27;s tools notoriously overwhelm SOC analysts with the sheer number of alerts and high percent of false positives, resulting in confusion about what tools to use for investigation and response. In this session, members of Splunk&#x27;s Security Research Team will discuss the next generation of Enterprise Security Content Updates that they developed, which integrate the entire Splunk for Security product suite to create a robust end-to-end defense—detection, investigation, and response. We will go over how to use these security guides, which will leverage Splunk Enterprise Security, Splunk Phantom, and Splunk User Behavior Analytics. We&#x27;ll also highlight the Run Story feature we built to operationalize ESCU Analytics stories and share tools and techniques customers can use to write and test their own use cases.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Bhavin Patel, Security Software Engineer, Splunk&lt;br/&gt; Jose Hernandez, Security Researcher, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1775.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1775.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Maturing and scaling your security operations rests on your ability to process and analyze huge volumes of often unrelated data in real time. But today&#x27;s tools notoriously overwhelm SOC analysts with the sheer number of alerts and high percent of false positives, resulting in confusion about what tools to use for investigation and response. In this session, members of Splunk&#x27;s Security Research Team will discuss the next generation of Enterprise Security Content Updates that they developed, which integrate the entire Splunk for Security product suite to create a robust end-to-end defense—detection, investigation, and response. We will go over how to use these security guides, which will leverage Splunk Enterprise Security, Splunk Phantom, and Splunk User Behavior Analytics. We&#x27;ll also highlight the Run Story feature we built to operationalize ESCU Analytics stories and share tools and techniques customers can use to write and test their own use cases.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Bhavin Patel, Security Software Engineer, Splunk&lt;br/&gt; Jose Hernandez, Security Researcher, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1775.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1775.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Maturing and scaling your security operations rests on your ability to process and analyze huge volumes of often unrelated data in real time. But today&#x27;s tools notoriously overwhelm SOC analysts with the sheer number of alerts and high percent of false positives, resulting in confusion about what tools to use for investigation and response. In this session, members of Splunk&#x27;s Security Research Team will discuss the next generation of Enterprise Security Content Updates that they developed, which integrate the entire Splunk for Security product suite to create a robust end-to-end defense—detection, investigation, and response. We will go over how to use these security guides, which will leverage Splunk Enterprise Security, Splunk Phantom, and Splunk User Behavior Analytics. We&#x27;ll also highlight the Run Story feature we built to operationalize ESCU Analytics stories and share tools and techniques customers can use to write and test their own use cases.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1775.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Survival of the Fastest: The 1-10-60 Rule [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1573.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1573.mp4?podcast=1576909572</guid>
+      <comments>Survival of the Fastest: The 1-10-60 Rule</comments>
+      <description>Winston Churchill once said, “Success is not final, failure is not fatal: it is the courage to continue that counts.&quot; Then again, Churchill wasn’t in cybersecurity...While our successes are certainly never final, our failures can absolutely be fatal—to a company and our continued employment. What&#x27;s a good way to actually measure success and failure, though, outside of not appearing on the front page of the paper? Well, as CrowdStrike notes, you have on average one minute to detect an attack in progress, ten minutes to understand it, and sixty minutes to contain it. We will show how to use this 1-10-60 Rule as a measuring metric and leverage the data and capabilities within Splunk and its ecosystem to ensure that we win the survival of the fastest.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Wissam Ali-Ahmad, Lead Solutions Architect, Splunk&lt;br/&gt; Tim Sullivan, Global Senior Strategic Solutions Architect, CrowdStrike&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1573.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1573.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Winston Churchill once said, “Success is not final, failure is not fatal: it is the courage to continue that counts.&quot; Then again, Churchill wasn’t in cybersecurity...While our successes are certainly never final, our failures can absolutely be fatal—to a company and our continued employment. What&#x27;s a good way to actually measure success and failure, though, outside of not appearing on the front page of the paper? Well, as CrowdStrike notes, you have on average one minute to detect an attack in progress, ten minutes to understand it, and sixty minutes to contain it. We will show how to use this 1-10-60 Rule as a measuring metric and leverage the data and capabilities within Splunk and its ecosystem to ensure that we win the survival of the fastest.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Wissam Ali-Ahmad, Lead Solutions Architect, Splunk&lt;br/&gt; Tim Sullivan, Global Senior Strategic Solutions Architect, CrowdStrike&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1573.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1573.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Winston Churchill once said, “Success is not final, failure is not fatal: it is the courage to continue that counts.&quot; Then again, Churchill wasn’t in cybersecurity...While our successes are certainly never final, our failures can absolutely be fatal—to a company and our continued employment. What&#x27;s a good way to actually measure success and failure, though, outside of not appearing on the front page of the paper? Well, as CrowdStrike notes, you have on average one minute to detect an attack in progress, ten minutes to understand it, and sixty minutes to contain it. We will show how to use this 1-10-60 Rule as a measuring metric and leverage the data and capabilities within Splunk and its ecosystem to ensure that we win the survival of the fastest.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1573.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Tackle AWS Security Automatically with Splunk Phantom [Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2187.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2187.mp4?podcast=1576909572</guid>
+      <comments>Tackle AWS Security Automatically with Splunk Phantom</comments>
+      <description>This session will give you a comprehensive look into automating the investigation and remediation of AWS security events using Splunk Phantom. The session will start with an overview and then progress to a live technical walkthrough of setting up Phantom to remediate an AWS security event. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matt Tichenor, Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2187.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2187.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Phantom
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+This session will give you a comprehensive look into automating the investigation and remediation of AWS security events using Splunk Phantom. The session will start with an overview and then progress to a live technical walkthrough of setting up Phantom to remediate an AWS security event. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matt Tichenor, Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2187.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2187.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>This session will give you a comprehensive look into automating the investigation and remediation of AWS security events using Splunk Phantom. The session will start with an overview and then progress to a live technical walkthrough of setting up Phantom to remediate an AWS security event. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2187.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>The CISO’s Guide to Shutting Down Attacks Using the Dark Web + Live Dark Web Tour [Splunk Enterprise, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2887.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2887.mp4?podcast=1576909572</guid>
+      <comments>The CISO’s Guide to Shutting Down Attacks Using the Dark Web + Live Dark Web Tour</comments>
+      <description>Nick Hayes, VP of Strategy at IntSights, will take you on a tour of the dark web and explain how CISOs can successfully implement a dark web intelligence strategy to neutralize threats outside the wire and at the earliest stages of the cyber kill chain. Now equipped with IntSights External Threat Intelligence, learn how you can take advantage of it through seamless integrations with your Splunk SIEM and Phantom toolsets. Enrich your threat data with internal network security observables, expedite incident reviews and prioritization, and automate your threat prevention and response with SOAR and integrated playbooks.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nick Hayes, IntSights&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2887.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2887.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Nick Hayes, VP of Strategy at IntSights, will take you on a tour of the dark web and explain how CISOs can successfully implement a dark web intelligence strategy to neutralize threats outside the wire and at the earliest stages of the cyber kill chain. Now equipped with IntSights External Threat Intelligence, learn how you can take advantage of it through seamless integrations with your Splunk SIEM and Phantom toolsets. Enrich your threat data with internal network security observables, expedite incident reviews and prioritization, and automate your threat prevention and response with SOAR and integrated playbooks.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nick Hayes, IntSights&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2887.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2887.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Nick Hayes, VP of Strategy at IntSights, will take you on a tour of the dark web and explain how CISOs can successfully implement a dark web intelligence strategy to neutralize threats outside the wire and at the earliest stages of the cyber kill chain. Now equipped with IntSights External Threat Intelligence, learn how you can take advantage of it through seamless integrations with your Splunk SIEM and Phantom toolsets. Enrich your threat data with internal network security observables, expedite incident reviews and prioritization, and automate your threat prevention and response with SOAR and integrated playbooks.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2887.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Use Deception, Automated Response and Threat Emulation to Make Your Defense Proactive [Splunk Enterprise Security, Splunk Machine Learning Toolkit, Phantom, AI/ML]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2203.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2203.mp4?podcast=1576909572</guid>
+      <comments>Use Deception, Automated Response and Threat Emulation to Make Your Defense Proactive</comments>
+      <description>Deception, automation, and real-time data exploitation help security organizations go on offense vs attackers. In this session we will discuss how to use a variety of deception techniques to gather threat intelligence, how to create an automated response, and how to test response playbooks to validate that responses work as expected. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Vincent Urias, Researcher, Sandia National Laboratories&lt;br/&gt; Will Stout, Researcher, Sandia National Laboratories&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2203.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2203.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk Machine Learning Toolkit, Phantom, AI/ML
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Deception, automation, and real-time data exploitation help security organizations go on offense vs attackers. In this session we will discuss how to use a variety of deception techniques to gather threat intelligence, how to create an automated response, and how to test response playbooks to validate that responses work as expected. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Vincent Urias, Researcher, Sandia National Laboratories&lt;br/&gt; Will Stout, Researcher, Sandia National Laboratories&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2203.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2203.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Deception, automation, and real-time data exploitation help security organizations go on offense vs attackers. In this session we will discuss how to use a variety of deception techniques to gather threat intelligence, how to create an automated response, and how to test response playbooks to validate that responses work as expected. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2203.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Use Splunk SIEMulator to Generate Data for Automated Detection, Investigation, and Response  [Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1671.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1671.mp4?podcast=1576909572</guid>
+      <comments>Use Splunk SIEMulator to Generate Data for Automated Detection, Investigation, and Response </comments>
+      <description>Obtaining data to develop defenses against threats is a constant challenge for security analysts. To that end, Splunk&#x27;s Security Research team developed the Splunk SIEMulator, a framework modeled after Chris Long&#x27;s DetectionLab that allows a defender to replay attack scenarios using AttackIQ in a simulated environment. SIEMulator’s Attack Range environments are all configured with Splunk forwarders and the apps necessary to create and store data in CIM data models. We&#x27;ll show you how to use the SIEMulator to produce shareable data that can help security analysts replicate scenarios and effectively detect, investigate, and respond to threats.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Phil Royer, Research Engineer, Splunk&lt;br/&gt; Rod Soto, Principal Security Research Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1671.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1671.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom
+&lt;br/&gt;
+Level: Advanced
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Obtaining data to develop defenses against threats is a constant challenge for security analysts. To that end, Splunk&#x27;s Security Research team developed the Splunk SIEMulator, a framework modeled after Chris Long&#x27;s DetectionLab that allows a defender to replay attack scenarios using AttackIQ in a simulated environment. SIEMulator’s Attack Range environments are all configured with Splunk forwarders and the apps necessary to create and store data in CIM data models. We&#x27;ll show you how to use the SIEMulator to produce shareable data that can help security analysts replicate scenarios and effectively detect, investigate, and respond to threats.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Phil Royer, Research Engineer, Splunk&lt;br/&gt; Rod Soto, Principal Security Research Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1671.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1671.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Obtaining data to develop defenses against threats is a constant challenge for security analysts. To that end, Splunk&#x27;s Security Research team developed the Splunk SIEMulator, a framework modeled after Chris Long&#x27;s DetectionLab that allows a defender to replay attack scenarios using AttackIQ in a simulated environment. SIEMulator’s Attack Range environments are all configured with Splunk forwarders and the apps necessary to create and store data in CIM data models. We&#x27;ll show you how to use the SIEMulator to produce shareable data that can help security analysts replicate scenarios and effectively detect, investigate, and respond to threats.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1671.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>What&#x27;s New in Splunk for Security [Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2366.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2366.mp4?podcast=1576909572</guid>
+      <comments>What&#x27;s New in Splunk for Security</comments>
+      <description>Our security research, engineering and product teams have been hard at work building new capabilities to bolster your Splunk security stack. Find out what they’ve been up to since .conf18, and watch a demonstration of the latest innovations in Splunk Enterprise Security, Splunk User Behavior Analytics, and Splunk Phantom. There are other awesome developments that we can’t share now but are excited to share with you at .conf.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kyle Champlin, Senior Product Manager, Splunk&lt;br/&gt; Patriz Regalado, Sr. Product Marketing Manager, Splunk&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Chris Simmons, Director of Product Marketing, Splunk&lt;br/&gt; Koulick Ghosh, Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2366.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2366.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Enterprise Security, Splunk User Behavior Analytics, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Our security research, engineering and product teams have been hard at work building new capabilities to bolster your Splunk security stack. Find out what they’ve been up to since .conf18, and watch a demonstration of the latest innovations in Splunk Enterprise Security, Splunk User Behavior Analytics, and Splunk Phantom. There are other awesome developments that we can’t share now but are excited to share with you at .conf.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Kyle Champlin, Senior Product Manager, Splunk&lt;br/&gt; Patriz Regalado, Sr. Product Marketing Manager, Splunk&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Chris Simmons, Director of Product Marketing, Splunk&lt;br/&gt; Koulick Ghosh, Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2366.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2366.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Our security research, engineering and product teams have been hard at work building new capabilities to bolster your Splunk security stack. Find out what they’ve been up to since .conf18, and watch a demonstration of the latest innovations in Splunk Enterprise Security, Splunk User Behavior Analytics, and Splunk Phantom. There are other awesome developments that we can’t share now but are excited to share with you at .conf.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2366.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Zero to Hero: A 202-Year-Old Firm’s Journey to End-to-End Security Visibility [Splunk Cloud, Splunk Enterprise Security, Phantom]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1511.mp4?podcast=1576909572</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:12 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1511.mp4?podcast=1576909572</guid>
+      <comments>Zero to Hero: A 202-Year-Old Firm’s Journey to End-to-End Security Visibility</comments>
+      <description>Does your small team also run a full-featured SOC that supports a global company? In this session we’ll show you how we’ve used Splunk Cloud and Splunk Enterprise Security to bring together all the relevant security intelligence from our technology stack, transforming our security operations from ad hoc and tactical to strategic and compliance-driven. We’ll discuss key takeaways from our journey, such as the benefits of ingesting data properly from the outset so you can reap the rewards as you scale; how we leverage multiple use cases out of single data sources; and how we created easy-to-understand visualizations that convey our firm’s security posture to management.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Edward Asiedu, Senior Professional Services Consultant, Splunk&lt;br/&gt; Craig Gilliver, Head Of SecOps, Johnson Matthey&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1511.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1511.pdf?podcast=1576909572
+&lt;p/&gt;
+Product: Splunk Cloud, Splunk Enterprise Security, Phantom
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Does your small team also run a full-featured SOC that supports a global company? In this session we’ll show you how we’ve used Splunk Cloud and Splunk Enterprise Security to bring together all the relevant security intelligence from our technology stack, transforming our security operations from ad hoc and tactical to strategic and compliance-driven. We’ll discuss key takeaways from our journey, such as the benefits of ingesting data properly from the outset so you can reap the rewards as you scale; how we leverage multiple use cases out of single data sources; and how we created easy-to-understand visualizations that convey our firm’s security posture to management.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Edward Asiedu, Senior Professional Services Consultant, Splunk&lt;br/&gt; Craig Gilliver, Head Of SecOps, Johnson Matthey&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1511.pdf?podcast=1576909572"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1511.pdf?podcast=1576909572
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Does your small team also run a full-featured SOC that supports a global company? In this session we’ll show you how we’ve used Splunk Cloud and Splunk Enterprise Security to bring together all the relevant security intelligence from our technology stack, transforming our security operations from ad hoc and tactical to strategic and compliance-driven. We’ll discuss key takeaways from our journey, such as the benefits of ingesting data properly from the outset so you can reap the rewards as you scale; how we leverage multiple use cases out of single data sources; and how we created easy-to-understand visualizations that convey our firm’s security posture to management.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1511.mp4?podcast=1576909572" type="video/mp4"/>
+    </item>
+      
+
+   </channel>
+</rss>
+      

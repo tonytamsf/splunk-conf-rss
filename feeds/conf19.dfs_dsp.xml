@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Splunk [Data Fabric Search and Data Stream Processor] 2019 .conf Videos w/ Slides</title>
+    <link>https://conf.splunk.com?podcast</link>
+    <description>Splunk [Data Fabric Search and Data Stream Processor] 2019 .conf Videos w/ Slides</description>
+    <lastBuildDate>Sat, 21 Dec 2019 01:26:34 EST</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Tony Tam</generator>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Splunk</itunes:author>
+    <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+    <itunes:image href="https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png"/>
+    <itunes:owner>
+      <itunes:name>Splunk</itunes:name>
+      <itunes:email>ttam@splunk.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>ttam@splunk.com</managingEditor>
+    <copyright>Splunk Inc.</copyright>
+    <itunes:subtitle>Splunk [Data Fabric Search and Data Stream Processor] .conf 2019 Videos w/ Slides</itunes:subtitle>
+    <image>
+      <url>https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png</url>
+      <title>Splunk - The Data-To-Everything Platform</title>
+      <link>https://conf.splunk.com?podcast</link>
+    </image>
+    <itunes:category text="Technology">
+        </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Data"/>
+    </itunes:category>
+    <itunes:category text="Splunk">
+        </itunes:category>
+    <rawvoice:location>San Francisco, CA</rawvoice:location>
+    <rawvoice:frequency>Daily</rawvoice:frequency>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/twistvid"/>
+    <feedburner:info uri="twistvid"/>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+    <geo:lat>34.01491</geo:lat>
+    <geo:long>-118.492202</geo:long>
+
+
+   <item>
+      <title>Data Stream Processor: Architecture and SDKs [Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1576909595</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:35 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1576909595</guid>
+      <comments>Data Stream Processor: Architecture and SDKs</comments>
+      <description>Popular stream processing frameworks (such as Apache Spark Streaming, Apache Flink, and Apache Kafka Streams) make stream processing accessible to developers with language bindings typically in Java, Scala, and Python. These frameworks also include some variant of streaming SQL support to further expand the accessibility of large-scale, low-latency, high-throughput stream processing. What&#x27;s missing is bringing the world of stream processing to the Business Intelligence user. At Splunk we&#x27;ve built a tool called Splunk Data Stream Processor (DSP) to fill this gap.  In this session, Max and Sharon will present the design and architecture of DSP. We will compare it with other stream processing frameworks to show you how DSP allows users to visually author and preview stream processing pipelines and instantly deploy them at scale. We will also present our developer SDKs, allowing third-party custom functions to be developed and integrated for data processing. With its high level abstractions for business users and extensible framework for developers, Data Stream Processor makes stream processing accessible to the widest possible audience.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sharon Xie, Sr. Software Engineer, Splunk&lt;br/&gt; Max Feng, Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1576909595"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1576909595
+&lt;p/&gt;
+Product: Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Popular stream processing frameworks (such as Apache Spark Streaming, Apache Flink, and Apache Kafka Streams) make stream processing accessible to developers with language bindings typically in Java, Scala, and Python. These frameworks also include some variant of streaming SQL support to further expand the accessibility of large-scale, low-latency, high-throughput stream processing. What&#x27;s missing is bringing the world of stream processing to the Business Intelligence user. At Splunk we&#x27;ve built a tool called Splunk Data Stream Processor (DSP) to fill this gap.  In this session, Max and Sharon will present the design and architecture of DSP. We will compare it with other stream processing frameworks to show you how DSP allows users to visually author and preview stream processing pipelines and instantly deploy them at scale. We will also present our developer SDKs, allowing third-party custom functions to be developed and integrated for data processing. With its high level abstractions for business users and extensible framework for developers, Data Stream Processor makes stream processing accessible to the widest possible audience.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sharon Xie, Sr. Software Engineer, Splunk&lt;br/&gt; Max Feng, Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1576909595"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1576909595
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Popular stream processing frameworks (such as Apache Spark Streaming, Apache Flink, and Apache Kafka Streams) make stream processing accessible to developers with language bindings typically in Java, Scala, and Python. These frameworks also include some variant of streaming SQL support to further expand the accessibility of large-scale, low-latency, high-throughput stream processing. What&#x27;s missing is bringing the world of stream processing to the Business Intelligence user. At Splunk we&#x27;ve built a tool called Splunk Data Stream Processor (DSP) to fill this gap.  In this session, Max and Sharon will present the design and architecture of DSP. We will compare it with other stream processing frameworks to show you how DSP allows users to visually author and preview stream processing pipelines and instantly deploy them at scale. We will also present our developer SDKs, allowing third-party custom functions to be developed and integrated for data processing. With its high level abstractions for business users and extensible framework for developers, Data Stream Processor makes stream processing accessible to the widest possible audience.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1576909595" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Data Stream Processor: How to get the most out of your data!​ [Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN2062.mp4?podcast=1576909595</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:35 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN2062.mp4?podcast=1576909595</guid>
+      <comments>Data Stream Processor: How to get the most out of your data!​</comments>
+      <description>Have you ever been asked to create a resilient petabyte scale data collection and distribution architecture? Do you need to transform data before it is indexed to remove unnecessary or sensitive data or even enrich the data with a lookup before writing the data to your index? Do you need to detect specific patterns to identify the event line break, event timestamp, or assign the appropriate sourcetype? Do you need to control where to send the data including the specific Splunk Index(es) or even a non-Splunk Sink?If so, we will show you how Splunk’s Data Stream Processor (DSP) can be used to address these requirements to meet both current and future demands. We will walk through the scenarios that customers are dealing with today for these requirements. Finally we will talk about how Universal Forwarder, Heavy Weight Forwarder, and HTTP Event Collector fit into this new data ingestion architecture.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Blaine  Wastell, Product Management Director, Splunk&lt;br/&gt; Thor Taylor, Director of Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2062.pdf?podcast=1576909595"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2062.pdf?podcast=1576909595
+&lt;p/&gt;
+Product: Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Have you ever been asked to create a resilient petabyte scale data collection and distribution architecture? Do you need to transform data before it is indexed to remove unnecessary or sensitive data or even enrich the data with a lookup before writing the data to your index? Do you need to detect specific patterns to identify the event line break, event timestamp, or assign the appropriate sourcetype? Do you need to control where to send the data including the specific Splunk Index(es) or even a non-Splunk Sink?If so, we will show you how Splunk’s Data Stream Processor (DSP) can be used to address these requirements to meet both current and future demands. We will walk through the scenarios that customers are dealing with today for these requirements. Finally we will talk about how Universal Forwarder, Heavy Weight Forwarder, and HTTP Event Collector fit into this new data ingestion architecture.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Blaine  Wastell, Product Management Director, Splunk&lt;br/&gt; Thor Taylor, Director of Product Management, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2062.pdf?podcast=1576909595"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2062.pdf?podcast=1576909595
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Have you ever been asked to create a resilient petabyte scale data collection and distribution architecture? Do you need to transform data before it is indexed to remove unnecessary or sensitive data or even enrich the data with a lookup before writing the data to your index? Do you need to detect specific patterns to identify the event line break, event timestamp, or assign the appropriate sourcetype? Do you need to control where to send the data including the specific Splunk Index(es) or even a non-Splunk Sink?If so, we will show you how Splunk’s Data Stream Processor (DSP) can be used to address these requirements to meet both current and future demands. We will walk through the scenarios that customers are dealing with today for these requirements. Finally we will talk about how Universal Forwarder, Heavy Weight Forwarder, and HTTP Event Collector fit into this new data ingestion architecture.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN2062.mp4?podcast=1576909595" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>How to effectively run high cardinality and federated searches using Data Fabric Search.  [Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN2143.mp4?podcast=1576909596</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:36 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN2143.mp4?podcast=1576909596</guid>
+      <comments>How to effectively run high cardinality and federated searches using Data Fabric Search. </comments>
+      <description>How would you go about exploring your data assets using Splunk’s newly available Data Fabric Search? What should you expect when you adopt Data Fabric Search for your Splunk deployments? We will show you how to go about enriching your Splunk searches and navigating through the different search phases to effectively utilize your resources.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nikhil Roy, Principal Software Engineer, Splunk&lt;br/&gt; Asha Andrade, Principal Software Engineer, Data Fabric Search, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2143.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2143.pdf?podcast=1576909596
+&lt;p/&gt;
+Product: Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+How would you go about exploring your data assets using Splunk’s newly available Data Fabric Search? What should you expect when you adopt Data Fabric Search for your Splunk deployments? We will show you how to go about enriching your Splunk searches and navigating through the different search phases to effectively utilize your resources.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Nikhil Roy, Principal Software Engineer, Splunk&lt;br/&gt; Asha Andrade, Principal Software Engineer, Data Fabric Search, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2143.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2143.pdf?podcast=1576909596
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>How would you go about exploring your data assets using Splunk’s newly available Data Fabric Search? What should you expect when you adopt Data Fabric Search for your Splunk deployments? We will show you how to go about enriching your Splunk searches and navigating through the different search phases to effectively utilize your resources.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN2143.mp4?podcast=1576909596" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Introduction to Collect Service [Splunk Data Fabric Search and Data Stream Processor, Splunk Developer Cloud]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1576909596</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:36 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1576909596</guid>
+      <comments>Introduction to Collect Service</comments>
+      <description>Collect Service is a new scalable method with high availability to collect data for Splunk Cloud Platform or Splunk Enterprise with Data Stream Processor(DSP). This session will cover the basic principles to show you how the Collect Service operates and why you need to use it, how the service is different from modular inputs, and how to leverage Collect Service’s REST API to automate data collection jobs efficiently.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Jove Zhong, Director, Engineering, Splunk&lt;br/&gt; Poornima Devaraj, Technical Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1576909596
+&lt;p/&gt;
+Product: Splunk Data Fabric Search and Data Stream Processor, Splunk Developer Cloud
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Collect Service is a new scalable method with high availability to collect data for Splunk Cloud Platform or Splunk Enterprise with Data Stream Processor(DSP). This session will cover the basic principles to show you how the Collect Service operates and why you need to use it, how the service is different from modular inputs, and how to leverage Collect Service’s REST API to automate data collection jobs efficiently.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Jove Zhong, Director, Engineering, Splunk&lt;br/&gt; Poornima Devaraj, Technical Product Manager, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1576909596
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Collect Service is a new scalable method with high availability to collect data for Splunk Cloud Platform or Splunk Enterprise with Data Stream Processor(DSP). This session will cover the basic principles to show you how the Collect Service operates and why you need to use it, how the service is different from modular inputs, and how to leverage Collect Service’s REST API to automate data collection jobs efficiently.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1576909596" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunking the Endpoint V: Hands On with BOTSv4 Data [Splunk Enterprise, Splunk Business Flow, Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2007.mp4?podcast=1576909596</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:36 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2007.mp4?podcast=1576909596</guid>
+      <comments>Splunking the Endpoint V: Hands On with BOTSv4 Data</comments>
+      <description>Initial compromises happen on your endpoints, so why are you not Splunking them? In this edition of Splunking The Endpoint, we will tell you exactly what to configure in Splunk, and where, why, and how to do so in order to get unparalleled visibility into threats targeting your network. Not only will we revisit popular operating system and open-source endpoint data sources like Sysmon and Osquery, but we&#x27;ll also talk about various popular commercial EDR products and give you best practices for collecting data from them. Lastly, we&#x27;ll help you address any doubts about scale problems and licensing costs.Please bring your laptop! We will dive through the latest Boss of the SOC (BOTS) endpoint data and demonstrate the detection techniques needed to answer BOTS questions. Everything you learn will be something you can take home and put into production immediately.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; James Brodsky, Director, Global Security Kittens, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909596
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow, Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Initial compromises happen on your endpoints, so why are you not Splunking them? In this edition of Splunking The Endpoint, we will tell you exactly what to configure in Splunk, and where, why, and how to do so in order to get unparalleled visibility into threats targeting your network. Not only will we revisit popular operating system and open-source endpoint data sources like Sysmon and Osquery, but we&#x27;ll also talk about various popular commercial EDR products and give you best practices for collecting data from them. Lastly, we&#x27;ll help you address any doubts about scale problems and licensing costs.Please bring your laptop! We will dive through the latest Boss of the SOC (BOTS) endpoint data and demonstrate the detection techniques needed to answer BOTS questions. Everything you learn will be something you can take home and put into production immediately.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; James Brodsky, Director, Global Security Kittens, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909596
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Initial compromises happen on your endpoints, so why are you not Splunking them? In this edition of Splunking The Endpoint, we will tell you exactly what to configure in Splunk, and where, why, and how to do so in order to get unparalleled visibility into threats targeting your network. Not only will we revisit popular operating system and open-source endpoint data sources like Sysmon and Osquery, but we&#x27;ll also talk about various popular commercial EDR products and give you best practices for collecting data from them. Lastly, we&#x27;ll help you address any doubts about scale problems and licensing costs.Please bring your laptop! We will dive through the latest Boss of the SOC (BOTS) endpoint data and demonstrate the detection techniques needed to answer BOTS questions. Everything you learn will be something you can take home and put into production immediately.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2007.mp4?podcast=1576909596" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Take Control of Port 514!: Taming the Syslog Beast [Splunk Enterprise, Splunk Cloud, Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1651.mp4?podcast=1576909596</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:36 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1651.mp4?podcast=1576909596</guid>
+      <comments>Take Control of Port 514!: Taming the Syslog Beast</comments>
+      <description>Are you frustrated with the task of configuring syslog servers yourself to properly ingest data into Splunk? Take control of the syslog beast once and for all and point your &quot;514&quot; traffic to the new Splunk Connect for Syslog! This new Splunk-supported connector makes quick work of past struggles with syslog servers, sourcetyping, data enrichment, and scale. In this session we will dive into the configuration of the Splunk Connect for Syslog to properly filter, sourcetype, and format your data. We will demonstrate several out-of-the-box examples, highlighting new functionality such as HEC and Kafka transport for resiliency and scale, simple extensions for new device types, and data enrichment that extends far beyond simple sourcetyping of the raw message. Lastly, we will look forward to the integration of syslog with Splunk&#x27;s new Data Stream Processor, and highlight appropriate use cases for each solution. By the time we wrap up, you will know how to tame the syslog beast!&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ryan Faircloth, Security Product Manager, Splunk&lt;br/&gt; Mark Bonsack, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1651.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1651.pdf?podcast=1576909596
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Are you frustrated with the task of configuring syslog servers yourself to properly ingest data into Splunk? Take control of the syslog beast once and for all and point your &quot;514&quot; traffic to the new Splunk Connect for Syslog! This new Splunk-supported connector makes quick work of past struggles with syslog servers, sourcetyping, data enrichment, and scale. In this session we will dive into the configuration of the Splunk Connect for Syslog to properly filter, sourcetype, and format your data. We will demonstrate several out-of-the-box examples, highlighting new functionality such as HEC and Kafka transport for resiliency and scale, simple extensions for new device types, and data enrichment that extends far beyond simple sourcetyping of the raw message. Lastly, we will look forward to the integration of syslog with Splunk&#x27;s new Data Stream Processor, and highlight appropriate use cases for each solution. By the time we wrap up, you will know how to tame the syslog beast!
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ryan Faircloth, Security Product Manager, Splunk&lt;br/&gt; Mark Bonsack, Staff Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1651.pdf?podcast=1576909596"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1651.pdf?podcast=1576909596
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Are you frustrated with the task of configuring syslog servers yourself to properly ingest data into Splunk? Take control of the syslog beast once and for all and point your &quot;514&quot; traffic to the new Splunk Connect for Syslog! This new Splunk-supported connector makes quick work of past struggles with syslog servers, sourcetyping, data enrichment, and scale. In this session we will dive into the configuration of the Splunk Connect for Syslog to properly filter, sourcetype, and format your data. We will demonstrate several out-of-the-box examples, highlighting new functionality such as HEC and Kafka transport for resiliency and scale, simple extensions for new device types, and data enrichment that extends far beyond simple sourcetyping of the raw message. Lastly, we will look forward to the integration of syslog with Splunk&#x27;s new Data Stream Processor, and highlight appropriate use cases for each solution. By the time we wrap up, you will know how to tame the syslog beast!</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1651.mp4?podcast=1576909596" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Using Splunk Data Stream Processor for advanced stream management [Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1786.mp4?podcast=1576909597</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:37 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1786.mp4?podcast=1576909597</guid>
+      <comments>Using Splunk Data Stream Processor for advanced stream management</comments>
+      <description>Learn how the T-Mobile Splunk Team uses Splunk Data Stream Processor (DSP) to provide advanced stream manipulation options to its user base. See how DSP is positioned in a large-scale Splunk as a service ecosystem.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Michael Guenther, Senior Advisory Engineer, Splunk&lt;br/&gt; Dave Cornette, Enterprise Monitoring Architect, T-Mobile&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1786.pdf?podcast=1576909597"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1786.pdf?podcast=1576909597
+&lt;p/&gt;
+Product: Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Learn how the T-Mobile Splunk Team uses Splunk Data Stream Processor (DSP) to provide advanced stream manipulation options to its user base. See how DSP is positioned in a large-scale Splunk as a service ecosystem.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Michael Guenther, Senior Advisory Engineer, Splunk&lt;br/&gt; Dave Cornette, Enterprise Monitoring Architect, T-Mobile&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1786.pdf?podcast=1576909597"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1786.pdf?podcast=1576909597
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Learn how the T-Mobile Splunk Team uses Splunk Data Stream Processor (DSP) to provide advanced stream manipulation options to its user base. See how DSP is positioned in a large-scale Splunk as a service ecosystem.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1786.mp4?podcast=1576909597" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Using Splunk Data Stream Processor as a Streaming Engine for Apache Kafka [Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1987.mp4?podcast=1576909597</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:37 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1987.mp4?podcast=1576909597</guid>
+      <comments>Using Splunk Data Stream Processor as a Streaming Engine for Apache Kafka</comments>
+      <description>Do you use Kafka but find yourself limited by what Kafka allows you to do with your data? Would you like to enrich, aggregate, and alert on your data as it moves through Kafka, but can’t figure out how? You can overcome these obstacles by integrating Kafka with the Splunk Data Stream Processor. The Splunk DSP is a data streaming platform that helps you transform and enrich your data. With DSP you can make data-driven decisions in real time as data is ingested. DSP also provides simple ways to build data pipelines, and gives you full control and visibility into your data as it flows through the platform. Apache Kafka is now widely adopted as a foundational element for data pipelines. DSP integrates seamlessly with Kafka clusters, and allows data to be read from Kafka, processed in highly scalable ways, and then written back to Kafka. Join us and see how to use DSP as a streaming engine for Kafka clusters.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Thor Taylor, Director of Product Management, Splunk&lt;br/&gt; Adam Lamar, Principal Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1987.pdf?podcast=1576909597"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1987.pdf?podcast=1576909597
+&lt;p/&gt;
+Product: Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Do you use Kafka but find yourself limited by what Kafka allows you to do with your data? Would you like to enrich, aggregate, and alert on your data as it moves through Kafka, but can’t figure out how? You can overcome these obstacles by integrating Kafka with the Splunk Data Stream Processor. The Splunk DSP is a data streaming platform that helps you transform and enrich your data. With DSP you can make data-driven decisions in real time as data is ingested. DSP also provides simple ways to build data pipelines, and gives you full control and visibility into your data as it flows through the platform. Apache Kafka is now widely adopted as a foundational element for data pipelines. DSP integrates seamlessly with Kafka clusters, and allows data to be read from Kafka, processed in highly scalable ways, and then written back to Kafka. Join us and see how to use DSP as a streaming engine for Kafka clusters.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Thor Taylor, Director of Product Management, Splunk&lt;br/&gt; Adam Lamar, Principal Software Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1987.pdf?podcast=1576909597"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1987.pdf?podcast=1576909597
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Do you use Kafka but find yourself limited by what Kafka allows you to do with your data? Would you like to enrich, aggregate, and alert on your data as it moves through Kafka, but can’t figure out how? You can overcome these obstacles by integrating Kafka with the Splunk Data Stream Processor. The Splunk DSP is a data streaming platform that helps you transform and enrich your data. With DSP you can make data-driven decisions in real time as data is ingested. DSP also provides simple ways to build data pipelines, and gives you full control and visibility into your data as it flows through the platform. Apache Kafka is now widely adopted as a foundational element for data pipelines. DSP integrates seamlessly with Kafka clusters, and allows data to be read from Kafka, processed in highly scalable ways, and then written back to Kafka. Join us and see how to use DSP as a streaming engine for Kafka clusters.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1987.mp4?podcast=1576909597" type="video/mp4"/>
+    </item>
+      
+
+   </channel>
+</rss>
+      

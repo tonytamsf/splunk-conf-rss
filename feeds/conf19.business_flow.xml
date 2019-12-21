@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Splunk [Business Flow] 2019 .conf Videos w/ Slides</title>
+    <link>https://conf.splunk.com?podcast</link>
+    <description>Splunk [Business Flow] 2019 .conf Videos w/ Slides</description>
+    <lastBuildDate>Sat, 21 Dec 2019 01:26:17 EST</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Tony Tam</generator>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Splunk</itunes:author>
+    <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+    <itunes:image href="https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png"/>
+    <itunes:owner>
+      <itunes:name>Splunk</itunes:name>
+      <itunes:email>ttam@splunk.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>ttam@splunk.com</managingEditor>
+    <copyright>Splunk Inc.</copyright>
+    <itunes:subtitle>Splunk [Business Flow] .conf 2019 Videos w/ Slides</itunes:subtitle>
+    <image>
+      <url>https://raw.githubusercontent.com/tonytamsf/splunk-conf-rss/master/images/conf-logo.png</url>
+      <title>Splunk - The Data-To-Everything Platform</title>
+      <link>https://conf.splunk.com?podcast</link>
+    </image>
+    <itunes:category text="Technology">
+        </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Data"/>
+    </itunes:category>
+    <itunes:category text="Splunk">
+        </itunes:category>
+    <rawvoice:location>San Francisco, CA</rawvoice:location>
+    <rawvoice:frequency>Daily</rawvoice:frequency>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/twistvid"/>
+    <feedburner:info uri="twistvid"/>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+    <geo:lat>34.01491</geo:lat>
+    <geo:long>-118.492202</geo:long>
+
+
+   <item>
+      <title>Business Flow vs The Real World. Cutting Through Complexity in Big Retail to Deliver Broad and Deep Assurance [Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1428.mp4?podcast=1576909579</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1428.mp4?podcast=1576909579</guid>
+      <comments>Business Flow vs The Real World. Cutting Through Complexity in Big Retail to Deliver Broad and Deep Assurance</comments>
+      <description>At a major UK retail organization, we developed so many great dashboards over the years for every conceivable business area. This once sufficed, but it fuelled greater expectation in an ever harsher trading environment. Enter Peak Trade periods and the need for outcome-centered visibility across the order fulfillment process &quot;just got real&quot;.Could Splunk Business Flow help us to uncover the actual flow, given the teams who built it are long disbanded? Could we talk &quot;flow&quot; when support teams align to &quot;steps&quot;?  What we found was data that cannot agree what an Order is. Processes which tackle different aspects of an order, sometimes in parallel or batch. Processes which fork and then merge later on. Processes which go into planned deep-freeze for days or weeks before reawakening. Data formats which are hostile. The list goes on.We take you through the thought process, share mistakes and learnings, and outline considerations/techniques to help you win in the arena of real-world data.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Paul Adams, Octamis&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1428.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1428.pdf?podcast=1576909579
+&lt;p/&gt;
+Product: Splunk Business Flow
+&lt;br/&gt;
+Level: Intermediate
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+At a major UK retail organization, we developed so many great dashboards over the years for every conceivable business area. This once sufficed, but it fuelled greater expectation in an ever harsher trading environment. Enter Peak Trade periods and the need for outcome-centered visibility across the order fulfillment process &quot;just got real&quot;.Could Splunk Business Flow help us to uncover the actual flow, given the teams who built it are long disbanded? Could we talk &quot;flow&quot; when support teams align to &quot;steps&quot;?  What we found was data that cannot agree what an Order is. Processes which tackle different aspects of an order, sometimes in parallel or batch. Processes which fork and then merge later on. Processes which go into planned deep-freeze for days or weeks before reawakening. Data formats which are hostile. The list goes on.We take you through the thought process, share mistakes and learnings, and outline considerations/techniques to help you win in the arena of real-world data.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Paul Adams, Octamis&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1428.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1428.pdf?podcast=1576909579
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>At a major UK retail organization, we developed so many great dashboards over the years for every conceivable business area. This once sufficed, but it fuelled greater expectation in an ever harsher trading environment. Enter Peak Trade periods and the need for outcome-centered visibility across the order fulfillment process &quot;just got real&quot;.Could Splunk Business Flow help us to uncover the actual flow, given the teams who built it are long disbanded? Could we talk &quot;flow&quot; when support teams align to &quot;steps&quot;?  What we found was data that cannot agree what an Order is. Processes which tackle different aspects of an order, sometimes in parallel or batch. Processes which fork and then merge later on. Processes which go into planned deep-freeze for days or weeks before reawakening. Data formats which are hostile. The list goes on.We take you through the thought process, share mistakes and learnings, and outline considerations/techniques to help you win in the arena of real-world data.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1428.mp4?podcast=1576909579" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Demonstrating The Value Of A Business Flow Use Case [Splunk Enterprise, Splunk Cloud, Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1130.mp4?podcast=1576909579</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1130.mp4?podcast=1576909579</guid>
+      <comments>Demonstrating The Value Of A Business Flow Use Case</comments>
+      <description>As organizations look to extend Splunk to new datasets for business process insights, it is crucial to have the right data to work with. However Splunk teams can get stuck demonstrating the value of new solutions without having data available. Some very intelligent approaches to data sampling, data preparation, and query optimization can dramatically accelerate your ability to create value from more data.  In this session, you will learn some of these techniques so you can quickly make a business case and demonstrate the value for Splunk Business Flow in your organization.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Martin Senebald, COCUS AG&lt;br/&gt; Dirk Beerbohm, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1130.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1130.pdf?podcast=1576909579
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Cloud, Splunk Business Flow
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+As organizations look to extend Splunk to new datasets for business process insights, it is crucial to have the right data to work with. However Splunk teams can get stuck demonstrating the value of new solutions without having data available. Some very intelligent approaches to data sampling, data preparation, and query optimization can dramatically accelerate your ability to create value from more data.  In this session, you will learn some of these techniques so you can quickly make a business case and demonstrate the value for Splunk Business Flow in your organization.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Martin Senebald, COCUS AG&lt;br/&gt; Dirk Beerbohm, Senior Sales Engineer, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1130.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1130.pdf?podcast=1576909579
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>As organizations look to extend Splunk to new datasets for business process insights, it is crucial to have the right data to work with. However Splunk teams can get stuck demonstrating the value of new solutions without having data available. Some very intelligent approaches to data sampling, data preparation, and query optimization can dramatically accelerate your ability to create value from more data.  In this session, you will learn some of these techniques so you can quickly make a business case and demonstrate the value for Splunk Business Flow in your organization.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1130.mp4?podcast=1576909579" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Driving More Sales at Deutsche Bahn: DB Systel’s Journey Mapping With Splunk Business Flow [Splunk Enterprise, Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1191.mp4?podcast=1576909579</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1191.mp4?podcast=1576909579</guid>
+      <comments>Driving More Sales at Deutsche Bahn: DB Systel’s Journey Mapping With Splunk Business Flow</comments>
+      <description>As one of the largest transportation providers in the world, Deutsche Bahn is eager to understand the customer experience of its passengers interacting with its agents. Driving greater sales requires highly efficient engagement with call center agents. However, efficiencies can be hard to understand and measure with so many call center interactions. DB Systel Gmbh, the IT services arm of Deutsche Bahn, uses Splunk Business Flow to quickly map thousands of customer experiences to understand opportunities for improving efficiencies. In this session, learn how Deutsche Bahn is able to operate a more efficient call center and drive greater passenger sales using the fast and flexible insights of Splunk Business Flow.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ilario Angilletta, Consultant, Deutsche Bahn&lt;br/&gt; Oliver Kempf, Founder &amp; Product Owner Process Mining, Deutsche Bahn&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1191.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1191.pdf?podcast=1576909579
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+As one of the largest transportation providers in the world, Deutsche Bahn is eager to understand the customer experience of its passengers interacting with its agents. Driving greater sales requires highly efficient engagement with call center agents. However, efficiencies can be hard to understand and measure with so many call center interactions. DB Systel Gmbh, the IT services arm of Deutsche Bahn, uses Splunk Business Flow to quickly map thousands of customer experiences to understand opportunities for improving efficiencies. In this session, learn how Deutsche Bahn is able to operate a more efficient call center and drive greater passenger sales using the fast and flexible insights of Splunk Business Flow.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Ilario Angilletta, Consultant, Deutsche Bahn&lt;br/&gt; Oliver Kempf, Founder &amp; Product Owner Process Mining, Deutsche Bahn&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1191.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1191.pdf?podcast=1576909579
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>As one of the largest transportation providers in the world, Deutsche Bahn is eager to understand the customer experience of its passengers interacting with its agents. Driving greater sales requires highly efficient engagement with call center agents. However, efficiencies can be hard to understand and measure with so many call center interactions. DB Systel Gmbh, the IT services arm of Deutsche Bahn, uses Splunk Business Flow to quickly map thousands of customer experiences to understand opportunities for improving efficiencies. In this session, learn how Deutsche Bahn is able to operate a more efficient call center and drive greater passenger sales using the fast and flexible insights of Splunk Business Flow.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1191.mp4?podcast=1576909579" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Harnessing the Next Generation of Tech Talent [Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/FND1364.mp4?podcast=1576909579</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FND1364.mp4?podcast=1576909579</guid>
+      <comments>Harnessing the Next Generation of Tech Talent</comments>
+      <description>Generation Z is our largest generation ever. They are over 2 billion strong and are predicted to make up nearly 30% of the workforce by 2025. Fifty percent of them are likely to have a university degree that will carry them through 17 jobs, spanning five different careers in their lifetime. So how can we harness the energy of this huge pool of &quot;think differently,&quot; &quot;act differently&quot; resources? With an internship program. Learn how the Splunk ANZ team focused on addressing the staffing challenges many tech companies face, particularly with regard to promoting diversity and including underrepresented groups, such as female students studying STEM subjects. This session will review how they built an internship program that not only delivered huge value to the business, including Gen Z diversity, but also focused on transferring technical and soft skills to facilitate their transition into full-time employment.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Neil Gow, SE Director, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FND1364.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FND1364.pdf?podcast=1576909579
+&lt;p/&gt;
+Product: Splunk Business Flow
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Generation Z is our largest generation ever. They are over 2 billion strong and are predicted to make up nearly 30% of the workforce by 2025. Fifty percent of them are likely to have a university degree that will carry them through 17 jobs, spanning five different careers in their lifetime. So how can we harness the energy of this huge pool of &quot;think differently,&quot; &quot;act differently&quot; resources? With an internship program. Learn how the Splunk ANZ team focused on addressing the staffing challenges many tech companies face, particularly with regard to promoting diversity and including underrepresented groups, such as female students studying STEM subjects. This session will review how they built an internship program that not only delivered huge value to the business, including Gen Z diversity, but also focused on transferring technical and soft skills to facilitate their transition into full-time employment.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Neil Gow, SE Director, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FND1364.pdf?podcast=1576909579"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FND1364.pdf?podcast=1576909579
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Generation Z is our largest generation ever. They are over 2 billion strong and are predicted to make up nearly 30% of the workforce by 2025. Fifty percent of them are likely to have a university degree that will carry them through 17 jobs, spanning five different careers in their lifetime. So how can we harness the energy of this huge pool of &quot;think differently,&quot; &quot;act differently&quot; resources? With an internship program. Learn how the Splunk ANZ team focused on addressing the staffing challenges many tech companies face, particularly with regard to promoting diversity and including underrepresented groups, such as female students studying STEM subjects. This session will review how they built an internship program that not only delivered huge value to the business, including Gen Z diversity, but also focused on transferring technical and soft skills to facilitate their transition into full-time employment.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FND1364.mp4?podcast=1576909579" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Monitoring the order fulfilment process within an automated warehouse using Splunk Business Flow [Splunk Enterprise, Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1593.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1593.mp4?podcast=1576909580</guid>
+      <comments>Monitoring the order fulfilment process within an automated warehouse using Splunk Business Flow</comments>
+      <description>Attendees will see how Splunk Enterprise and Splunk Business Flow are used to monitor the order fulfilment process within an automated warehouse in real time. You also will see how proactive alerts inform the warehouse that a Key Performance Indicator (KPI) is under performing. Then, using process mining to investigate, find the root cause to solve issues before they become problems. This presentation will initially describe the workings of an automated warehouse and the data generated. It then will cover the process of ingesting this data into Splunk and configuring Splunk Business Flow to monitor processes and KPIs. Finally, the session will review the benefits to TGW and its customers from deploying Splunk Enterprise and Splunk Business Flow. Come to the session to see how the monitoring, alerting, and process mining functionality in Splunk Enterprise and Splunk Business Flow provides a deep insight into what is happening inside an automated warehouse.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Jamie Frost, Business Improvement Analyst, TGW Limited&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1593.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1593.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Attendees will see how Splunk Enterprise and Splunk Business Flow are used to monitor the order fulfilment process within an automated warehouse in real time. You also will see how proactive alerts inform the warehouse that a Key Performance Indicator (KPI) is under performing. Then, using process mining to investigate, find the root cause to solve issues before they become problems. This presentation will initially describe the workings of an automated warehouse and the data generated. It then will cover the process of ingesting this data into Splunk and configuring Splunk Business Flow to monitor processes and KPIs. Finally, the session will review the benefits to TGW and its customers from deploying Splunk Enterprise and Splunk Business Flow. Come to the session to see how the monitoring, alerting, and process mining functionality in Splunk Enterprise and Splunk Business Flow provides a deep insight into what is happening inside an automated warehouse.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Jamie Frost, Business Improvement Analyst, TGW Limited&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1593.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1593.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Attendees will see how Splunk Enterprise and Splunk Business Flow are used to monitor the order fulfilment process within an automated warehouse in real time. You also will see how proactive alerts inform the warehouse that a Key Performance Indicator (KPI) is under performing. Then, using process mining to investigate, find the root cause to solve issues before they become problems. This presentation will initially describe the workings of an automated warehouse and the data generated. It then will cover the process of ingesting this data into Splunk and configuring Splunk Business Flow to monitor processes and KPIs. Finally, the session will review the benefits to TGW and its customers from deploying Splunk Enterprise and Splunk Business Flow. Come to the session to see how the monitoring, alerting, and process mining functionality in Splunk Enterprise and Splunk Business Flow provides a deep insight into what is happening inside an automated warehouse.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1593.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Red Hat OpenShift and Splunk Better Together [Splunk Enterprise, Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2240.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2240.mp4?podcast=1576909580</guid>
+      <comments>Red Hat OpenShift and Splunk Better Together</comments>
+      <description>Red Hat and Splunk are partners in providing solutions to manage and monitor Kubernetes deployments. This joint RedHat and Splunk session will cover the benefits of Red Hat OpenShift to run your Kubernetes deployments and how Splunk can provide the monitoring capabilities and insights you need to get the most out of your Kubernetes deployment. &lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matt Modestino, ITOA Practitioner, Splunk&lt;br/&gt; Mattia Mascia, Senior Consultant, Red Hat &lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2240.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2240.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Red Hat and Splunk are partners in providing solutions to manage and monitor Kubernetes deployments. This joint RedHat and Splunk session will cover the benefits of Red Hat OpenShift to run your Kubernetes deployments and how Splunk can provide the monitoring capabilities and insights you need to get the most out of your Kubernetes deployment. 
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Matt Modestino, ITOA Practitioner, Splunk&lt;br/&gt; Mattia Mascia, Senior Consultant, Red Hat &lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2240.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2240.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Red Hat and Splunk are partners in providing solutions to manage and monitor Kubernetes deployments. This joint RedHat and Splunk session will cover the benefits of Red Hat OpenShift to run your Kubernetes deployments and how Splunk can provide the monitoring capabilities and insights you need to get the most out of your Kubernetes deployment. </itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2240.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>See What’s New With Splunk Business Flow [Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1188.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1188.mp4?podcast=1576909580</guid>
+      <comments>See What’s New With Splunk Business Flow</comments>
+      <description>Business operations and process improvement teams have relied on Splunk for analyzing their business processes.  Earlier this year, Splunk launched Business Flow as a new solution for interactive discovery and investigation of any business process.  In this session, hear and see all of Splunk&#x27;s latest innovations for business operations and process improvement professionals.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Lizzy Li, Product Manager, Business Flow, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1188.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1188.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Business Flow
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Business operations and process improvement teams have relied on Splunk for analyzing their business processes.  Earlier this year, Splunk launched Business Flow as a new solution for interactive discovery and investigation of any business process.  In this session, hear and see all of Splunk&#x27;s latest innovations for business operations and process improvement professionals.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Lizzy Li, Product Manager, Business Flow, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1188.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1188.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Business operations and process improvement teams have relied on Splunk for analyzing their business processes.  Earlier this year, Splunk launched Business Flow as a new solution for interactive discovery and investigation of any business process.  In this session, hear and see all of Splunk&#x27;s latest innovations for business operations and process improvement professionals.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1188.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunk Business Flow + Splunk Connect for Kubernetes = Happy Containers [Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1529.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1529.mp4?podcast=1576909580</guid>
+      <comments>Splunk Business Flow + Splunk Connect for Kubernetes = Happy Containers</comments>
+      <description>Managing container deployment is the new thing for IT and Splunk is making it easier to monitor your container deployment processes. In this theater session, see how Splunk Business Flow combined with Splunk Connect for Kubernetes can help IT administrators get immediate visibility into Kubernetes deployments to spot delays and failures.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Tom Martin, Staff Practitioner, Splunk&lt;br/&gt; Matt Modestino, ITOA Practitioner, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1529.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1529.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Business Flow
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Managing container deployment is the new thing for IT and Splunk is making it easier to monitor your container deployment processes. In this theater session, see how Splunk Business Flow combined with Splunk Connect for Kubernetes can help IT administrators get immediate visibility into Kubernetes deployments to spot delays and failures.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Tom Martin, Staff Practitioner, Splunk&lt;br/&gt; Matt Modestino, ITOA Practitioner, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1529.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1529.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Managing container deployment is the new thing for IT and Splunk is making it easier to monitor your container deployment processes. In this theater session, see how Splunk Business Flow combined with Splunk Connect for Kubernetes can help IT administrators get immediate visibility into Kubernetes deployments to spot delays and failures.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1529.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunking the Endpoint V: Hands On with BOTSv4 Data [Splunk Enterprise, Splunk Business Flow, Splunk Data Fabric Search and Data Stream Processor]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2007.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2007.mp4?podcast=1576909580</guid>
+      <comments>Splunking the Endpoint V: Hands On with BOTSv4 Data</comments>
+      <description>Initial compromises happen on your endpoints, so why are you not Splunking them? In this edition of Splunking The Endpoint, we will tell you exactly what to configure in Splunk, and where, why, and how to do so in order to get unparalleled visibility into threats targeting your network. Not only will we revisit popular operating system and open-source endpoint data sources like Sysmon and Osquery, but we&#x27;ll also talk about various popular commercial EDR products and give you best practices for collecting data from them. Lastly, we&#x27;ll help you address any doubts about scale problems and licensing costs.Please bring your laptop! We will dive through the latest Boss of the SOC (BOTS) endpoint data and demonstrate the detection techniques needed to answer BOTS questions. Everything you learn will be something you can take home and put into production immediately.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; James Brodsky, Director, Global Security Kittens, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow, Splunk Data Fabric Search and Data Stream Processor
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Initial compromises happen on your endpoints, so why are you not Splunking them? In this edition of Splunking The Endpoint, we will tell you exactly what to configure in Splunk, and where, why, and how to do so in order to get unparalleled visibility into threats targeting your network. Not only will we revisit popular operating system and open-source endpoint data sources like Sysmon and Osquery, but we&#x27;ll also talk about various popular commercial EDR products and give you best practices for collecting data from them. Lastly, we&#x27;ll help you address any doubts about scale problems and licensing costs.Please bring your laptop! We will dive through the latest Boss of the SOC (BOTS) endpoint data and demonstrate the detection techniques needed to answer BOTS questions. Everything you learn will be something you can take home and put into production immediately.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; James Brodsky, Director, Global Security Kittens, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2007.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Initial compromises happen on your endpoints, so why are you not Splunking them? In this edition of Splunking The Endpoint, we will tell you exactly what to configure in Splunk, and where, why, and how to do so in order to get unparalleled visibility into threats targeting your network. Not only will we revisit popular operating system and open-source endpoint data sources like Sysmon and Osquery, but we&#x27;ll also talk about various popular commercial EDR products and give you best practices for collecting data from them. Lastly, we&#x27;ll help you address any doubts about scale problems and licensing costs.Please bring your laptop! We will dive through the latest Boss of the SOC (BOTS) endpoint data and demonstrate the detection techniques needed to answer BOTS questions. Everything you learn will be something you can take home and put into production immediately.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2007.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Splunking the Shopfloor: Improving the Manufacturing Process with Splunk [Splunk Enterprise, Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA1920.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA1920.mp4?podcast=1576909580</guid>
+      <comments>Splunking the Shopfloor: Improving the Manufacturing Process with Splunk</comments>
+      <description>The sophisticated environment of a modern manufacturing plant demands that workers and management constantly synthesize data sources from different systems to optimize use of raw materials, work in process levels, and track inventory. This session will show how Splunk software can be used to collect, analyze, and report this information in real time to drive continuous improvement and business metrics.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Coty Pastene, DevOps Engineer, Shaw Industries&lt;br/&gt; Logan Templeton, Senior Technical Process Engineer, Shaw Industries&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1920.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1920.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow
+&lt;br/&gt;
+Level: Beginner
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+The sophisticated environment of a modern manufacturing plant demands that workers and management constantly synthesize data sources from different systems to optimize use of raw materials, work in process levels, and track inventory. This session will show how Splunk software can be used to collect, analyze, and report this information in real time to drive continuous improvement and business metrics.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Coty Pastene, DevOps Engineer, Shaw Industries&lt;br/&gt; Logan Templeton, Senior Technical Process Engineer, Shaw Industries&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA1920.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA1920.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>The sophisticated environment of a modern manufacturing plant demands that workers and management constantly synthesize data sources from different systems to optimize use of raw materials, work in process levels, and track inventory. This session will show how Splunk software can be used to collect, analyze, and report this information in real time to drive continuous improvement and business metrics.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA1920.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>Supercharge Your Security Operations Center with Splunk and MITRE [Splunk Enterprise, Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC1411.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC1411.mp4?podcast=1576909580</guid>
+      <comments>Supercharge Your Security Operations Center with Splunk and MITRE</comments>
+      <description>DATEV provides information services to ~2.5 million payrolling, accounting, and tax clients. Given the sensitivity of the personal and financial data that our clients process, DATAEV decided to establish a SOC to secure our clients&#x27; information, and we put Splunk at the core of its operations. In this session we will discuss four key elements relevant to building a successful SOC with Splunk. We&#x27;ll first discuss how we formed our SOC and orchestrated its activities internally. We&#x27;ll then discuss how we use MITRE&#x27;s ATT&amp;CK™ framework to prioritize activities, how we spread our SOC&#x27;s security knowledge to all relevant groups at DATEV, and how we use Splunk to create real-time situational awareness for different SOC customers, for stakeholders, and for management.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sebastian Schmerl, Head of Cyber Defense, Computacenter&lt;br/&gt; Christian Heger, SOC Architect / Technical Head of SOC &amp; Analyst, DATEV eG&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1411.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1411.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+DATEV provides information services to ~2.5 million payrolling, accounting, and tax clients. Given the sensitivity of the personal and financial data that our clients process, DATAEV decided to establish a SOC to secure our clients&#x27; information, and we put Splunk at the core of its operations. In this session we will discuss four key elements relevant to building a successful SOC with Splunk. We&#x27;ll first discuss how we formed our SOC and orchestrated its activities internally. We&#x27;ll then discuss how we use MITRE&#x27;s ATT&amp;CK™ framework to prioritize activities, how we spread our SOC&#x27;s security knowledge to all relevant groups at DATEV, and how we use Splunk to create real-time situational awareness for different SOC customers, for stakeholders, and for management.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Sebastian Schmerl, Head of Cyber Defense, Computacenter&lt;br/&gt; Christian Heger, SOC Architect / Technical Head of SOC &amp; Analyst, DATEV eG&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC1411.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC1411.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>DATEV provides information services to ~2.5 million payrolling, accounting, and tax clients. Given the sensitivity of the personal and financial data that our clients process, DATAEV decided to establish a SOC to secure our clients&#x27; information, and we put Splunk at the core of its operations. In this session we will discuss four key elements relevant to building a successful SOC with Splunk. We&#x27;ll first discuss how we formed our SOC and orchestrated its activities internally. We&#x27;ll then discuss how we use MITRE&#x27;s ATT&amp;CK™ framework to prioritize activities, how we spread our SOC&#x27;s security knowledge to all relevant groups at DATEV, and how we use Splunk to create real-time situational awareness for different SOC customers, for stakeholders, and for management.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC1411.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+   <item>
+      <title>What&#x27;s New in Business Analytics and Business Flow [Splunk Enterprise, Splunk Business Flow]</title>
+      <link>https://conf.splunk.com/files/2019/recordings/BA2130.mp4?podcast=1576909580</link>
+      <pubDate>Sat, 21 Dec 2019 01:26:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/BA2130.mp4?podcast=1576909580</guid>
+      <comments>What&#x27;s New in Business Analytics and Business Flow</comments>
+      <description>Business operations teams have relied on Splunk for operational intelligence, helping them to discover bottlenecks, fallout, and other issues in order to deliver more efficient business processes and customer experiences with higher conversions. In this session, learn about Splunk&#x27;s latest innovations for business operations professionals.&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Faya Peng, Senior Director, Product Management, Splunk&lt;br/&gt; Lizzy Li, Product Manager, Business Flow, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA2130.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA2130.pdf?podcast=1576909580
+&lt;p/&gt;
+Product: Splunk Enterprise, Splunk Business Flow
+&lt;br/&gt;
+Level: Good for all skill levels
+&lt;br/&gt;
+</description>
+
+      <itunes:summary>
+Business operations teams have relied on Splunk for operational intelligence, helping them to discover bottlenecks, fallout, and other issues in order to deliver more efficient business processes and customer experiences with higher conversions. In this session, learn about Splunk&#x27;s latest innovations for business operations professionals.
+&lt;p/&gt;
+Speaker(s)&lt;br/&gt; Faya Peng, Senior Director, Product Management, Splunk&lt;br/&gt; Lizzy Li, Product Manager, Business Flow, Splunk&lt;br/&gt; 
+&lt;br/&gt;
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/BA2130.pdf?podcast=1576909580"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/BA2130.pdf?podcast=1576909580
+</itunes:summary>
+      <itunes:author>Splunk</itunes:author>
+      <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
+      <itunes:subtitle>Business operations teams have relied on Splunk for operational intelligence, helping them to discover bottlenecks, fallout, and other issues in order to deliver more efficient business processes and customer experiences with higher conversions. In this session, learn about Splunk&#x27;s latest innovations for business operations professionals.</itunes:subtitle>
+      <itunes:image href="http://bit.ly/splunkconf19i"/>
+    
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/BA2130.mp4?podcast=1576909580" type="video/mp4"/>
+    </item>
+      
+
+   </channel>
+</rss>
+      
