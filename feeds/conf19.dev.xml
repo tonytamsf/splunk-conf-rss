@@ -6,7 +6,7 @@
     <title>Splunk [Industrial IoT | Mobile | SignalFx | VictorOps] 2019 .conf Videos w/ Slides</title>
     <link>https://conf.splunk.com?podcast</link>
     <description>Splunk [Industrial IoT | Mobile | SignalFx | VictorOps] 2019 .conf Videos w/ Slides</description>
-    <lastBuildDate>Sat, 21 Dec 2019 01:26:30 EST</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 18:44:47 EST</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -45,16 +45,18 @@
 
    <item>
       <title>4 Easy Steps for Reclaiming Your Life (without quitting your job) [VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT1968.mp4?podcast=1576909591</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:31 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1968.mp4?podcast=1576909591</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1968.mp4?podcast=1577144689</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:49 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1968.mp4?podcast=1577144689</guid>
       <comments>4 Easy Steps for Reclaiming Your Life (without quitting your job)</comments>
       <description>Everything breaks at 3:00 a.m. No one wants a team of engineers managing incidents on little to no sleep. Think about how tired you were the morning after the last all-nighter you pulled. Coffee can only do so much. If you work in any type of technical operations role you know how easy it is for on-call to take over your life. When managing an on-call team, you must think about the human side of on-call to avoid employee burnout and alert fatigue. In this session we will outline a four-step process to streamline incident management, review how to manage alerts through VictorOps, and give your team their lives back!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Bethany Abbott, TechOps Manager, NS1&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1577144689
 &lt;p/&gt;
 Product: VictorOps
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -65,28 +67,30 @@ Everything breaks at 3:00 a.m. No one wants a team of engineers managing inciden
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Bethany Abbott, TechOps Manager, NS1&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1968.pdf?podcast=1577144689
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Everything breaks at 3:00 a.m. No one wants a team of engineers managing incidents on little to no sleep. Think about how tired you were the morning after the last all-nighter you pulled. Coffee can only do so much. If you work in any type of technical operations role you know how easy it is for on-call to take over your life. When managing an on-call team, you must think about the human side of on-call to avoid employee burnout and alert fatigue. In this session we will outline a four-step process to streamline incident management, review how to manage alerts through VictorOps, and give your team their lives back!</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1968.mp4?podcast=1576909591" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1968.mp4?podcast=1577144689" type="video/mp4"/>
     </item>
       
    <item>
       <title>Augmented Reality: A Day in the Field with Splunk AR [Splunk Enterprise, Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/FN1752.mp4?podcast=1576909591</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:31 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1752.mp4?podcast=1576909591</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1752.mp4?podcast=1577144689</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:49 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1752.mp4?podcast=1577144689</guid>
       <comments>Augmented Reality: A Day in the Field with Splunk AR</comments>
       <description>Do you want to deliver the power of Splunk AR to your colleagues in the field? Splunk AR ties Splunk data to real-world objects, so users can easily consume the data where it lives. We’ll go over several use cases of technicians in the field using Splunk AR to discover, diagnose, and resolve issues in various environments. You&#x27;ll walk away equipped with the tools to construct these experiences from scratch and enable your organization to deploy Splunk AR.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Devin Bhushan, Splunk AR, Eng Lead, Splunk&lt;br/&gt; Glen Wong, Senior Engineering Manager, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1577144689
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Mobile
+&lt;br/&gt;
+Track: Foundations/Platform
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -97,28 +101,30 @@ Do you want to deliver the power of Splunk AR to your colleagues in the field? S
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Devin Bhushan, Splunk AR, Eng Lead, Splunk&lt;br/&gt; Glen Wong, Senior Engineering Manager, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1752.pdf?podcast=1577144689
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Do you want to deliver the power of Splunk AR to your colleagues in the field? Splunk AR ties Splunk data to real-world objects, so users can easily consume the data where it lives. We’ll go over several use cases of technicians in the field using Splunk AR to discover, diagnose, and resolve issues in various environments. You&#x27;ll walk away equipped with the tools to construct these experiences from scratch and enable your organization to deploy Splunk AR.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1752.mp4?podcast=1576909591" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1752.mp4?podcast=1577144689" type="video/mp4"/>
     </item>
       
    <item>
       <title>Best Practice of EMM deployment for Splunk Mobile [Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/FN1886.mp4?podcast=1576909591</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:31 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1886.mp4?podcast=1576909591</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1886.mp4?podcast=1577144689</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:49 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1886.mp4?podcast=1577144689</guid>
       <comments>Best Practice of EMM deployment for Splunk Mobile</comments>
       <description>This session is for customers who would like to extend their Splunk usage to mobile devices and understand how Enterprise Mobility Management (EMM) works. It also will benefit customers who have existing mobility management solutions, including mobile device management (MDM) and mobile application management (MAM) systems, and want to enroll the Splunk mobile apps. The session will include an introduction and live demos showing detailed integration with the most popular mobile device management (MDM) solutions: AirWatch, MobileIron, and Blackberry. We also will have live demos to illustrate how to configure different Splunk mobile apps with the enterprise mobility management (EMM) solutions from scratch. Topics to be discussed will include profile configuration, authorized devices, app wrapping, and MDM/MAM-specific features.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Roy Zhang, Principle QA, Splunk&lt;br/&gt; Strong Yuan, Senior Software Engineer in Test, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1577144689
 &lt;p/&gt;
 Product: Splunk Mobile
+&lt;br/&gt;
+Track: Foundations/Platform
 &lt;br/&gt;
 Level: Intermediate
 &lt;br/&gt;
@@ -129,28 +135,30 @@ This session is for customers who would like to extend their Splunk usage to mob
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Roy Zhang, Principle QA, Splunk&lt;br/&gt; Strong Yuan, Senior Software Engineer in Test, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1886.pdf?podcast=1577144689
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>This session is for customers who would like to extend their Splunk usage to mobile devices and understand how Enterprise Mobility Management (EMM) works. It also will benefit customers who have existing mobility management solutions, including mobile device management (MDM) and mobile application management (MAM) systems, and want to enroll the Splunk mobile apps. The session will include an introduction and live demos showing detailed integration with the most popular mobile device management (MDM) solutions: AirWatch, MobileIron, and Blackberry. We also will have live demos to illustrate how to configure different Splunk mobile apps with the enterprise mobility management (EMM) solutions from scratch. Topics to be discussed will include profile configuration, authorized devices, app wrapping, and MDM/MAM-specific features.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1886.mp4?podcast=1576909591" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1886.mp4?podcast=1577144689" type="video/mp4"/>
     </item>
       
    <item>
       <title>Building the “smartest factory on planet earth” – Accenture partnering with leading crystal maker innovating with Splunk for Industrial IoT [Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1576909591</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:31 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1576909591</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577144689</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:49 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577144689</guid>
       <comments>Building the “smartest factory on planet earth” – Accenture partnering with leading crystal maker innovating with Splunk for Industrial IoT</comments>
       <description>Production of crystal and gemstones requires high-class, top-quality output and unmatched quality and accuracy in the E2E production line. Based on in-depth experience, our joint client is one of the leading providers of production line machinery, serving its own business units as well as industry customers with precision optical instruments, grinding, sawing, drilling, and dressing tools. The new technical innovations in the area of Industrial Internet of Things (IIoT) offer completely new options to improve smart production lines. Thus Accenture is partnering with Splunk on creating a roadmap to build a fully digital, smart factory that will become a world-leading lighthouse facility. This session will provide insights into how the power of data enabled by Splunk can realize a quantum step in modern production line environments. It also will help you understand the value of data science for predictive quality, digital twin scenarios, reduced lot size, and closed loop R&amp;D processes. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Stefan Schroder, Managing Director, Accenture&lt;br/&gt; Ron Perzul, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577144689
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML, Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -161,28 +169,30 @@ Production of crystal and gemstones requires high-class, top-quality output and 
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Stefan Schroder, Managing Director, Accenture&lt;br/&gt; Ron Perzul, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577144689
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Production of crystal and gemstones requires high-class, top-quality output and unmatched quality and accuracy in the E2E production line. Based on in-depth experience, our joint client is one of the leading providers of production line machinery, serving its own business units as well as industry customers with precision optical instruments, grinding, sawing, drilling, and dressing tools. The new technical innovations in the area of Industrial Internet of Things (IIoT) offer completely new options to improve smart production lines. Thus Accenture is partnering with Splunk on creating a roadmap to build a fully digital, smart factory that will become a world-leading lighthouse facility. This session will provide insights into how the power of data enabled by Splunk can realize a quantum step in modern production line environments. It also will help you understand the value of data science for predictive quality, digital twin scenarios, reduced lot size, and closed loop R&amp;D processes. </itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1576909591" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577144689" type="video/mp4"/>
     </item>
       
    <item>
       <title>Every Minute Counts: Integrating Splunk and VictorOps to Accelerate Incident Response [Splunk Enterprise, Splunk IT Service Intelligence, VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1576909591</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:31 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1576909591</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1577144689</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:49 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1577144689</guid>
       <comments>Every Minute Counts: Integrating Splunk and VictorOps to Accelerate Incident Response</comments>
       <description>Splunk/VictorOps allows your data to talk to people, and your people to talk to data, all while improving MTTR/MTTI. You’re already using Splunk today to get cool dashboards, ask questions of your data with search, and trigger important alerts based on data that’s of interest to you. But, just because alerts are important doesn’t mean they are for everyone. And for those who should respond to the alert, it’s important to get the alert into their hands immediately. Transitioning to a modern NOC, or “New Operations Center,” Splunk and VictorOps enable teams to collaboratively solve issues by providing on-call users with actionable alerts that allow for smarter investigation, faster mobilization, and lower mean time to resolution. In this session we’ll take a look under the hood at different Splunk and VictorOps integrations.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Kirk  Kirk, ITOA Architect , Splunk&lt;br/&gt; Dylan Klausing, Sales Engineer Manager, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1577144689
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, VictorOps
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -193,28 +203,30 @@ Splunk/VictorOps allows your data to talk to people, and your people to talk to 
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Kirk  Kirk, ITOA Architect , Splunk&lt;br/&gt; Dylan Klausing, Sales Engineer Manager, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909591"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1576909591
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1577144689"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1697.pdf?podcast=1577144689
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Splunk/VictorOps allows your data to talk to people, and your people to talk to data, all while improving MTTR/MTTI. You’re already using Splunk today to get cool dashboards, ask questions of your data with search, and trigger important alerts based on data that’s of interest to you. But, just because alerts are important doesn’t mean they are for everyone. And for those who should respond to the alert, it’s important to get the alert into their hands immediately. Transitioning to a modern NOC, or “New Operations Center,” Splunk and VictorOps enable teams to collaboratively solve issues by providing on-call users with actionable alerts that allow for smarter investigation, faster mobilization, and lower mean time to resolution. In this session we’ll take a look under the hood at different Splunk and VictorOps integrations.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1576909591" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1697.mp4?podcast=1577144689" type="video/mp4"/>
     </item>
       
    <item>
       <title>How we understand your intent &gt; Splunk Natural Language Platform (NLP) [Splunk Enterprise, Splunk Cloud, Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/FN1716.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1716.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/FN1716.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FN1716.mp4?podcast=1577144690</guid>
       <comments>How we understand your intent &gt; Splunk Natural Language Platform (NLP)</comments>
       <description>Understanding the intent of a natural language search is a major component of any natural language processing system. Although there are numerous machine learning and deep learning techniques to solve complex problems in natural language processing, such as understanding intent also known as natural language understanding, very few of them discuss the challenges in production. In this session we take you on a journey from development to production of natural language understanding component of Splunk Natural Language Platform. We will discuss several engineering and data science challenges, and also provide holistic approaches to overcome those challenges. Attendees of the session should walk away with a deeper understanding of different state-of-the-art techniques, such as understanding the intent of a natural language search query, that can help them build their own applications in the natural language processing domain. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Aungon Nag Radon, Sr. Data Scientist, Splunk&lt;br/&gt; Anand Srinivasabagavathar, Senior Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Cloud, Splunk Mobile
+&lt;br/&gt;
+Track: Foundations/Platform
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -225,28 +237,30 @@ Understanding the intent of a natural language search is a major component of an
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Aungon Nag Radon, Sr. Data Scientist, Splunk&lt;br/&gt; Anand Srinivasabagavathar, Senior Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN1716.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Understanding the intent of a natural language search is a major component of any natural language processing system. Although there are numerous machine learning and deep learning techniques to solve complex problems in natural language processing, such as understanding intent also known as natural language understanding, very few of them discuss the challenges in production. In this session we take you on a journey from development to production of natural language understanding component of Splunk Natural Language Platform. We will discuss several engineering and data science challenges, and also provide holistic approaches to overcome those challenges. Attendees of the session should walk away with a deeper understanding of different state-of-the-art techniques, such as understanding the intent of a natural language search query, that can help them build their own applications in the natural language processing domain. </itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1716.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FN1716.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Improving cost-efficiency of inland cargo shipping within the Port of Hamburg – powered by Splunk IoT capabilities [Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577144690</guid>
       <comments>Improving cost-efficiency of inland cargo shipping within the Port of Hamburg – powered by Splunk IoT capabilities</comments>
       <description>The Port of Hamburg is the main entrance to the German market and the third largest European port by transit volume, passing nearly 9 million containers each year. Although it has witnessed several stages of automation, there is still vast, untapped potential to preserve resources, both economic and ecological. By introducing IoT with Splunk, we move away from the docks and onto the vessels, equipping one tugboat and one inland cargo ship with IoT technology to measure movement and gather data about energy consumption from their 1950s diesel engines. The goal of this PoC environment is to automate the communication between ship and port authority, as well as visualize their field of operation to evenly distribute load and optimize the travel distances. On a broader spectrum, we also built a simulation model within our dashboard to investigate the benefits of adapting the vessels with engines powered to natural gas or electricity based on their consumption patterns.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Henning Brandt, Data Analyst, ESE GmbH&lt;br/&gt; Janina Kropf, Data Analyst, ESE GmbH&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -257,28 +271,30 @@ The Port of Hamburg is the main entrance to the German market and the third larg
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Henning Brandt, Data Analyst, ESE GmbH&lt;br/&gt; Janina Kropf, Data Analyst, ESE GmbH&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>The Port of Hamburg is the main entrance to the German market and the third largest European port by transit volume, passing nearly 9 million containers each year. Although it has witnessed several stages of automation, there is still vast, untapped potential to preserve resources, both economic and ecological. By introducing IoT with Splunk, we move away from the docks and onto the vessels, equipping one tugboat and one inland cargo ship with IoT technology to measure movement and gather data about energy consumption from their 1950s diesel engines. The goal of this PoC environment is to automate the communication between ship and port authority, as well as visualize their field of operation to evenly distribute load and optimize the travel distances. On a broader spectrum, we also built a simulation model within our dashboard to investigate the benefits of adapting the vessels with engines powered to natural gas or electricity based on their consumption patterns.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Improving the asset reliability for manufacturing the world’s most advanced fighter jet, Lockheed Martin’s F-35 Lightning II with Splunk for Industrial IoT [Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577144690</guid>
       <comments>Improving the asset reliability for manufacturing the world’s most advanced fighter jet, Lockheed Martin’s F-35 Lightning II with Splunk for Industrial IoT</comments>
       <description>Join us to learn how Lockheed Martin utilizes Splunk for IoT to bridge the gap between Operations and Maintenance (O&amp;M), and how they took a multi-vendor, best-of-breed approach to solving their most critical O&amp;M challenges. If you attend this session you will see how real-time monitoring, and condition-based and predictive maintenance for critical assets can reduce unplanned downtime, improve maintenance activities, and increase operational efficiencies. We will also show how the Splunk implementation includes data convergence from disparate pieces of equipment and existing enterprise software solutions to create new insights and allow for actions that were once considered very difficult or too costly to realize.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Adam Whiting, Project Manager, Lockheed Martin&lt;br/&gt; Chris Gilman, Senior IoT Consultant, Strategic Maintenance Solutions&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -289,28 +305,30 @@ Join us to learn how Lockheed Martin utilizes Splunk for IoT to bridge the gap b
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Adam Whiting, Project Manager, Lockheed Martin&lt;br/&gt; Chris Gilman, Senior IoT Consultant, Strategic Maintenance Solutions&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Join us to learn how Lockheed Martin utilizes Splunk for IoT to bridge the gap between Operations and Maintenance (O&amp;M), and how they took a multi-vendor, best-of-breed approach to solving their most critical O&amp;M challenges. If you attend this session you will see how real-time monitoring, and condition-based and predictive maintenance for critical assets can reduce unplanned downtime, improve maintenance activities, and increase operational efficiencies. We will also show how the Splunk implementation includes data convergence from disparate pieces of equipment and existing enterprise software solutions to create new insights and allow for actions that were once considered very difficult or too costly to realize.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Industrial Cyber Security In A Converging IT/OT World [Splunk Enterprise Security, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577144690</guid>
       <comments>Industrial Cyber Security In A Converging IT/OT World</comments>
       <description>The digital convergence of IT and OT infrastructures promises huge efficiencies, cost savings and opportunities; but it is not without risk. OT was primarily built to run all types of manufacturing &amp; critical infrastructure processes while IT was built to store, transmit and manipulate data in order to conduct business. The two worlds could not be more different in purpose or design; and this can expose even the most secure organizations to new types of cyber threats. In this session we will discuss the current challenges we face in the drive to convergence and how to secure your industrial or critical infrastructure organization from the clear and present threat.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Michael Rothschild, Indegy&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise Security, Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Advanced
 &lt;br/&gt;
@@ -321,28 +339,30 @@ The digital convergence of IT and OT infrastructures promises huge efficiencies,
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Michael Rothschild, Indegy&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>The digital convergence of IT and OT infrastructures promises huge efficiencies, cost savings and opportunities; but it is not without risk. OT was primarily built to run all types of manufacturing &amp; critical infrastructure processes while IT was built to store, transmit and manipulate data in order to conduct business. The two worlds could not be more different in purpose or design; and this can expose even the most secure organizations to new types of cyber threats. In this session we will discuss the current challenges we face in the drive to convergence and how to secure your industrial or critical infrastructure organization from the clear and present threat.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Innovation, Automation, and Orchestration for Collaboration Technology with Splunk [Splunk Enterprise, Splunk for Industrial IoT, Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577144690</guid>
       <comments>Innovation, Automation, and Orchestration for Collaboration Technology with Splunk</comments>
       <description>AV and conference technology may seem trivial to the traditional IT OPS engineer, but it is one of the most visible and expensive parts of an enterprise. Everyone from the CEO to even the new hires on their first day use the technology. At PSE we were able to leverage Splunk to help us build, maintain, and manage our enterprise AV program (and save a lot of money in the process). In this session you will learn how we used Splunk to make data-driven decisions that influence and shape a multi-million dollar AV program.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Chris Ramsay, IT Facilities Engineer , Puget Sound Energy&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT, Splunk Mobile
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Intermediate
 &lt;br/&gt;
@@ -353,28 +373,30 @@ AV and conference technology may seem trivial to the traditional IT OPS engineer
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Chris Ramsay, IT Facilities Engineer , Puget Sound Energy&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>AV and conference technology may seem trivial to the traditional IT OPS engineer, but it is one of the most visible and expensive parts of an enterprise. Everyone from the CEO to even the new hires on their first day use the technology. At PSE we were able to leverage Splunk to help us build, maintain, and manage our enterprise AV program (and save a lot of money in the process). In this session you will learn how we used Splunk to make data-driven decisions that influence and shape a multi-million dollar AV program.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Introduction to Real-Time Monitoring with SignalFx [SignalFx]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT3005.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT3005.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT3005.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT3005.mp4?podcast=1577144690</guid>
       <comments>Introduction to Real-Time Monitoring with SignalFx</comments>
       <description>SignalFx, the latest addition to the Splunk family, is the market leader in real-time cloud monitoring and Observability for infrastructure, microservices, and applications. This session will serve as a primer into the new challenges and solutions involved in effectively monitoring and troubleshooting modern cloud environments built with microservices, containers, Kubernetes, and serverless functions. As you progress on your cloud-native journey and develop your own monitoring and Observability strategy, we will share three valuable insights: 1) best practices for collecting, visualizing, analyzing, alerting, and troubleshooting these complex environments using metrics, traces, and logs; 2) lessons learned from companies that have successfully reduced MTTD and MTTR, improved developer productivity, and improved customer experiences; 3) a live demonstration of the SignalFx platform in action&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Amit Sharma, Director, Product Marketing, Splunk&lt;br/&gt; Alberto Farronato, Head of SignalFx Product Marketing, Splunk - SignalFx Products&lt;br/&gt; Jeff Lo, Director of Product Marketing, Splunk - SignalFx Products&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: SignalFx
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -385,28 +407,30 @@ SignalFx, the latest addition to the Splunk family, is the market leader in real
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Amit Sharma, Director, Product Marketing, Splunk&lt;br/&gt; Alberto Farronato, Head of SignalFx Product Marketing, Splunk - SignalFx Products&lt;br/&gt; Jeff Lo, Director of Product Marketing, Splunk - SignalFx Products&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3005.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>SignalFx, the latest addition to the Splunk family, is the market leader in real-time cloud monitoring and Observability for infrastructure, microservices, and applications. This session will serve as a primer into the new challenges and solutions involved in effectively monitoring and troubleshooting modern cloud environments built with microservices, containers, Kubernetes, and serverless functions. As you progress on your cloud-native journey and develop your own monitoring and Observability strategy, we will share three valuable insights: 1) best practices for collecting, visualizing, analyzing, alerting, and troubleshooting these complex environments using metrics, traces, and logs; 2) lessons learned from companies that have successfully reduced MTTD and MTTR, improved developer productivity, and improved customer experiences; 3) a live demonstration of the SignalFx platform in action</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT3005.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT3005.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Real-time public transport information systems monitoring and analysis in the city of Amsterdam  [Splunk Enterprise, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577144690</guid>
       <comments>Real-time public transport information systems monitoring and analysis in the city of Amsterdam </comments>
       <description>With around a million people interacting with the public transport in and around the city of Amsterdam daily, supplying accurate travel information is critical for an efficient and well-informed public transportation experience. With four different transport types (boat, bus, tram, and metro) and a host of custom systems creating around 4.5 million update events per day, analyzing this travel information depends on everything working seamlessly together. To provide accurate and trustworthy real-time passenger information services, monitoring of not only information availability but quality is needed. This use case shows how Splunk was implemented to monitor the data streams at all points in the information chain, and how real-time insights and alerting allows for proactive problem resolution and provides high-quality real-time information services for the end-user.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Simon Ric - Hansen, Data Analyst, DITP&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Intermediate
 &lt;br/&gt;
@@ -417,28 +441,30 @@ With around a million people interacting with the public transport in and around
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Simon Ric - Hansen, Data Analyst, DITP&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>With around a million people interacting with the public transport in and around the city of Amsterdam daily, supplying accurate travel information is critical for an efficient and well-informed public transportation experience. With four different transport types (boat, bus, tram, and metro) and a host of custom systems creating around 4.5 million update events per day, analyzing this travel information depends on everything working seamlessly together. To provide accurate and trustworthy real-time passenger information services, monitoring of not only information availability but quality is needed. This use case shows how Splunk was implemented to monitor the data streams at all points in the information chain, and how real-time insights and alerting allows for proactive problem resolution and provides high-quality real-time information services for the end-user.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Solar Analytics: Changing the World One Solar Panel At A Time [Splunk Enterprise, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577144690</guid>
       <comments>Solar Analytics: Changing the World One Solar Panel At A Time</comments>
       <description>Solar generation and energy storage is dramatically dropping in cost and is being deployed on a massive scale across the globe. However, system monitoring and diagnostics, cost reporting, and usage can be difficult. With Splunk Essentials for ICS (Industrial Control Systems) and Splunk IAI (Industrial Asset Intelligence), a smart energy solution easily can be created. Does it seem too hard to onboard data? See how we use the Splunk add-on builder to create technology add-ons for solar panels and batteries. Want better visibility? Using Splunk IAI, we can gain faster insights into the performance of solar panels, inverters, and battery systems. Want to understand the economics? By applying business analytics, we can easily report of revenue, costs, and total return on investment. This solution can be applied to both small and large solar and energy storage installations, and we have a real world use case with some exciting energy data!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Dean Jackson, Staff Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Intermediate
 &lt;br/&gt;
@@ -449,28 +475,30 @@ Solar generation and energy storage is dramatically dropping in cost and is bein
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Dean Jackson, Staff Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Solar generation and energy storage is dramatically dropping in cost and is being deployed on a massive scale across the globe. However, system monitoring and diagnostics, cost reporting, and usage can be difficult. With Splunk Essentials for ICS (Industrial Control Systems) and Splunk IAI (Industrial Asset Intelligence), a smart energy solution easily can be created. Does it seem too hard to onboard data? See how we use the Splunk add-on builder to create technology add-ons for solar panels and batteries. Want better visibility? Using Splunk IAI, we can gain faster insights into the performance of solar panels, inverters, and battery systems. Want to understand the economics? By applying business analytics, we can easily report of revenue, costs, and total return on investment. This solution can be applied to both small and large solar and energy storage installations, and we have a real world use case with some exciting energy data!</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Soup to Nuts SRE: How to leverage ITSI, VictorOps and Phantom to be a site reliability engineering super hero [Splunk Enterprise, Splunk IT Service Intelligence, Phantom, VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1577144690</guid>
       <comments>Soup to Nuts SRE: How to leverage ITSI, VictorOps and Phantom to be a site reliability engineering super hero</comments>
       <description>Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Chris Crocco, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, Phantom, VictorOps
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: Advanced
 &lt;br/&gt;
@@ -481,28 +509,30 @@ Site Reliability Engineering: Easy to say, harder to do. It can be especially di
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Chris Crocco, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1046.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Site Reliability Engineering: Easy to say, harder to do. It can be especially difficult to make sure that all of tenants of SRE are applied to the services you support in a way that is easy for your engineers to adopt. In this session, we will take a look at how you can use Splunk&#x27;s ITSI, VictorOps and Phantom platforms to make robust solutions that can help your teams consistently solve complex problems and mature their services.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1046.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Splunk as a Tool for DevOps Acceleration [Splunk Enterprise, Splunk IT Service Intelligence, VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1577144690</guid>
       <comments>Splunk as a Tool for DevOps Acceleration</comments>
       <description>DevOps adoption requires high performing teams. One of the biggest challenges organizations have when adopting a DevOps framework is how to get early wins, get value early in the process, and overcome plateaus in adoption. These improvements are typically achieved through the use of automation, improved responsiveness, better situational awareness, and increased sharing between teams. As you will see in this session, Splunk easily sits in the middle of all of this.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Josh Atwell, Sr Technology Advocate, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, VictorOps
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -513,28 +543,30 @@ DevOps adoption requires high performing teams. One of the biggest challenges or
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Josh Atwell, Sr Technology Advocate, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1717.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>DevOps adoption requires high performing teams. One of the biggest challenges organizations have when adopting a DevOps framework is how to get early wins, get value early in the process, and overcome plateaus in adoption. These improvements are typically achieved through the use of automation, improved responsiveness, better situational awareness, and increased sharing between teams. As you will see in this session, Splunk easily sits in the middle of all of this.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1717.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Splunk at the Speed of Flight – Delivering Critical Passenger Cabin Services  [Splunk Enterprise, Splunk IT Service Intelligence, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577144690</guid>
       <comments>Splunk at the Speed of Flight – Delivering Critical Passenger Cabin Services </comments>
       <description>Business General Aviation (BGA) relies on multiple critical communications services, operating in flawless concert, for a safe and successful flight.  In-Flight Connectivity (IFC) is a critical BGA cabin service driving the industry. Learn how SatCom Direct is using Splunk to capture and cross-correlate live KPI feeds from various sources such as aircraft flight dynamics, satellites and ground stations to provide the ultimate in-air experience from a single aircraft to an entire managed fleet. Armed with Splunk, Satcom Direct can immediately detect and work to restore any service impacting events and from the same data, develop improved insights for ongoing performance enhancements. From the executive suite to the operations battleground, come learn how Splunk leverages data and insights at the speed of flight.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Q Damiano, Sr. Engineer, Systems Architecture, Satcom Direct&lt;br/&gt; Bill Babilon, USAF Account Executive and Splunk Solutions Architect, Splunk&lt;br/&gt; Paul Jeffery, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -545,28 +577,30 @@ Business General Aviation (BGA) relies on multiple critical communications servi
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Q Damiano, Sr. Engineer, Systems Architecture, Satcom Direct&lt;br/&gt; Bill Babilon, USAF Account Executive and Splunk Solutions Architect, Splunk&lt;br/&gt; Paul Jeffery, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Business General Aviation (BGA) relies on multiple critical communications services, operating in flawless concert, for a safe and successful flight.  In-Flight Connectivity (IFC) is a critical BGA cabin service driving the industry. Learn how SatCom Direct is using Splunk to capture and cross-correlate live KPI feeds from various sources such as aircraft flight dynamics, satellites and ground stations to provide the ultimate in-air experience from a single aircraft to an entire managed fleet. Armed with Splunk, Satcom Direct can immediately detect and work to restore any service impacting events and from the same data, develop improved insights for ongoing performance enhancements. From the executive suite to the operations battleground, come learn how Splunk leverages data and insights at the speed of flight.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Splunk for Good, Seattle University, and University of Connecticut partner to Power Aquaponics Facilities Around the Globe [Splunk Enterprise, Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577144690</guid>
       <comments>Splunk for Good, Seattle University, and University of Connecticut partner to Power Aquaponics Facilities Around the Globe</comments>
       <description>Wouldn’t you love to be able to give students at your university some hands-on experience with Splunk so they have a tangible skill to add to their resume when they’re looking for jobs? What if we told you that two universities on opposite sides of the United States have partnered with Splunk4Good and Splunk Mobile and done just that. The University of Connecticut and Seattle University are working together on sustainability efforts at aquaponics facilities around the globe and collecting data from them. During this talk you will learn some useful tools, tips, and tricks for how they got there, and how you can get your university enabled with Splunk4Good. Finally, we’ll talk about what you can do to teach students about Splunk and sustainability, and why that’s so important in 2019.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ryan O&#x27;Connor, Senior Advisory Engineer, Splunk&lt;br/&gt; Hunter Mason, Electrical Engineering Student, Seattle University&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Mobile
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -577,28 +611,30 @@ Wouldn’t you love to be able to give students at your university some hands-on
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ryan O&#x27;Connor, Senior Advisory Engineer, Splunk&lt;br/&gt; Hunter Mason, Electrical Engineering Student, Seattle University&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Wouldn’t you love to be able to give students at your university some hands-on experience with Splunk so they have a tangible skill to add to their resume when they’re looking for jobs? What if we told you that two universities on opposite sides of the United States have partnered with Splunk4Good and Splunk Mobile and done just that. The University of Connecticut and Seattle University are working together on sustainability efforts at aquaponics facilities around the globe and collecting data from them. During this talk you will learn some useful tools, tips, and tricks for how they got there, and how you can get your university enabled with Splunk4Good. Finally, we’ll talk about what you can do to teach students about Splunk and sustainability, and why that’s so important in 2019.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Splunk for NewOps – Using Data-Driven IT Operations to Better Manage IT Systems at Scale [Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1577144690</guid>
       <comments>Splunk for NewOps – Using Data-Driven IT Operations to Better Manage IT Systems at Scale</comments>
       <description>Splunk is increasingly at the forefront of new approaches to IT Operations, especially in disruptive ‘cloud-native’ businesses. This session will help you understand how ‘New Ops’ techniques like Observability, Site Reliability Engineering, SLOs/SLIs, Error Budgets, ChatOps, and Blameless Post-Mortems can help your IT Ops team; and how you can adopt ‘New Ops’ technologies like Containers, Microservice Architectures, Machine Learning, Orchestration, Predictive Analytics, and AI for IT Ops.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Andi Mann, Chief Technology Advocate, Splunk&lt;br/&gt; Endre Peterfi, Staff Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, VictorOps
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: Intermediate
 &lt;br/&gt;
@@ -609,28 +645,30 @@ Splunk is increasingly at the forefront of new approaches to IT Operations, espe
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Andi Mann, Chief Technology Advocate, Splunk&lt;br/&gt; Endre Peterfi, Staff Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1448.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Splunk is increasingly at the forefront of new approaches to IT Operations, especially in disruptive ‘cloud-native’ businesses. This session will help you understand how ‘New Ops’ techniques like Observability, Site Reliability Engineering, SLOs/SLIs, Error Budgets, ChatOps, and Blameless Post-Mortems can help your IT Ops team; and how you can adopt ‘New Ops’ technologies like Containers, Microservice Architectures, Machine Learning, Orchestration, Predictive Analytics, and AI for IT Ops.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1448.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Splunk Fortifies ABB Ability Industrial Cloud Foundation [Splunk Enterprise, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577144690</guid>
       <comments>Splunk Fortifies ABB Ability Industrial Cloud Foundation</comments>
       <description>As one of the world&#x27;s largest and most trusted industrial brands, our customers demand the most technologically advanced and reliable systems to operate the most critical assets on the planet. Downtime for our customers is never an option. As we migrate our business delivery backbone to the cloud, we have to enforce the same level of reliability and performance on the architecture that supports our services - .9999 is failure where we live. In this presentation learn how ABB Digital and Splunk have collaborated to create new insights into the performance, security and operations of our Azure-backed ABB Digital IOT Platform to protect our brand and increase the velocity of services that we can bring to our internal customers and to those that invest in our ABB branded services.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ravi Prattipati, Chief Architect, ABB Inc&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -641,28 +679,30 @@ As one of the world&#x27;s largest and most trusted industrial brands, our custo
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ravi Prattipati, Chief Architect, ABB Inc&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>As one of the world&#x27;s largest and most trusted industrial brands, our customers demand the most technologically advanced and reliable systems to operate the most critical assets on the planet. Downtime for our customers is never an option. As we migrate our business delivery backbone to the cloud, we have to enforce the same level of reliability and performance on the architecture that supports our services - .9999 is failure where we live. In this presentation learn how ABB Digital and Splunk have collaborated to create new insights into the performance, security and operations of our Azure-backed ABB Digital IOT Platform to protect our brand and increase the velocity of services that we can bring to our internal customers and to those that invest in our ABB branded services.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Splunk like your life depends on it [Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577144690</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:50 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577144690</guid>
       <comments>Splunk like your life depends on it</comments>
       <description>Many of the talks at .conf will be around how to solve business problems, how to configure clusters, and how to improve your KPIs. This talk focuses instead on how to monitor and detect problems in the physical realm: IoT. What do you do when an agency&#x27;s or business&#x27;s security posture is a matter of life and death? What are they doing to equip themselves against cyberattacks? This talk will discuss previous security breaches and industrial IoT device failures that result in death, and how they could have been detected or prevented with Splunk. It also will give you actionable takeaway&#x27;s for you to implement. After all, security isn&#x27;t always saving dollars; sometimes it is actually about saving lives.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Katie Brown, Senior Solutions Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577144690
 &lt;p/&gt;
 Product: Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -673,28 +713,30 @@ Many of the talks at .conf will be around how to solve business problems, how to
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Katie Brown, Senior Solutions Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577144690"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577144690
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Many of the talks at .conf will be around how to solve business problems, how to configure clusters, and how to improve your KPIs. This talk focuses instead on how to monitor and detect problems in the physical realm: IoT. What do you do when an agency&#x27;s or business&#x27;s security posture is a matter of life and death? What are they doing to equip themselves against cyberattacks? This talk will discuss previous security breaches and industrial IoT device failures that result in death, and how they could have been detected or prevented with Splunk. It also will give you actionable takeaway&#x27;s for you to implement. After all, security isn&#x27;t always saving dollars; sometimes it is actually about saving lives.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577144690" type="video/mp4"/>
     </item>
       
    <item>
       <title>Success in the Public Sector: How the State of Michigan uses Splunk to improve the lives of its citizens [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1576909592</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:32 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1576909592</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1577144691</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:51 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1577144691</guid>
       <comments>Success in the Public Sector: How the State of Michigan uses Splunk to improve the lives of its citizens</comments>
       <description>If you’re not investing in new technology, you are going to be left behind! One of the key challenges within any state government agency is ensuring system and application performance, SLA enforcement, secure operations, and adhering to strict federal and state compliance mandates, all while operating with limited budgets and staff. With help from Splunk, Health and Human Services (HHS) agencies manage systems that issue public benefits to citizens, maintain child welfare, enforce child support, and monitor public health. Come to this session to learn how to leverage Splunk to help you understand the &quot;complete picture&quot; of your systems and business processes to help your team move toward proactive management and increase customer satisfaction within your governmental applications. Create something useful from millions and billons of lines of log data to improve your application!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Josh  Scheurer, System Architect, State of Michigan&lt;br/&gt; Amy Hundley, Deputy Director for Field Operations Administration, State of Michigan - DHHS’, State of Michigan&lt;br/&gt; Sanjay  Srivastava, Division Director (Eligibility) , Department of Technology Management and Budget, State of Michigan &lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1577144691
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Mobile
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -705,28 +747,30 @@ If you’re not investing in new technology, you are going to be left behind! On
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Josh  Scheurer, System Architect, State of Michigan&lt;br/&gt; Amy Hundley, Deputy Director for Field Operations Administration, State of Michigan - DHHS’, State of Michigan&lt;br/&gt; Sanjay  Srivastava, Division Director (Eligibility) , Department of Technology Management and Budget, State of Michigan &lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909592"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1576909592
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2202.pdf?podcast=1577144691
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>If you’re not investing in new technology, you are going to be left behind! One of the key challenges within any state government agency is ensuring system and application performance, SLA enforcement, secure operations, and adhering to strict federal and state compliance mandates, all while operating with limited budgets and staff. With help from Splunk, Health and Human Services (HHS) agencies manage systems that issue public benefits to citizens, maintain child welfare, enforce child support, and monitor public health. Come to this session to learn how to leverage Splunk to help you understand the &quot;complete picture&quot; of your systems and business processes to help your team move toward proactive management and increase customer satisfaction within your governmental applications. Create something useful from millions and billons of lines of log data to improve your application!</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1576909592" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2202.mp4?podcast=1577144691" type="video/mp4"/>
     </item>
       
    <item>
       <title>The most epic road trip to .Conf: IOT in an RV, OMG [Splunk Enterprise, Splunk for Industrial IoT, VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1576909593</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:33 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1576909593</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577144691</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:51 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577144691</guid>
       <comments>The most epic road trip to .Conf: IOT in an RV, OMG</comments>
       <description>Splunk .conf is our favorite event every year and we wanted to extend the excitement while getting even more Splunky. So we grabbed an RV, set up some sensors, built an edge computing environment, and packed up the Big Data Beard recording equipment for a road-trip across the country for the week leading up to .conf, traveling from New York City to Las Vegas. We stopped along the way to hear awesome stories from fellow Splunk users, sharing them online via live chats and podcasts. With the power of Splunk, we captured data, discovered trends, predicted failures, and discovered more exciting ways to use Splunk to drive value from machine-generated data across the country. Hear the full story of how three engineers had the most interesting trip to .conf2019 of all!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Brett Roberts, Senior Systems Engineer, Dell&lt;br/&gt; Kyle Prins, Senior Systems Engineer , Dell&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577144691
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT, VictorOps
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -737,28 +781,30 @@ Splunk .conf is our favorite event every year and we wanted to extend the excite
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Brett Roberts, Senior Systems Engineer, Dell&lt;br/&gt; Kyle Prins, Senior Systems Engineer , Dell&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577144691
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Splunk .conf is our favorite event every year and we wanted to extend the excitement while getting even more Splunky. So we grabbed an RV, set up some sensors, built an edge computing environment, and packed up the Big Data Beard recording equipment for a road-trip across the country for the week leading up to .conf, traveling from New York City to Las Vegas. We stopped along the way to hear awesome stories from fellow Splunk users, sharing them online via live chats and podcasts. With the power of Splunk, we captured data, discovered trends, predicted failures, and discovered more exciting ways to use Splunk to drive value from machine-generated data across the country. Hear the full story of how three engineers had the most interesting trip to .conf2019 of all!</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1576909593" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577144691" type="video/mp4"/>
     </item>
       
    <item>
       <title>Threat Hunting in Industrial (ICS\OT) Environments [Splunk Enterprise Security, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1576909593</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:33 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1576909593</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577144691</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:51 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577144691</guid>
       <comments>Threat Hunting in Industrial (ICS\OT) Environments</comments>
       <description>Industrial operations comprise a diverse blend of technology that run critical processes. The proliferation of automation and networking has increased the sophistication of Industrial Control Systems (ICS), also known as Operational Technology (OT) environments.Threats targeting OT are increasing in both frequency and sophistication. Dragos tracks 9 OT-targeting activity groups, the most significant of which, XENOTIME, was responsible for the TRISIS malware that targeted safety systems (SIS) resulting in multiple plant shutdowns and the potential to cause harm to human operators.Traditional IT threat hunting is not well-suited to OT environments. This session will outline the differences between IT and OT assessments, highlight the most significant threats facing OT, and review best practices for OT-specific threat hunting engagements, including techniques that empower defenders to detect and respond more efficiently to existing and future threats, therefore reducing adversary dwell time.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Amy Bejtlich, Threat Intelligence, Dragos&lt;br/&gt; Marc  Seitz, Threat Analyst, Dragos&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577144691
 &lt;p/&gt;
 Product: Splunk Enterprise Security, Splunk for Industrial IoT
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -769,28 +815,30 @@ Industrial operations comprise a diverse blend of technology that run critical p
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Amy Bejtlich, Threat Intelligence, Dragos&lt;br/&gt; Marc  Seitz, Threat Analyst, Dragos&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577144691
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Industrial operations comprise a diverse blend of technology that run critical processes. The proliferation of automation and networking has increased the sophistication of Industrial Control Systems (ICS), also known as Operational Technology (OT) environments.Threats targeting OT are increasing in both frequency and sophistication. Dragos tracks 9 OT-targeting activity groups, the most significant of which, XENOTIME, was responsible for the TRISIS malware that targeted safety systems (SIS) resulting in multiple plant shutdowns and the potential to cause harm to human operators.Traditional IT threat hunting is not well-suited to OT environments. This session will outline the differences between IT and OT assessments, highlight the most significant threats facing OT, and review best practices for OT-specific threat hunting engagements, including techniques that empower defenders to detect and respond more efficiently to existing and future threats, therefore reducing adversary dwell time.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1576909593" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577144691" type="video/mp4"/>
     </item>
       
    <item>
       <title>Unified Observability with OpenTelemetry [SignalFx]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT2950.mp4?podcast=1576909593</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:33 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2950.mp4?podcast=1576909593</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2950.mp4?podcast=1577144691</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:51 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2950.mp4?podcast=1577144691</guid>
       <comments>Unified Observability with OpenTelemetry</comments>
       <description>We now live in a Cloud Native world where we build and deploy software very differently from the previous generation. Large, centralized systems are being decoupled and distributed to address scalability needs and to allow companies to deliver value faster. Compared to monolithic applications, microservice architectures introduce complexity in network communication, feature much shorter life cycles, and require resiliency in dynamic environments. As companies began to build or migrate to microservice architectures they often run into operational complexity and struggle to efficiently monitor their environments. These challenges have highlighted the need to observe systems differently and lead to the rise of Observability. In this session, we will discuss OpenTelemetry and how it provides visibility into both distributed traces and metrics. We will walk through the architecture including client libraries and collection as well as cover key concepts including annotations, sampling policies and more. Live demos and coding examples will be presented through the talk. By the end of the session, you will know what OpenTelemetry is, why it is important, how you can get started and how you can get involved.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Steve Flanders, Director of Product Management, Splunk&lt;br/&gt; Constance Caramanolis, Senior Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1577144691
 &lt;p/&gt;
 Product: SignalFx
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -801,28 +849,30 @@ We now live in a Cloud Native world where we build and deploy software very diff
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Steve Flanders, Director of Product Management, Splunk&lt;br/&gt; Constance Caramanolis, Senior Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2950.pdf?podcast=1577144691
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>We now live in a Cloud Native world where we build and deploy software very differently from the previous generation. Large, centralized systems are being decoupled and distributed to address scalability needs and to allow companies to deliver value faster. Compared to monolithic applications, microservice architectures introduce complexity in network communication, feature much shorter life cycles, and require resiliency in dynamic environments. As companies began to build or migrate to microservice architectures they often run into operational complexity and struggle to efficiently monitor their environments. These challenges have highlighted the need to observe systems differently and lead to the rise of Observability. In this session, we will discuss OpenTelemetry and how it provides visibility into both distributed traces and metrics. We will walk through the architecture including client libraries and collection as well as cover key concepts including annotations, sampling policies and more. Live demos and coding examples will be presented through the talk. By the end of the session, you will know what OpenTelemetry is, why it is important, how you can get started and how you can get involved.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2950.mp4?podcast=1576909593" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2950.mp4?podcast=1577144691" type="video/mp4"/>
     </item>
       
    <item>
       <title>Using Splunk and its premium solution to accelerate DevOps lifecycle [Splunk Enterprise, Splunk IT Service Intelligence, VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1576909593</link>
-      <pubDate>Sat, 21 Dec 2019 01:26:33 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1576909593</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1577144691</link>
+      <pubDate>Mon, 23 Dec 2019 18:44:51 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1577144691</guid>
       <comments>Using Splunk and its premium solution to accelerate DevOps lifecycle</comments>
       <description>As more technology organizations pursue agility and move towards continuous delivery, a stable and reliable IT infrastructure is the foundation that enables the transformation. However, the increasing complexity of the underlying infrastructure also brings a lot of challenges. Splunk has built a variety of solutions on top of our platform to deal with this complexity and deliver analytics and troubleshooting data to our engineering teams and decision makers. We will share a bit about our continuous integration process for triaging automated tests using Splunk, how we build IT infrastructure monitoring/analytics system based on Splunk ITSI, and how we take corresponding actions via VictorOps.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Scott Lu, Senior Engineering Manager, Splunk&lt;br/&gt; Alfie You, Principal Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1577144691
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, VictorOps
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: Intermediate
 &lt;br/&gt;
@@ -833,14 +883,14 @@ As more technology organizations pursue agility and move towards continuous deli
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Scott Lu, Senior Engineering Manager, Splunk&lt;br/&gt; Alfie You, Principal Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909593"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1576909593
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1577144691"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT1962.pdf?podcast=1577144691
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>As more technology organizations pursue agility and move towards continuous delivery, a stable and reliable IT infrastructure is the foundation that enables the transformation. However, the increasing complexity of the underlying infrastructure also brings a lot of challenges. Splunk has built a variety of solutions on top of our platform to deal with this complexity and deliver analytics and troubleshooting data to our engineering teams and decision makers. We will share a bit about our continuous integration process for triaging automated tests using Splunk, how we build IT infrastructure monitoring/analytics system based on Splunk ITSI, and how we take corresponding actions via VictorOps.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1576909593" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT1962.mp4?podcast=1577144691" type="video/mp4"/>
     </item>
       
 
