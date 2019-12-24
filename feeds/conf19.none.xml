@@ -6,7 +6,7 @@
     <title>Splunk [No Specific Product] 2019 .conf Videos w/ Slides</title>
     <link>https://conf.splunk.com?podcast</link>
     <description>Splunk [No Specific Product] 2019 .conf Videos w/ Slides</description>
-    <lastBuildDate>Sat, 21 Dec 2019 01:25:53 EST</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 19:10:17 EST</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -45,16 +45,18 @@
 
    <item>
       <title>Actionable Alerts Using Splunk and VictorOps at Irdeto’s 24/7 Service Operations Center []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT3123.mp4?podcast=1576909554</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:54 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT3123.mp4?podcast=1576909554</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT3123.mp4?podcast=1577146219</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT3123.mp4?podcast=1577146219</guid>
       <comments>Actionable Alerts Using Splunk and VictorOps at Irdeto’s 24/7 Service Operations Center</comments>
       <description>In Irdeto’s 24/7 Service Operations Center, our goal is to enable proactive enable proactive event management based on performance. We manage a vast infrastructure and operations stack and it’s important we have the right tools to make better decisions. We fought the war on “white noise”. Playbooks were established and actionable alerts created. On-Call schedules gave us access to domain expertise. Reporting capabilities helped drive continuous improvement. To better understand how we did this you’ll see an in-depth demo on Integration, the Rules Engine and gain insight into our evolution using ITSI with VictorOps.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Steve Harte, Incident Manager, Irdeto&lt;br/&gt; Daryel Murnin, Sr. Manager Cloud Service Operations, Irdeto&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1577146219
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -65,28 +67,30 @@ In Irdeto’s 24/7 Service Operations Center, our goal is to enable proactive en
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Steve Harte, Incident Manager, Irdeto&lt;br/&gt; Daryel Murnin, Sr. Manager Cloud Service Operations, Irdeto&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT3123.pdf?podcast=1577146219
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>In Irdeto’s 24/7 Service Operations Center, our goal is to enable proactive enable proactive event management based on performance. We manage a vast infrastructure and operations stack and it’s important we have the right tools to make better decisions. We fought the war on “white noise”. Playbooks were established and actionable alerts created. On-Call schedules gave us access to domain expertise. Reporting capabilities helped drive continuous improvement. To better understand how we did this you’ll see an in-depth demo on Integration, the Rules Engine and gain insight into our evolution using ITSI with VictorOps.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT3123.mp4?podcast=1576909554" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT3123.mp4?podcast=1577146219" type="video/mp4"/>
     </item>
       
    <item>
       <title>Anatomy of an Attack []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/SECS3014.mp4?podcast=1576909554</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:54 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SECS3014.mp4?podcast=1576909554</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/SECS3014.mp4?podcast=1577146219</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SECS3014.mp4?podcast=1577146219</guid>
       <comments>Anatomy of an Attack</comments>
       <description>This session covers how an actual phishing attack from APT29 came together. We will discuss how incident responders can learn more about the attack and build out a timeline of key events. We will also explain how DNS based security plays an important role in proactively blocking threats and how integrations with Splunk can help you with effective threat hunting.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Mark Stanford, Cisco Systems&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1577146219
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Security, Compliance and Fraud
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -97,28 +101,30 @@ This session covers how an actual phishing attack from APT29 came together. We w
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Mark Stanford, Cisco Systems&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC3014.pdf?podcast=1577146219
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>This session covers how an actual phishing attack from APT29 came together. We will discuss how incident responders can learn more about the attack and build out a timeline of key events. We will also explain how DNS based security plays an important role in proactively blocking threats and how integrations with Splunk can help you with effective threat hunting.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/SECS3014.mp4?podcast=1576909554" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SECS3014.mp4?podcast=1577146219" type="video/mp4"/>
     </item>
       
    <item>
       <title>Effective Strategies for Monitoring Docker and Kubernetes Environments []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT2951.mp4?podcast=1576909554</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:54 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2951.mp4?podcast=1576909554</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2951.mp4?podcast=1577146219</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2951.mp4?podcast=1577146219</guid>
       <comments>Effective Strategies for Monitoring Docker and Kubernetes Environments</comments>
       <description>Containerization and the adoption of microservices have dramatically accelerated software innovation. However, containerized environments behave so differently compared to traditional ones that they present new observability challenges, and require new monitoring strategies and tools. What are those challenges? In this talk, we will discuss three – the explosion in scale, massive component churn caused by continuous delivery, and the need for infrastructure-to-application correlation –  then share effective strategies for overcoming them in a number of practical examples.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Arijit Mukherji, Distinguished Architect, Splunk - SignalFx Products&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1577146219
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -129,28 +135,30 @@ Containerization and the adoption of microservices have dramatically accelerated
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Arijit Mukherji, Distinguished Architect, Splunk - SignalFx Products&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2951.pdf?podcast=1577146219
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Containerization and the adoption of microservices have dramatically accelerated software innovation. However, containerized environments behave so differently compared to traditional ones that they present new observability challenges, and require new monitoring strategies and tools. What are those challenges? In this talk, we will discuss three – the explosion in scale, massive component churn caused by continuous delivery, and the need for infrastructure-to-application correlation –  then share effective strategies for overcoming them in a number of practical examples.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2951.mp4?podcast=1576909554" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2951.mp4?podcast=1577146219" type="video/mp4"/>
     </item>
       
    <item>
       <title>Energy Insights: Developing an Energy Transformation Framework In Manufacturing with GrayMatter and Splunk at Continental Automotive []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1576909554</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:54 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1576909554</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577146219</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:19 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577146219</guid>
       <comments>Energy Insights: Developing an Energy Transformation Framework In Manufacturing with GrayMatter and Splunk at Continental Automotive</comments>
       <description> Intersecting energy asset data with production and operational data opens new doors to better visibility, energy savings and meeting green standards. In this session you’ll learn how Continental Automotive eliminated energy waste, reduced costs and lowered emissions levels by breaking down energy consumption and operational data silos on the factory floor.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Alan Hinchman, Chief Revenue Officer, Gray Matter Systems, LLC&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577146219
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Internet of Things
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -161,28 +169,30 @@ Level:
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Alan Hinchman, Chief Revenue Officer, Gray Matter Systems, LLC&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1576909554"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1576909554
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577146219"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577146219
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle> Intersecting energy asset data with production and operational data opens new doors to better visibility, energy savings and meeting green standards. In this session you’ll learn how Continental Automotive eliminated energy waste, reduced costs and lowered emissions levels by breaking down energy consumption and operational data silos on the factory floor.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1576909554" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577146219" type="video/mp4"/>
     </item>
       
    <item>
       <title>Introducing Splunk Mission Control []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/SEC2371.mp4?podcast=1576909555</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:55 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2371.mp4?podcast=1576909555</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2371.mp4?podcast=1577146220</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2371.mp4?podcast=1577146220</guid>
       <comments>Introducing Splunk Mission Control</comments>
       <description>Are you a security analyst? Do you like bright and shiny new things? Attend this session to get the inside scoop on the latest and greatest coming out of our security product and engineering teams.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Chris Simmons, Director of Product Marketing, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1577146220
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Security, Compliance and Fraud
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -193,28 +203,30 @@ Are you a security analyst? Do you like bright and shiny new things? Attend this
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Chris Simmons, Director of Product Marketing, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2371.pdf?podcast=1577146220
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Are you a security analyst? Do you like bright and shiny new things? Attend this session to get the inside scoop on the latest and greatest coming out of our security product and engineering teams.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2371.mp4?podcast=1576909555" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2371.mp4?podcast=1577146220" type="video/mp4"/>
     </item>
       
    <item>
       <title>Introducing Splunk Mission Control []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/SEC2295.mp4?podcast=1576909555</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:55 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2295.mp4?podcast=1576909555</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2295.mp4?podcast=1577146220</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2295.mp4?podcast=1577146220</guid>
       <comments>Introducing Splunk Mission Control</comments>
       <description>Are you a security analyst? Do you like bright and shiny new things? Attend this session to get the inside scoop on the latest and greatest coming out of our security product and engineering teams.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Chris Simmons, Director of Product Marketing, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1577146220
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Security, Compliance and Fraud
 &lt;br/&gt;
 Level: Good for all skill levels
 &lt;br/&gt;
@@ -225,28 +237,30 @@ Are you a security analyst? Do you like bright and shiny new things? Attend this
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Rob Truesdell, Sr Director, Product Management, Splunk&lt;br/&gt; Chris Simmons, Director of Product Marketing, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2295.pdf?podcast=1577146220
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Are you a security analyst? Do you like bright and shiny new things? Attend this session to get the inside scoop on the latest and greatest coming out of our security product and engineering teams.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2295.mp4?podcast=1576909555" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2295.mp4?podcast=1577146220" type="video/mp4"/>
     </item>
       
    <item>
       <title>Lost In Translation - The Challenge of Managing Microservices []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/FNS2822.mp4?podcast=1576909555</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:55 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FNS2822.mp4?podcast=1576909555</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/FNS2822.mp4?podcast=1577146220</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FNS2822.mp4?podcast=1577146220</guid>
       <comments>Lost In Translation - The Challenge of Managing Microservices</comments>
       <description>Instana CEO Mirko Novakovic explores microservices applications and the performance management challenges created by their complexity. Unique microservice architectures, operational and deployment needs create a large management gap. With so many moving pieces in addition to highly complex architectures, having the raw data won’t meet the challenge. There’s just too many pieces, too many dependencies and too much data for humans (even teams) to understand. New management tools are needed that translate data into information. Otherwise, each stakeholder must fend for themselves even though the ephemeral application architecture makes it impossible to find bottlenecks. It’s like trying to get directions in a foreign city where nobody speaks your language - every question and answer gets lost in translation. Mirko examines distributed microservice applications, how their complexity creates management problems, and what APM tools should do to automatically meet those challenges and deliver high performing applications.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Mirko Novakovic, Instana&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1577146220
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Foundations/Platform
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -257,28 +271,30 @@ Instana CEO Mirko Novakovic explores microservices applications and the performa
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Mirko Novakovic, Instana&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FNS2822.pdf?podcast=1577146220
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Instana CEO Mirko Novakovic explores microservices applications and the performance management challenges created by their complexity. Unique microservice architectures, operational and deployment needs create a large management gap. With so many moving pieces in addition to highly complex architectures, having the raw data won’t meet the challenge. There’s just too many pieces, too many dependencies and too much data for humans (even teams) to understand. New management tools are needed that translate data into information. Otherwise, each stakeholder must fend for themselves even though the ephemeral application architecture makes it impossible to find bottlenecks. It’s like trying to get directions in a foreign city where nobody speaks your language - every question and answer gets lost in translation. Mirko examines distributed microservice applications, how their complexity creates management problems, and what APM tools should do to automatically meet those challenges and deliver high performing applications.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/FNS2822.mp4?podcast=1576909555" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FNS2822.mp4?podcast=1577146220" type="video/mp4"/>
     </item>
       
    <item>
       <title>Observability Demystified  []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IT2949.mp4?podcast=1576909555</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:55 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2949.mp4?podcast=1576909555</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IT2949.mp4?podcast=1577146220</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IT2949.mp4?podcast=1577146220</guid>
       <comments>Observability Demystified </comments>
       <description>What in the world is this observability stuff all about? How is it different from monitoring or the other things we’ve been doing? This session will give you a crash course in observability, how to roll it out, how to practice and improve it, and how to ensure you’re getting the best bang for your buck. We’ll examine the goals, how people use the tools, and what benefits you can expect.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Cory Watson, Technical Evangelist, Splunk - SignalFx Products&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1577146220
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: IT Operations
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -289,28 +305,30 @@ What in the world is this observability stuff all about? How is it different fro
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Cory Watson, Technical Evangelist, Splunk - SignalFx Products&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IT2949.pdf?podcast=1577146220
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>What in the world is this observability stuff all about? How is it different from monitoring or the other things we’ve been doing? This session will give you a crash course in observability, how to roll it out, how to practice and improve it, and how to ensure you’re getting the best bang for your buck. We’ll examine the goals, how people use the tools, and what benefits you can expect.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2949.mp4?podcast=1576909555" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IT2949.mp4?podcast=1577146220" type="video/mp4"/>
     </item>
       
    <item>
       <title>Securing the Intelligent Enterprise with SAP Enterprise Threat Detection and Splunk []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/SEC2856.mp4?podcast=1576909555</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:55 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2856.mp4?podcast=1576909555</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/SEC2856.mp4?podcast=1577146220</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:20 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/SEC2856.mp4?podcast=1577146220</guid>
       <comments>Securing the Intelligent Enterprise with SAP Enterprise Threat Detection and Splunk</comments>
       <description>Looking to eliminate blind spots across your SAP environment and take proactive action to detect and mitigate attacks before mission-critical ERP applications are compromised? SAP recently teamed with Splunk to help a leading manufacturer build and validate a first-of-it’s-kind bi-directional integration between SAP Enterprise Threat Detection and Splunk. See a demo of how Enterprise Threat Detection’s open, extensible framework enables an exchange of alerts with Splunk to facilitate real-time attack investigations from either platform plus the ability to rapidly take action within the SAP landscape or broader heterogenous infrastructure.SAP Enterprise Threat Detection is a powerful native SAP HANA application that quickly identifies suspicious patterns at the application server and database level. When a potential SAP software-specific threat is identified, Enterprise Threat Detection can send an alert to Splunk to correlate with other application and infrastructure data for deeper investigation or trigger immediate action. Conversely, InfoSec teams using Splunk to rapidly identify anomalies across the broader security infrastructure can send alerts to Enterprise Threat Detection for forensics or to trigger appropriate actions in the SAP environment. The combination of Enterprise Threat Detection and Splunk enables organizations to more effectively combat security issues across the enterprise spanning applications and infrastructure.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Claw Clawson, SplunkYoda, Splunk&lt;br/&gt; Carl Yestrau, Director of Architecture for Partners, Splunk&lt;br/&gt; Anne Marie Colombo, Cybersecurity Solution Advisor, SAP&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1577146220
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Security, Compliance and Fraud
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -321,28 +339,30 @@ Looking to eliminate blind spots across your SAP environment and take proa
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Claw Clawson, SplunkYoda, Splunk&lt;br/&gt; Carl Yestrau, Director of Architecture for Partners, Splunk&lt;br/&gt; Anne Marie Colombo, Cybersecurity Solution Advisor, SAP&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1577146220"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/SEC2856.pdf?podcast=1577146220
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Looking to eliminate blind spots across your SAP environment and take proactive action to detect and mitigate attacks before mission-critical ERP applications are compromised? SAP recently teamed with Splunk to help a leading manufacturer build and validate a first-of-it’s-kind bi-directional integration between SAP Enterprise Threat Detection and Splunk. See a demo of how Enterprise Threat Detection’s open, extensible framework enables an exchange of alerts with Splunk to facilitate real-time attack investigations from either platform plus the ability to rapidly take action within the SAP landscape or broader heterogenous infrastructure.SAP Enterprise Threat Detection is a powerful native SAP HANA application that quickly identifies suspicious patterns at the application server and database level. When a potential SAP software-specific threat is identified, Enterprise Threat Detection can send an alert to Splunk to correlate with other application and infrastructure data for deeper investigation or trigger immediate action. Conversely, InfoSec teams using Splunk to rapidly identify anomalies across the broader security infrastructure can send alerts to Enterprise Threat Detection for forensics or to trigger appropriate actions in the SAP environment. The combination of Enterprise Threat Detection and Splunk enables organizations to more effectively combat security issues across the enterprise spanning applications and infrastructure.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2856.mp4?podcast=1576909555" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/SEC2856.mp4?podcast=1577146220" type="video/mp4"/>
     </item>
       
    <item>
       <title>The Blindspot No One is Talking About…But Hackers Are Targeting []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/FNS2837.mp4?podcast=1576909555</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:55 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FNS2837.mp4?podcast=1576909555</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/FNS2837.mp4?podcast=1577146221</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:21 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/FNS2837.mp4?podcast=1577146221</guid>
       <comments>The Blindspot No One is Talking About…But Hackers Are Targeting</comments>
       <description>Today’s largest enterprises run their business on ERP Platforms. These same companies rely on SPLUNK  Enterprise Security to monitor and respond to threats targeting their infrastructure and applications. Join Tara tile and Greg name title to learn why ERP platforms are under attack, what leading enterprises are doing to protect them and how you can leverage SPLUNK to monitor threats and prevent catastrophic downtime of your most critical business applications.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Greg Kushmerek, Onapsis&lt;br/&gt; Tara Khanna, Accenture&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1577146221"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1577146221
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Foundations/Platform
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -353,28 +373,30 @@ Today’s largest enterprises run their business on ERP Platforms. These same co
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Greg Kushmerek, Onapsis&lt;br/&gt; Tara Khanna, Accenture&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1576909555"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1576909555
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1577146221"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/FN2837.pdf?podcast=1577146221
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>Today’s largest enterprises run their business on ERP Platforms. These same companies rely on SPLUNK  Enterprise Security to monitor and respond to threats targeting their infrastructure and applications. Join Tara tile and Greg name title to learn why ERP platforms are under attack, what leading enterprises are doing to protect them and how you can leverage SPLUNK to monitor threats and prevent catastrophic downtime of your most critical business applications.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/FNS2837.mp4?podcast=1576909555" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/FNS2837.mp4?podcast=1577146221" type="video/mp4"/>
     </item>
       
    <item>
       <title>Triggers &amp; Alerts in the Splunk Cloud Platform []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1576909556</link>
-      <pubDate>Sat, 21 Dec 2019 01:25:56 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1576909556</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577146221</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:21 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577146221</guid>
       <comments>Triggers &amp; Alerts in the Splunk Cloud Platform</comments>
       <description>In the new Splunk Cloud Platform, we’re reimagining the way we enable monitoring and alerting. Configure triggers to identify changes and anomalies in your data as they occur and determine the right action(s) that should be taken as a result – email, Slack, VictorOps, etc. Leverage machine learning to bring your attention to the right insights and roll that back into your core monitoring strategy.  Come to this session to learn more about both the long-term vision and what’s immediately available.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Miranda Luna, Product Management, Splunk&lt;br/&gt; Declan Shanaghy, Architect Developer Platform, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1576909556"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1576909556
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577146221"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577146221
 &lt;p/&gt;
 Product: 
+&lt;br/&gt;
+Track: Developer
 &lt;br/&gt;
 Level: 
 &lt;br/&gt;
@@ -385,14 +407,14 @@ In the new Splunk Cloud Platform, we’re reimagining the way we enable monitori
 &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Miranda Luna, Product Management, Splunk&lt;br/&gt; Declan Shanaghy, Architect Developer Platform, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1576909556"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1576909556
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577146221"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577146221
 </itunes:summary>
       <itunes:author>Splunk</itunes:author>
       <itunes:keywords>Splunk,conference,videos,Splunk Cloud,data,streaming</itunes:keywords>
       <itunes:subtitle>In the new Splunk Cloud Platform, we’re reimagining the way we enable monitoring and alerting. Configure triggers to identify changes and anomalies in your data as they occur and determine the right action(s) that should be taken as a result – email, Slack, VictorOps, etc. Leverage machine learning to bring your attention to the right insights and roll that back into your core monitoring strategy.  Come to this session to learn more about both the long-term vision and what’s immediately available.</itunes:subtitle>
       <itunes:image href="http://bit.ly/splunkconf19i"/>
     
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1576909556" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577146221" type="video/mp4"/>
     </item>
       
 

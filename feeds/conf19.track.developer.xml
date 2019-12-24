@@ -6,7 +6,7 @@
     <title>Splunk [Developer Track] 2019 .conf Videos w/ Slides</title>
     <link>https://conf.splunk.com?podcast</link>
     <description>Splunk [Developer Track] 2019 .conf Videos w/ Slides</description>
-    <lastBuildDate>Mon, 23 Dec 2019 18:56:46 EST</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 19:09:50 EST</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -45,14 +45,14 @@
 <!-- No match IT Operations with Developer --><!-- No match Business Analytics with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Business Analytics with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Business Analytics with Developer --><!-- No match Business Analytics with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer -->
    <item>
       <title>A Timely Development: I Built a Splunk App To Save Security Analysts Time - And So Can You! [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1308.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1308.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1308.mp4?podcast=1577146191</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:51 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1308.mp4?podcast=1577146191</guid>
       <comments>A Timely Development: I Built a Splunk App To Save Security Analysts Time - And So Can You!</comments>
       <description>Have you ever had an idea that would improve incident response? I did. I knew I could save security analysts time by providing a tool that enabled analysts to determine if an endpoint had persistent malware present in seconds. However, it would need to integrate seamlessly into their incident response workflow and have a quality user interface. Frankly, that felt like an insurmountable hurdle for someone with little front-end development experience. I was pleasantly surprised to find that even as a solo developer, I was able to create a full-featured Splunk App with an interface that looks like it was designed by someone far more talented. Through a demonstration of my incident response app and a discussion of my experience building it, I’ll show you how Splunk makes it easier and, more importantly, realistic to bring your own ideas to life. I’ll also share a few pain-points I encountered so you can avoid some of the mistakes I made.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Joe Kovacic, Founder, Perseus&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1308.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1308.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1308.pdf?podcast=1577146191"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1308.pdf?podcast=1577146191
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -62,19 +62,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1308.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1308.mp4?podcast=1577146191" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer -->
    <item>
       <title>Build Apps Fast with SDC Developer Tools [AI/ML, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1476.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1476.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1476.mp4?podcast=1577146191</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:51 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1476.mp4?podcast=1577146191</guid>
       <comments>Build Apps Fast with SDC Developer Tools</comments>
       <description>Learn how to build powerful apps with the Splunk Developer Cloud.  &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Tedd  Hellmann, Sr. Product Manager, Splunk&lt;br/&gt; Eric Cheng, Senior Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1476.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1476.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1476.pdf?podcast=1577146191"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1476.pdf?podcast=1577146191
 &lt;p/&gt;
 Product: AI/ML, Splunk Developer Cloud
 &lt;br/&gt;
@@ -84,19 +84,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1476.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1476.mp4?podcast=1577146191" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer -->
    <item>
       <title>Building applications with Splunk UI and Splunk React Visualizations  [Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1141.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1141.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1141.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1141.mp4?podcast=1577146192</guid>
       <comments>Building applications with Splunk UI and Splunk React Visualizations </comments>
       <description>In this session we will walk you through the process of creating a highly customized application experience using React and Splunk&#x27;s UI and visualization libraries.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Patrick Wied, Senior Software Engineer, Splunk&lt;br/&gt; Ziyan Wang, Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1141.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1141.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1141.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1141.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Developer Cloud
 &lt;br/&gt;
@@ -106,19 +106,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1141.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1141.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer -->
    <item>
       <title>Build your own custom data visualization on dashboard [Splunk Enterprise, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV2178.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2178.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV2178.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2178.mp4?podcast=1577146192</guid>
       <comments>Build your own custom data visualization on dashboard</comments>
       <description>Ever had the necessity to have fine-grain control over visualizations on your Splunk dashboards? This talk will show you everything you need to know about how to build your own custom data visualization experience. Work through real-world examples by customizing the very popular Buttercup games dashboard. By the end of this talk, you will be inspired to have your dashboard with your own visualizations and share them with the Splunk community.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Pete Peterson, Principal Software Engineer, Splunk&lt;br/&gt; Xianlin Hu, Principal Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2178.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2178.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2178.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2178.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Developer Cloud
 &lt;br/&gt;
@@ -128,19 +128,19 @@ Level: Advanced
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2178.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2178.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Business Analytics with Developer --><!-- No match Security, Compliance and Fraud with Developer -->
    <item>
       <title>Check-Out SPL Rehab: A new way to debug your searches [Splunk Enterprise, Splunk Cloud, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1293.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1293.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1293.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1293.mp4?podcast=1577146192</guid>
       <comments>Check-Out SPL Rehab: A new way to debug your searches</comments>
       <description>Wouldn&#x27;t it be great if SPL had a debug mode?! We think so too, which is why we created SPL Rehab. This new app allows you to step through your search on a per-command basis, visualize key figures from the job inspector and search log, and show you how your overall output is affected! We will also show you how the tool works under the covers and how you can apply some useful dashboarding tricks to your own apps!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; James Odom, Head of Service Delivery, Converging Data&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/Dev1293.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/Dev1293.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/Dev1293.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/Dev1293.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Cloud, Splunk Developer Cloud
 &lt;br/&gt;
@@ -150,19 +150,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1293.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1293.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer -->
    <item>
       <title>Converting a Traditional Splunk App to a Splunk Cloud App with Splunk Developer Cloud [Splunk Enterprise, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1667.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1667.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1667.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1667.mp4?podcast=1577146192</guid>
       <comments>Converting a Traditional Splunk App to a Splunk Cloud App with Splunk Developer Cloud</comments>
       <description>Unveiled at .conf2018, Splunk Developer Cloud (SDC) gives developers the ability to integrate Splunk data services into their own applications. If you’ve been curious about getting started with SDC, this session is for you. Attendees will discover how to convert a traditional Splunk App to an SDC App, eliminating potential infrastructure resource roadblocks, leveraging more flexible scaling options, and building better visualizations with a modern, React-based framework. We&#x27;ll also take a deep dive into the differences in the application design and development process between a traditional Splunk App and SDC as we walk you through our internal process of converting one of our homegrown Splunk Apps.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ashish Bhutiani, CEO, Function1&lt;br/&gt; Kevin Chu, Function1&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1667.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1667.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1667.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1667.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Developer Cloud
 &lt;br/&gt;
@@ -172,19 +172,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1667.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1667.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer -->
    <item>
       <title>Data Stream Processor: Architecture and SDKs [Splunk Data Fabric Search and Data Stream Processor]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1577146192</guid>
       <comments>Data Stream Processor: Architecture and SDKs</comments>
       <description>Popular stream processing frameworks (such as Apache Spark Streaming, Apache Flink, and Apache Kafka Streams) make stream processing accessible to developers with language bindings typically in Java, Scala, and Python. These frameworks also include some variant of streaming SQL support to further expand the accessibility of large-scale, low-latency, high-throughput stream processing. What&#x27;s missing is bringing the world of stream processing to the Business Intelligence user. At Splunk we&#x27;ve built a tool called Splunk Data Stream Processor (DSP) to fill this gap.  In this session, Max and Sharon will present the design and architecture of DSP. We will compare it with other stream processing frameworks to show you how DSP allows users to visually author and preview stream processing pipelines and instantly deploy them at scale. We will also present our developer SDKs, allowing third-party custom functions to be developed and integrated for data processing. With its high level abstractions for business users and extensible framework for developers, Data Stream Processor makes stream processing accessible to the widest possible audience.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Sharon Xie, Sr. Software Engineer, Splunk&lt;br/&gt; Max Feng, Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1317.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Data Fabric Search and Data Stream Processor
 &lt;br/&gt;
@@ -194,19 +194,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1317.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer -->
    <item>
       <title>Deep Dive on The New Dashboarding &amp; Content Export Experience [Splunk Enterprise, Splunk Cloud, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV2165.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2165.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV2165.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2165.mp4?podcast=1577146192</guid>
       <comments>Deep Dive on The New Dashboarding &amp; Content Export Experience</comments>
       <description>This session provides detailed guidance on how to use the new dashboard framework into Splunk apps. It first goes over the basic get started tutorial, which helps developers to build a dashboard in just a few minutes. Then it dives deep into the overall architecture, technology stacks, and individual components that can be customized, including layouts, visualizations, data sources, inputs, event handlers. By attending this session, Splunk app developers will be able to integrate dashboards into the apps flexibly and reliably. This session will also walk through the best practices that can help developers to build the optimal dashboards. This session is targeted to both new Splunk app developers and existing Splunk app developers. For people who already know about the existing Splunk technology stack such as Backbone, SimpleXML, SplunkJS, this session will also go through how to migrate to the new framework. As a bonus, this session will also talk about how to export dashboards as beautiful images and PDFs that 100% matches the original ones! &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Yuxiang Kou, Senior Software Engineer, Splunk&lt;br/&gt; Michael Luo, Principal Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2165.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2165.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2165.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2165.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Cloud, Splunk Developer Cloud
 &lt;br/&gt;
@@ -216,19 +216,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2165.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2165.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Business Analytics with Developer --><!-- No match Business Analytics with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Internet of Things with Developer --><!-- No match Security, Compliance and Fraud with Developer -->
    <item>
       <title>Detecting Anomalies in DSP Pipelines Using Real Time Machine Learning [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1139.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1139.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1139.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1139.mp4?podcast=1577146192</guid>
       <comments>Detecting Anomalies in DSP Pipelines Using Real Time Machine Learning</comments>
       <description>Machine Learning on the stream is useful for a few important reasons: scenarios where we want to dramatically reduce the resource utilization while providing high fidelity results and in use cases where we need algorithms to adapt to changing patterns and drifts in distributions real time.In this talk, we will discuss ongoing work in the area of streaming machine learning and show how we leverage Flink and DSP to build real time machine learning systems that allow us to perform adaptive thresholding and anomaly detection online.As an application of these principles, we will showcase how real time machine learning is used to detect anomalies in DSP pipelines.The talk will introduce relevant background in streaming machine learning as well as the problem of anomaly detection on Kubernetes logs.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ram Sriharsha, Sr Principal Scientist, Head of Applied Research, Splunk&lt;br/&gt; Harsha Wasalathanrige Don, Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1139.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1139.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1139.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1139.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -238,19 +238,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1139.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1139.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Business Analytics with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match  with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer -->
    <item>
       <title>Getting your FIX: Developing an add-on for the Financial Information eXchange Protocol [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1252.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1252.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1252.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1252.mp4?podcast=1577146192</guid>
       <comments>Getting your FIX: Developing an add-on for the Financial Information eXchange Protocol</comments>
       <description>The Financial Information eXchange (FIX) Protocol is one of the most pervasive electronic communications protocols used for real-time exchange of information related to securities transaction and market data. The protocol is used to move massive quantities of money per day. With over 1600 fields (tags) and 115 message types, the protocol presents some unique challenges to consider when developing an add-on for Splunk. Come see and discuss the protocol and how Splunk can help you make sense of the data it contains to improve your trading, business analytic, security, fraud, and compliance operations.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Josef Kuepker, Staff Security Specialist, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1252.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1252.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1252.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1252.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -260,19 +260,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1252.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1252.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       
    <item>
       <title>Get your head into the clouds with Splunk Cloud Platform [Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1396.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1396.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1396.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1396.mp4?podcast=1577146192</guid>
       <comments>Get your head into the clouds with Splunk Cloud Platform</comments>
       <description>What is Splunk Cloud Platform (SCP), and how can it be leveraged in new ways current Splunk Cloud cannot? In this session you&#x27;ll learn what Splunk Cloud Platform has to offer, the core concepts to be successful, and how to use Splunk Developer Cloud (SDC) tools to explore the services and features. Getting started couldn&#x27;t be easier, and we&#x27;ll show you how to go from sign-up to running in just a few clicks. You&#x27;ll be dropped right in the middle of Splunk Investigate where you can access the services and features SCP has to offer (like ingest and search and collaboration tools). But that&#x27;s not all, because using SDC tools you&#x27;ll see how easy it is to create your own app to utilize the same SCP features as Splunk Investigate for your own use cases. Come join us for this end-to-end look at Splunk Cloud Platform, and get your head into the clouds!   &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Andy Nortrup, Sr. Product Manager, Splunk&lt;br/&gt; Cecelia Redding, Engineering Manager, Splunk&lt;br/&gt; Clif Gordon, Principal Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1396.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1396.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1396.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1396.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Developer Cloud
 &lt;br/&gt;
@@ -282,19 +282,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1396.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1396.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       
    <item>
       <title>‘Git’ Splunk App Management with Visual Studio Code [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1270.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1270.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1270.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1270.mp4?podcast=1577146192</guid>
       <comments>‘Git’ Splunk App Management with Visual Studio Code</comments>
       <description>How would you like a lightweight, fast, cross-platform source code editor that provides syntax highlighting for all Splunk configuration files? Want to edit your remote Splunk configuration files directly from your laptop or desktop? Ever make changes to your Splunk configuration files you wish you could easily undo? All of this can be done from Microsoft Visual Studio (VS) Code installed locally on your favorite operating system. This hands on lab will teach you how to use VS Code for Splunk App Management, including remote file editing, Splunk application best practices, and using GitLab for configuration file version control.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Joe Welsh, Sr. Manager, FDSE, Splunk&lt;br/&gt; Erica Pescio, Forward Deployed Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1270.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1270.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1270.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1270.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -304,19 +304,19 @@ Level: Beginner
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1270.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1270.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer -->
    <item>
       <title>How Splunkbase identifies, resolves, and reviews incidents using Splunk&gt;Investigate. [Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1440.mp4?podcast=1577145408</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:48 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1440.mp4?podcast=1577145408</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1440.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1440.mp4?podcast=1577146192</guid>
       <comments>How Splunkbase identifies, resolves, and reviews incidents using Splunk&gt;Investigate.</comments>
       <description>As a service that has many different integration points, Splunkbase needs to ensure as much uptime as possible. This means that when an incident occurs the root cause needs to be identified, resolved, reviewed and communicated to all relevant parties in a timely manner. Fortunately, Splunk&gt;Investigate has served us very well in achieving these objectives. In this session, we’ll demonstrate how the use of the Splunk&gt;Investigate app on Splunk Cloud Platform (SCP) enables teams to access the same data pool with appropriate authorization to collaborate using shared workbooks. This workflow enables teams to quickly reach a solution when an incident occurs.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Amr Saad, Engineering Manager, Splunk&lt;br/&gt; Heather Hunsinger, Senior Software Engineer, Splunk&lt;br/&gt; Matthew  Erbs, Senior Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1440.pdf?podcast=1577145408"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1440.pdf?podcast=1577145408
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1440.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1440.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Developer Cloud
 &lt;br/&gt;
@@ -326,19 +326,19 @@ Level: Beginner
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1440.mp4?podcast=1577145408" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1440.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match Internet of Things with Developer -->
    <item>
       <title>Insider Guidance For Approaching Splunk Cloud Vetting Process [Splunk Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1881.mp4?podcast=1577145409</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:49 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1881.mp4?podcast=1577145409</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1881.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1881.mp4?podcast=1577146192</guid>
       <comments>Insider Guidance For Approaching Splunk Cloud Vetting Process</comments>
       <description>If you are a customer, when you want an app installed in Splunk Cloud, it is required for the app to pass cloud vetting process. Why does Splunk enforce this? What is in it for you as our customer? Who triggers cloud vetting process for an app and how are cloud vetting requests prioritized?If you are an app developer, it is frustrating receiving messages from customers saying that the app that you developed fails Splunk cloud vetting, and they want you to help to fix. How to fix? How to develop an app that has the biggest chance of passing cloud vetting? What are the common failures that Splunk cloud vetting engineers saw in history and what are the best practices?Come to this session, you will get answers to all the questions above.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Yinqing Hao, Software engineer, Splunk&lt;br/&gt; Samuel Ni, Principal Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1881.pdf?podcast=1577145409"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1881.pdf?podcast=1577145409
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1881.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1881.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Cloud
 &lt;br/&gt;
@@ -348,19 +348,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1881.mp4?podcast=1577145409" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1881.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer -->
    <item>
       <title>Introduction to Collect Service [Splunk Data Fabric Search and Data Stream Processor, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1577145409</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:49 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1577145409</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1577146192</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:52 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1577146192</guid>
       <comments>Introduction to Collect Service</comments>
       <description>Collect Service is a new scalable method with high availability to collect data for Splunk Cloud Platform or Splunk Enterprise with Data Stream Processor(DSP). This session will cover the basic principles to show you how the Collect Service operates and why you need to use it, how the service is different from modular inputs, and how to leverage Collect Service’s REST API to automate data collection jobs efficiently.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Jove Zhong, Director, Engineering, Splunk&lt;br/&gt; Poornima Devaraj, Technical Product Manager, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1577145409"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1577145409
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1577146192"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/Dev2236.pdf?podcast=1577146192
 &lt;p/&gt;
 Product: Splunk Data Fabric Search and Data Stream Processor, Splunk Developer Cloud
 &lt;br/&gt;
@@ -370,19 +370,19 @@ Level: Beginner
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1577145409" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2236.mp4?podcast=1577146192" type="video/mp4"/>
     </item>
       <!-- No match Business Analytics with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Business Analytics with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Business Analytics with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer -->
    <item>
       <title>Next Generation Data Ingestion and Preparation with Splunk [Splunk Enterprise, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1140.mp4?podcast=1577145409</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:49 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1140.mp4?podcast=1577145409</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1140.mp4?podcast=1577146193</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:53 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1140.mp4?podcast=1577146193</guid>
       <comments>Next Generation Data Ingestion and Preparation with Splunk</comments>
       <description>You think data ingestion into Splunk is cumbersome today? Don’t enjoy writing Technology Add-ons (TA) for specific use cases? Then this talk is for you!  We will walk through data ingestion using the data sources supported by the new Splunk Investigate wizard. This allows users of all levels to configure their data source and perform various manipulation functions on the ingested data to make sure it meets their use case. We will also go over the guiding principles of the underlying Data Stream Processing (DSP) pipeline which empowers the user to add their own customizations and send data to a variety of destinations.   We will compare this with current Splunk Enterprise data ingestion process by configuring a TA for a specific use case and then alter the ingested data to the desired format before sending it to an index. The user will be able to draw a contrast between the two approaches and see how it does not have to take up to 6 weeks to acquire and prepare data for analytics in Splunk. We hope this session leaves the user excited about data ingestion and prep.    &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Asmita Puri, Sr. Software Engineer, Splunk&lt;br/&gt; Eric Sammer, Distinguished Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1140.pdf?podcast=1577145409"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1140.pdf?podcast=1577145409
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1140.pdf?podcast=1577146193"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1140.pdf?podcast=1577146193
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Developer Cloud
 &lt;br/&gt;
@@ -392,19 +392,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1140.mp4?podcast=1577145409" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1140.mp4?podcast=1577146193" type="video/mp4"/>
     </item>
       <!-- No match Internet of Things with Developer -->
    <item>
       <title>Not your parent&#x27;s Splunk, an SDC journey [Splunk Cloud, Splunk Developer Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1377.mp4?podcast=1577145409</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:49 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1377.mp4?podcast=1577145409</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1377.mp4?podcast=1577146193</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:53 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1377.mp4?podcast=1577146193</guid>
       <comments>Not your parent&#x27;s Splunk, an SDC journey</comments>
       <description>Come join two old school Splunkers as we talk about our journey building our first app on Splunk Developer Cloud. We&#x27;ll discuss the fun parts and the foibles, and hopefully show you that you can teach an old Pony new tricks. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Raanan Dagan, Principal SE Architect, Splunk&lt;br/&gt; Kyle Champlin, Senior Product Manager, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1377.pdf?podcast=1577145409"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1377.pdf?podcast=1577145409
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1377.pdf?podcast=1577146193"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1377.pdf?podcast=1577146193
 &lt;p/&gt;
 Product: Splunk Cloud, Splunk Developer Cloud
 &lt;br/&gt;
@@ -414,19 +414,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1377.mp4?podcast=1577145409" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1377.mp4?podcast=1577146193" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Business Analytics with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer -->
    <item>
       <title>Python 3 Compatibility Dive: Don&#x27;t Let Strings Byte You in the Apps [Splunk Enterprise, Splunk Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1173.mp4?podcast=1577145409</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:49 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1173.mp4?podcast=1577145409</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1173.mp4?podcast=1577146193</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:53 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1173.mp4?podcast=1577146193</guid>
       <comments>Python 3 Compatibility Dive: Don&#x27;t Let Strings Byte You in the Apps</comments>
       <description>You knew it had to happen, Splunk is migrating to Python 3! We want this migration to be as painless as possible for apps and scripts developers, but it necessitates some compatibility requirements. This talk will dive into what parts of your apps and scripts will have to become Python 3 compatible. You’ll explore approaches to using Python community supplied backporting libraries as well as Python 2/3 compatible native syntax. By examining common and uncommon gotchas we found while migrating Splunk Enterprise, we will make sure you are prepared to run your code in the future generations of Splunk Enterprise!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Cory Burke, Principal Software Engineer, Splunk&lt;br/&gt; Samat Jain, Senior Software Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1173.pdf?podcast=1577145409"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1173.pdf?podcast=1577145409
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1173.pdf?podcast=1577146193"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1173.pdf?podcast=1577146193
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Cloud
 &lt;br/&gt;
@@ -436,19 +436,19 @@ Level: Advanced
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1173.mp4?podcast=1577145409" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1173.mp4?podcast=1577146193" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Business Analytics with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Business Analytics with Developer --><!-- No match Business Analytics with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer -->
    <item>
       <title>Splunking the 2018 Midterm Election! [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEVS4G2287.mp4?podcast=1577145409</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:49 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEVS4G2287.mp4?podcast=1577145409</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEVS4G2287.mp4?podcast=1577146193</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:53 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEVS4G2287.mp4?podcast=1577146193</guid>
       <comments>Splunking the 2018 Midterm Election!</comments>
       <description>The Federal Election Commission (FEC) is an independent regulatory agency whose purpose is to enforce campaign finance law in US federal elections. The FEC provides a REST API to query all campaign data of every candidate. By collecting and analyzing the direct and indirect (Super PAC) contributions, Splunk can show the relative influence of each candidate of the midterm. Also learn how Splunk powers the Splunk for Good midterm website using Splunk&#x27;s REST API, HEC, and Amazon S3 hosting. This talk is an update of the 2016 Presidential Election talk from .conf16.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Satoshi Kawasaki, Splunk for Good Ninja, Splunk&lt;br/&gt; Corey Marshall, Director, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEVS4G2287.pdf?podcast=1577145409"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEVS4G2287.pdf?podcast=1577145409
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEVS4G2287.pdf?podcast=1577146193"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEVS4G2287.pdf?podcast=1577146193
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -458,19 +458,19 @@ Level: Advanced
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEVS4G2287.mp4?podcast=1577145409" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEVS4G2287.mp4?podcast=1577146193" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Internet of Things with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer -->
    <item>
       <title>The A to Z of building Add-Ons [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1299.mp4?podcast=1577145409</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:49 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1299.mp4?podcast=1577145409</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1299.mp4?podcast=1577146193</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:53 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1299.mp4?podcast=1577146193</guid>
       <comments>The A to Z of building Add-Ons</comments>
       <description>Building Splunk add-ons using API&#x27;s and Python is easy! In fact we reckon it&#x27;s is so easy that we&#x27;re going to build one from scratch in less than 20 minutes... LIVE. Come and see whether we manage to pull it off, or whether we fail in front of hundreds of people! You do not need to be a Python expert, however a basic understanding will help.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; James Odom, Head of Service Delivery, Converging Data&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1299.pdf?podcast=1577145409"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1299.pdf?podcast=1577145409
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1299.pdf?podcast=1577146193"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1299.pdf?podcast=1577146193
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -480,19 +480,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1299.mp4?podcast=1577145409" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1299.mp4?podcast=1577146193" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Internet of Things with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer -->
    <item>
       <title>Triggers &amp; Alerts in the Splunk Cloud Platform []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577145410</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:50 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577145410</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577146193</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:53 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577146193</guid>
       <comments>Triggers &amp; Alerts in the Splunk Cloud Platform</comments>
       <description>In the new Splunk Cloud Platform, we’re reimagining the way we enable monitoring and alerting. Configure triggers to identify changes and anomalies in your data as they occur and determine the right action(s) that should be taken as a result – email, Slack, VictorOps, etc. Leverage machine learning to bring your attention to the right insights and roll that back into your core monitoring strategy.  Come to this session to learn more about both the long-term vision and what’s immediately available.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Miranda Luna, Product Management, Splunk&lt;br/&gt; Declan Shanaghy, Architect Developer Platform, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577145410"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577145410
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577146193"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV2518.pdf?podcast=1577146193
 &lt;p/&gt;
 Product: 
 &lt;br/&gt;
@@ -502,19 +502,19 @@ Level:
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577145410" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV2518.mp4?podcast=1577146193" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match IT Operations with Developer --><!-- No match Security, Compliance and Fraud with Developer -->
    <item>
       <title>Vagrant and Splunk Development: Building Splunk Apps for any Environment [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/DEV1114.mp4?podcast=1577145410</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:50 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1114.mp4?podcast=1577145410</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/DEV1114.mp4?podcast=1577146193</link>
+      <pubDate>Mon, 23 Dec 2019 19:09:53 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/DEV1114.mp4?podcast=1577146193</guid>
       <comments>Vagrant and Splunk Development: Building Splunk Apps for any Environment</comments>
       <description>Vagrant is virtualization technology that builds portable, virtual software development environments. Leveraging this technology for Splunk development allows agile and DevOps teams to easily collaborate in Splunk development in as way that tightly mirrors their production environment, even when working with a mix of environments such as Mac and Windows. Vagrant’s multi-machine environments can perfectly replicate any Splunk architecture, including complicated clustering and networking configurations, using a single Vagrantfile that can be shared directly or committed to a version control system. From the Forwarder to a search head cluster member, see how your configurations and code work in your environment across the entire data pipeline right on your machine, or test your Splunkbase app on every possible architecture from single server to distributed multi-site clusters, all with a single command: vagrant up.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Jason Rauen, Senior Lead Technologist, Booz Allen Hamilton&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1114.pdf?podcast=1577145410"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1114.pdf?podcast=1577145410
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/DEV1114.pdf?podcast=1577146193"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/DEV1114.pdf?podcast=1577146193
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -524,7 +524,7 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1114.mp4?podcast=1577145410" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/DEV1114.mp4?podcast=1577146193" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match IT Operations with Developer --><!-- No match Business Analytics with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Internet of Things with Developer --><!-- No match IT Operations with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Foundations/Platform with Developer --><!-- No match Security, Compliance and Fraud with Developer --><!-- No match Security, Compliance and Fraud with Developer -->
 

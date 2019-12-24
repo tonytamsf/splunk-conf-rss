@@ -6,7 +6,7 @@
     <title>Splunk [Internet of Things Track] 2019 .conf Videos w/ Slides</title>
     <link>https://conf.splunk.com?podcast</link>
     <description>Splunk [Internet of Things Track] 2019 .conf Videos w/ Slides</description>
-    <lastBuildDate>Mon, 23 Dec 2019 18:56:59 EST</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 19:10:04 EST</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -45,14 +45,14 @@
 <!-- No match IT Operations with Internet --><!-- No match Business Analytics with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Business Analytics with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>A healthcare company changing lives with Splunk [Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1413.mp4?podcast=1577145421</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:01 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1413.mp4?podcast=1577145421</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1413.mp4?podcast=1577146205</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:05 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1413.mp4?podcast=1577146205</guid>
       <comments>A healthcare company changing lives with Splunk</comments>
       <description>This session is about a healthcare company born from cybersecurity using Splunk to disrupt the traditional healthcare delivery model. Accuhealth has created a remote patient monitoring platform to analyze health and biometric data collected from IoT devices to improve the patients&#x27; quality of life. A doctor is alerted in real-time of any abnormal changes to their patient&#x27;s vitals and have immediate access to medical trends, allowing the doctor to make faster and more informed decisions. Splunk is at the nerve center of our platform. Using machine learning and health data, the tool provides actionable insights and predictive analysis to patients, doctors, caregivers, and researchers. Additionally, we have leveraged Splunk to integrate the three pillars of telehealth: Telemedicine, Chronic Care Management, and Remote Patient Monitoring. Learn first hand and see a demo of how Accuhealth is creating a paradigm shift in healthcare. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Stephen Samson, CEO, Accuhealth Technologies LLC&lt;br/&gt; Shelby Neal, VP of Information Technology, Accuhealth Technologies LLC&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1413.pdf?podcast=1577145421"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1413.pdf?podcast=1577145421
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1413.pdf?podcast=1577146205"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1413.pdf?podcast=1577146205
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML
 &lt;br/&gt;
@@ -62,19 +62,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1413.mp4?podcast=1577145421" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1413.mp4?podcast=1577146205" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Business Analytics with Internet --><!-- No match Business Analytics with Internet -->
    <item>
       <title>Applying Splunk Essentials for Predictive Maintenance [Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1103.mp4?podcast=1577145421</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:01 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1103.mp4?podcast=1577145421</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1103.mp4?podcast=1577146205</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:05 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1103.mp4?podcast=1577146205</guid>
       <comments>Applying Splunk Essentials for Predictive Maintenance</comments>
       <description>Predictive maintenance is a key initiative and a strategy that directly impacts the bottom lines of many industrial operations around the globe. Yet many of the organizations don’t know where and how to start due to a lack of knowledge about data platforms, methodology, and analytics techniques. Based on the recently released “Splunk Essentials for Predictive Maintenance” app that offers key methodologies and Splunk’s powerful machine learning capability, this session will demystify the data science elements of predictive maintenance to make the process real and pragmatic. Through this session, the audience will learn and appreciate the power of Splunk in a way that will allow agile application of analytic-driven predictive maintenance to the broader moving parts of their operations. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Young Cho, Senior IoT Practitioner, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1103.pdf?podcast=1577145421"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1103.pdf?podcast=1577145421
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1103.pdf?podcast=1577146205"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1103.pdf?podcast=1577146205
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML
 &lt;br/&gt;
@@ -84,19 +84,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1103.mp4?podcast=1577145421" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1103.mp4?podcast=1577146205" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Building the “smartest factory on planet earth” – Accenture partnering with leading crystal maker innovating with Splunk for Industrial IoT [Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577145421</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:01 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577145421</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577146206</guid>
       <comments>Building the “smartest factory on planet earth” – Accenture partnering with leading crystal maker innovating with Splunk for Industrial IoT</comments>
       <description>Production of crystal and gemstones requires high-class, top-quality output and unmatched quality and accuracy in the E2E production line. Based on in-depth experience, our joint client is one of the leading providers of production line machinery, serving its own business units as well as industry customers with precision optical instruments, grinding, sawing, drilling, and dressing tools. The new technical innovations in the area of Industrial Internet of Things (IIoT) offer completely new options to improve smart production lines. Thus Accenture is partnering with Splunk on creating a roadmap to build a fully digital, smart factory that will become a world-leading lighthouse facility. This session will provide insights into how the power of data enabled by Splunk can realize a quantum step in modern production line environments. It also will help you understand the value of data science for predictive quality, digital twin scenarios, reduced lot size, and closed loop R&amp;D processes. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Stefan Schroder, Managing Director, Accenture&lt;br/&gt; Ron Perzul, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577145421"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577145421
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1509.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML, Splunk for Industrial IoT
 &lt;br/&gt;
@@ -106,19 +106,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577145421" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1509.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Developer with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Business Analytics with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Developer with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>ControlWatch: Cybersecurity Monitoring for Operational Technology (OT) and Industrial Control System (ICS) Environments [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2128.mp4?podcast=1577145421</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:01 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2128.mp4?podcast=1577145421</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2128.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2128.mp4?podcast=1577146206</guid>
       <comments>ControlWatch: Cybersecurity Monitoring for Operational Technology (OT) and Industrial Control System (ICS) Environments</comments>
       <description>Today’s industrial, manufacturing, and building management systems rely on an array of on-demand, uninterruptable technologies, like Industrial Control Systems (ICS), for their day-to-day operations. Escalations in cyber-related attacks have made increased visibility into these often overlooked systems paramount. Over the past year, Booz Allen has built an OT cybersecurity monitoring solution called ControlWatch that provides enhanced visibility and anomaly detection with a focus on OT environments. By aggregating data from within and around the process, the solution provides a critical view for plant managers, C-level decision-makers, or the boots on the ground. We’ll highlight the context into, detection of, and alerting on a myriad of malicious and misaligned activities. We have implemented unique OT-centric use cases and will walk-through a day-in-the-life scenario to show you how the solution increases cybersecurity awareness and resilience in a production organization at all levels.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Chris Weule, Booz Allen Hamilton&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2128.pdf?podcast=1577145421"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2128.pdf?podcast=1577145421
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2128.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2128.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -128,19 +128,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2128.mp4?podcast=1577145421" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2128.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Developer with Internet --><!-- No match Developer with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Deep Dive: How to use Splunk to protect the environment [Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, AI/ML]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1577145421</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:01 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1577145421</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1577146206</guid>
       <comments>Deep Dive: How to use Splunk to protect the environment</comments>
       <description>Can Splunk help eliminate environmental risks and save the company money at the same time? The Alabama Department of Environmental Management (ADEM) sets standards defining the amount of Volatile Organic Compounds (VOCs) that can be safely released. Honda Manufacturing of Alabama (HMA) must adhere to those standards and track our compliance within the parameters set forth by the ADEM. Failure to comply with these standards will result in potentially damaging the environment and large fines. HMA uses a Regenerative Thermal Oven (RTO) to burn off pollutants from our paint department, which is controlled by an Allen Bradley Programmable Logic Controller (PLC). Using this PLC and the sensors built into the RTO, we collect individual chamber temperatures, fan speeds, exhaust temperatures, motor winding temperatures, motor vibrations, and fan vibrations. Using these readings and the Splunk Machine Learning Toolkit we try to predict if the temperature will be within the set range. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Charlie Studdard, Machine Data Analytics, Honda Manufacturing of Alabama&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1577145421"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1577145421
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1629.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk Machine Learning Toolkit, AI/ML
 &lt;br/&gt;
@@ -150,19 +150,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1577145421" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1629.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Business Analytics with Internet --><!-- No match Business Analytics with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Business Analytics with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Energy Insights: Developing an Energy Transformation Framework In Manufacturing with GrayMatter and Splunk at Continental Automotive []</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577145421</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:01 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577145421</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577146206</guid>
       <comments>Energy Insights: Developing an Energy Transformation Framework In Manufacturing with GrayMatter and Splunk at Continental Automotive</comments>
       <description> Intersecting energy asset data with production and operational data opens new doors to better visibility, energy savings and meeting green standards. In this session you’ll learn how Continental Automotive eliminated energy waste, reduced costs and lowered emissions levels by breaking down energy consumption and operational data silos on the factory floor.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Alan Hinchman, Chief Revenue Officer, Gray Matter Systems, LLC&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577145421"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577145421
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2863.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: 
 &lt;br/&gt;
@@ -172,19 +172,19 @@ Level:
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577145421" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2863.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match  with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Gatwick Airport: From Road to Runway, how we embarked more users on Splunk [Splunk Enterprise, Splunk Cloud]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1632.mp4?podcast=1577145421</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:01 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1632.mp4?podcast=1577145421</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1632.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1632.mp4?podcast=1577146206</guid>
       <comments>Gatwick Airport: From Road to Runway, how we embarked more users on Splunk</comments>
       <description>Gatwick Airport has become a name synonymous with Splunk, and since we first embraced the world of Splunking there has been no slowing down with our innovative ways of using every data feed and technique available to gain insightful business analytics to improve operation. Join us as we take you through our new and exciting use cases. We will show you how we provide our key operations, from road to runway, with all the data insights they could ever need, adding key resilience to existing systems and combining our Cloud and Enterprise environments. All while we are utilizing inventive CSS techniques to give the impression of bespoke individual systems. We are getting more end users onto the Splunk platform without them even realizing their using Splunk at all.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Paul Bannister , IT Development Specialist, Gatwick Airport Ltd&lt;br/&gt; Alex Webber, IT development Specialist, Gatwick Airport Ltd&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1632.pdf?podcast=1577145421"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1632.pdf?podcast=1577145421
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1632.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1632.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Cloud
 &lt;br/&gt;
@@ -194,19 +194,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1632.mp4?podcast=1577145421" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1632.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Developer with Internet --><!-- No match Developer with Internet --><!-- No match Developer with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Developer with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>How to boost operational readiness and situational awareness for law enforcement  [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1830.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1830.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1830.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1830.mp4?podcast=1577146206</guid>
       <comments>How to boost operational readiness and situational awareness for law enforcement </comments>
       <description>Can law enforcement protect citizens in this age of digital transformation? Are they using technology in way that promotes insights and outcomes to help them become more proactive? Do those insights provide officers with increased situational awareness to ensure officer safety and effectiveness? We’ll show you how the connected vehicle provides data to unlock insights into the operational readiness of the digital officer while also providing improved situational awareness for their safety.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Bobby Suber, Sales Engineer, Splunk&lt;br/&gt; Herschel  Sova, Director of Managed Services, GTS Technology Solutions&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1830.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1830.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1830.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1830.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -216,19 +216,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1830.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1830.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet -->
    <item>
       <title>Improving cost-efficiency of inland cargo shipping within the Port of Hamburg – powered by Splunk IoT capabilities [Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577146206</guid>
       <comments>Improving cost-efficiency of inland cargo shipping within the Port of Hamburg – powered by Splunk IoT capabilities</comments>
       <description>The Port of Hamburg is the main entrance to the German market and the third largest European port by transit volume, passing nearly 9 million containers each year. Although it has witnessed several stages of automation, there is still vast, untapped potential to preserve resources, both economic and ecological. By introducing IoT with Splunk, we move away from the docks and onto the vessels, equipping one tugboat and one inland cargo ship with IoT technology to measure movement and gather data about energy consumption from their 1950s diesel engines. The goal of this PoC environment is to automate the communication between ship and port authority, as well as visualize their field of operation to evenly distribute load and optimize the travel distances. On a broader spectrum, we also built a simulation model within our dashboard to investigate the benefits of adapting the vessels with engines powered to natural gas or electricity based on their consumption patterns.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Henning Brandt, Data Analyst, ESE GmbH&lt;br/&gt; Janina Kropf, Data Analyst, ESE GmbH&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1893.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk for Industrial IoT
 &lt;br/&gt;
@@ -238,19 +238,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1893.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Improving the asset reliability for manufacturing the world’s most advanced fighter jet, Lockheed Martin’s F-35 Lightning II with Splunk for Industrial IoT [Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577146206</guid>
       <comments>Improving the asset reliability for manufacturing the world’s most advanced fighter jet, Lockheed Martin’s F-35 Lightning II with Splunk for Industrial IoT</comments>
       <description>Join us to learn how Lockheed Martin utilizes Splunk for IoT to bridge the gap between Operations and Maintenance (O&amp;M), and how they took a multi-vendor, best-of-breed approach to solving their most critical O&amp;M challenges. If you attend this session you will see how real-time monitoring, and condition-based and predictive maintenance for critical assets can reduce unplanned downtime, improve maintenance activities, and increase operational efficiencies. We will also show how the Splunk implementation includes data convergence from disparate pieces of equipment and existing enterprise software solutions to create new insights and allow for actions that were once considered very difficult or too costly to realize.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Adam Whiting, Project Manager, Lockheed Martin&lt;br/&gt; Chris Gilman, Senior IoT Consultant, Strategic Maintenance Solutions&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1621.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk for Industrial IoT
 &lt;br/&gt;
@@ -260,19 +260,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1621.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Industrial Cyber Security In A Converging IT/OT World [Splunk Enterprise Security, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577146206</guid>
       <comments>Industrial Cyber Security In A Converging IT/OT World</comments>
       <description>The digital convergence of IT and OT infrastructures promises huge efficiencies, cost savings and opportunities; but it is not without risk. OT was primarily built to run all types of manufacturing &amp; critical infrastructure processes while IT was built to store, transmit and manipulate data in order to conduct business. The two worlds could not be more different in purpose or design; and this can expose even the most secure organizations to new types of cyber threats. In this session we will discuss the current challenges we face in the drive to convergence and how to secure your industrial or critical infrastructure organization from the clear and present threat.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Michael Rothschild, Indegy&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1066.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk Enterprise Security, Splunk for Industrial IoT
 &lt;br/&gt;
@@ -282,19 +282,19 @@ Level: Advanced
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1066.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet -->
    <item>
       <title>Innovation, Automation, and Orchestration for Collaboration Technology with Splunk [Splunk Enterprise, Splunk for Industrial IoT, Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577146206</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:06 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577146206</guid>
       <comments>Innovation, Automation, and Orchestration for Collaboration Technology with Splunk</comments>
       <description>AV and conference technology may seem trivial to the traditional IT OPS engineer, but it is one of the most visible and expensive parts of an enterprise. Everyone from the CEO to even the new hires on their first day use the technology. At PSE we were able to leverage Splunk to help us build, maintain, and manage our enterprise AV program (and save a lot of money in the process). In this session you will learn how we used Splunk to make data-driven decisions that influence and shape a multi-million dollar AV program.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Chris Ramsay, IT Facilities Engineer , Puget Sound Energy&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577146206"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT2134.pdf?podcast=1577146206
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT, Splunk Mobile
 &lt;br/&gt;
@@ -304,19 +304,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2134.mp4?podcast=1577146206" type="video/mp4"/>
     </item>
       <!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Developer with Internet --><!-- No match Business Analytics with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Business Analytics with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Maintaining a state of good repair with predictive analytics [Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1318.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1318.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1318.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1318.mp4?podcast=1577146207</guid>
       <comments>Maintaining a state of good repair with predictive analytics</comments>
       <description>Take a deep dive in this enablement focused presentation where we cover the background, data and how to implement 3 Splunk solutions entirely captured in this sessions&#x27; companion app that shows how to use Splunk for maintaining a state of good repair, make data-driven decisions to garner rate payer confidence and proactively realize conservation goals.  The use cases covered in this session are: *** Corrosion Analytics - See how to use machine learning combined with ArcGIS, Maximo and Corrosion data to create an interactive map to predict pipe failures and replacement priorities based on proximity to sensitive infrastructure. *** Mobile Work Fleet - see how to use scripted inputs to develop asset management dashboards, make data driven purchasing decisions and optimize routes. *** Water Leak detection - see how Splunk&#x27;s Machine Learning Toolkit can be used to easily detect anomalous consumption based on user behavior and automate alerting utilities and customers to prevent water waste.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Tony Nesavich, Staff Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1318.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1318.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1318.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1318.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML
 &lt;br/&gt;
@@ -326,19 +326,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1318.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1318.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Business Analytics with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Developer with Internet -->
    <item>
       <title>Next Generation Smart SOC [Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1577146207</guid>
       <comments>Next Generation Smart SOC</comments>
       <description>The mega event Expo brings together ideas, innovations, and inventions is will open its doors in the UAE on 20 October 2020 for a period of six months. This celebration of human ingenuity offers a glimpse into the future and is anticipated to attract 25 million visits, 70 percent of those visitors from 190 countries. The Expo 2020 Dubai is teaming up with the DarkMatter Group, which is the region’s first and only fully-integrated digital transformation, defense, and cybersecurity solutions provider, to fully deploy advanced cybersecurity technologies to oversee the entire digital platform, as well as the applications and data to secure the Expo 2020’s digital experience. This session will cover why Expo 2020 and DarkMatter chose Splunk as the right solution to reduce their operational requirements to single solution that is able to ingest and analyze events from every single asset (IT&amp;IoT) supported by the automation frameworks in the solution.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Eric Eifert, DarkMatter&lt;br/&gt; Eman Alawadhi, VP Cyber Security and Resilience , Expo 2020&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1897.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Enterprise Security, Splunk IT Service Intelligence
 &lt;br/&gt;
@@ -348,19 +348,19 @@ Level: Advanced
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1897.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Developer with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Business Analytics with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Developer with Internet --><!-- No match IT Operations with Internet -->
    <item>
       <title>Real-time public transport information systems monitoring and analysis in the city of Amsterdam  [Splunk Enterprise, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577146207</guid>
       <comments>Real-time public transport information systems monitoring and analysis in the city of Amsterdam </comments>
       <description>With around a million people interacting with the public transport in and around the city of Amsterdam daily, supplying accurate travel information is critical for an efficient and well-informed public transportation experience. With four different transport types (boat, bus, tram, and metro) and a host of custom systems creating around 4.5 million update events per day, analyzing this travel information depends on everything working seamlessly together. To provide accurate and trustworthy real-time passenger information services, monitoring of not only information availability but quality is needed. This use case shows how Splunk was implemented to monitor the data streams at all points in the information chain, and how real-time insights and alerting allows for proactive problem resolution and provides high-quality real-time information services for the end-user.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Simon Ric - Hansen, Data Analyst, DITP&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1442.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT
 &lt;br/&gt;
@@ -370,19 +370,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1442.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Business Analytics with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Solar Analytics: Changing the World One Solar Panel At A Time [Splunk Enterprise, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577146207</guid>
       <comments>Solar Analytics: Changing the World One Solar Panel At A Time</comments>
       <description>Solar generation and energy storage is dramatically dropping in cost and is being deployed on a massive scale across the globe. However, system monitoring and diagnostics, cost reporting, and usage can be difficult. With Splunk Essentials for ICS (Industrial Control Systems) and Splunk IAI (Industrial Asset Intelligence), a smart energy solution easily can be created. Does it seem too hard to onboard data? See how we use the Splunk add-on builder to create technology add-ons for solar panels and batteries. Want better visibility? Using Splunk IAI, we can gain faster insights into the performance of solar panels, inverters, and battery systems. Want to understand the economics? By applying business analytics, we can easily report of revenue, costs, and total return on investment. This solution can be applied to both small and large solar and energy storage installations, and we have a real world use case with some exciting energy data!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Dean Jackson, Staff Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2026.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT
 &lt;br/&gt;
@@ -392,19 +392,19 @@ Level: Intermediate
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2026.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet -->
    <item>
       <title>Splunk at the Speed of Flight – Delivering Critical Passenger Cabin Services  [Splunk Enterprise, Splunk IT Service Intelligence, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577146207</guid>
       <comments>Splunk at the Speed of Flight – Delivering Critical Passenger Cabin Services </comments>
       <description>Business General Aviation (BGA) relies on multiple critical communications services, operating in flawless concert, for a safe and successful flight.  In-Flight Connectivity (IFC) is a critical BGA cabin service driving the industry. Learn how SatCom Direct is using Splunk to capture and cross-correlate live KPI feeds from various sources such as aircraft flight dynamics, satellites and ground stations to provide the ultimate in-air experience from a single aircraft to an entire managed fleet. Armed with Splunk, Satcom Direct can immediately detect and work to restore any service impacting events and from the same data, develop improved insights for ongoing performance enhancements. From the executive suite to the operations battleground, come learn how Splunk leverages data and insights at the speed of flight.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Q Damiano, Sr. Engineer, Systems Architecture, Satcom Direct&lt;br/&gt; Bill Babilon, USAF Account Executive and Splunk Solutions Architect, Splunk&lt;br/&gt; Paul Jeffery, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1937.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk IT Service Intelligence, Splunk for Industrial IoT
 &lt;br/&gt;
@@ -414,19 +414,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1937.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match Business Analytics with Internet --><!-- No match Business Analytics with Internet -->
    <item>
       <title>Splunk Cloud Gateway and Connected Experiences [Splunk Enterprise]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2038.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2038.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2038.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2038.mp4?podcast=1577146207</guid>
       <comments>Splunk Cloud Gateway and Connected Experiences</comments>
       <description>At PCAPP we use Splunk Cloud Gateway and the Connected Experiences Suite to help operators, supervisors, and managers ensure safe, compliant destruction of chemical weapons.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Andy Shaffer, Test Coordinator, Battelle&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2038.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2038.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2038.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2038.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise
 &lt;br/&gt;
@@ -436,19 +436,19 @@ Level: Beginner
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2038.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2038.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Splunk for Good, Seattle University, and University of Connecticut partner to Power Aquaponics Facilities Around the Globe [Splunk Enterprise, Splunk Mobile]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577146207</guid>
       <comments>Splunk for Good, Seattle University, and University of Connecticut partner to Power Aquaponics Facilities Around the Globe</comments>
       <description>Wouldn’t you love to be able to give students at your university some hands-on experience with Splunk so they have a tangible skill to add to their resume when they’re looking for jobs? What if we told you that two universities on opposite sides of the United States have partnered with Splunk4Good and Splunk Mobile and done just that. The University of Connecticut and Seattle University are working together on sustainability efforts at aquaponics facilities around the globe and collecting data from them. During this talk you will learn some useful tools, tips, and tricks for how they got there, and how you can get your university enabled with Splunk4Good. Finally, we’ll talk about what you can do to teach students about Splunk and sustainability, and why that’s so important in 2019.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ryan O&#x27;Connor, Senior Advisory Engineer, Splunk&lt;br/&gt; Hunter Mason, Electrical Engineering Student, Seattle University&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1401.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Mobile
 &lt;br/&gt;
@@ -458,19 +458,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1401.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Internet -->
    <item>
       <title>Splunk Fortifies ABB Ability Industrial Cloud Foundation [Splunk Enterprise, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577145422</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:02 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577145422</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577146207</guid>
       <comments>Splunk Fortifies ABB Ability Industrial Cloud Foundation</comments>
       <description>As one of the world&#x27;s largest and most trusted industrial brands, our customers demand the most technologically advanced and reliable systems to operate the most critical assets on the planet. Downtime for our customers is never an option. As we migrate our business delivery backbone to the cloud, we have to enforce the same level of reliability and performance on the architecture that supports our services - .9999 is failure where we live. In this presentation learn how ABB Digital and Splunk have collaborated to create new insights into the performance, security and operations of our Azure-backed ABB Digital IOT Platform to protect our brand and increase the velocity of services that we can bring to our internal customers and to those that invest in our ABB branded services.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Ravi Prattipati, Chief Architect, ABB Inc&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577145422"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577145422
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2578.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT
 &lt;br/&gt;
@@ -480,19 +480,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577145422" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2578.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Developer with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet -->
    <item>
       <title>Splunk like your life depends on it [Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577145423</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:03 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577145423</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577146207</guid>
       <comments>Splunk like your life depends on it</comments>
       <description>Many of the talks at .conf will be around how to solve business problems, how to configure clusters, and how to improve your KPIs. This talk focuses instead on how to monitor and detect problems in the physical realm: IoT. What do you do when an agency&#x27;s or business&#x27;s security posture is a matter of life and death? What are they doing to equip themselves against cyberattacks? This talk will discuss previous security breaches and industrial IoT device failures that result in death, and how they could have been detected or prevented with Splunk. It also will give you actionable takeaway&#x27;s for you to implement. After all, security isn&#x27;t always saving dollars; sometimes it is actually about saving lives.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Katie Brown, Senior Solutions Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577145423"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577145423
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1935.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk for Industrial IoT
 &lt;br/&gt;
@@ -502,19 +502,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577145423" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1935.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet -->
    <item>
       <title>Teaching Splunk to Hear: Audio Spectrum Analysis in Splunk for Event Classification and Anomaly Detection [Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1560.mp4?podcast=1577145423</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:03 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1560.mp4?podcast=1577145423</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1560.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1560.mp4?podcast=1577146207</guid>
       <comments>Teaching Splunk to Hear: Audio Spectrum Analysis in Splunk for Event Classification and Anomaly Detection</comments>
       <description>If we hear a nearby gunshot, we instinctively react. A mechanic often knows their machine&#x27;s sound so well that they can diagnose issues by sound alone. While machines can be given analytical capabilities with machine learning (ML), sensing human inputs - like auditory or other sensory data - in a form that machines can understand is challenging. In Splunk, we have been all about making machine data accessible to humans, but what if we flip that and make human data accessible to machines? I take audio captured from live and recorded sources and using Fast Fourier transform feed it into Splunk&#x27;s Machine Learning Toolkit (MLTK) for classification and anomaly detection. Can we use Splunk to detect gunshots? Can we learn a machine’s normal sounds to detect pending failures? This presentation uses Splunk to apply superhuman ML detection and learning capabilities to human data to show that the MLTK contains accessible tools you can apply to your IT and security problems. &lt;p/&gt;
 Speaker(s)&lt;br/&gt; Joshua Marsh, Senior Sales Engineer, Splunk&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1560.pdf?podcast=1577145423"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1560.pdf?podcast=1577145423
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT1560.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT1560.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk Machine Learning Toolkit, AI/ML
 &lt;br/&gt;
@@ -524,19 +524,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1560.mp4?podcast=1577145423" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1560.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Developer with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet -->
    <item>
       <title>The most epic road trip to .Conf: IOT in an RV, OMG [Splunk Enterprise, Splunk for Industrial IoT, VictorOps]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577145423</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:03 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577145423</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577146207</guid>
       <comments>The most epic road trip to .Conf: IOT in an RV, OMG</comments>
       <description>Splunk .conf is our favorite event every year and we wanted to extend the excitement while getting even more Splunky. So we grabbed an RV, set up some sensors, built an edge computing environment, and packed up the Big Data Beard recording equipment for a road-trip across the country for the week leading up to .conf, traveling from New York City to Las Vegas. We stopped along the way to hear awesome stories from fellow Splunk users, sharing them online via live chats and podcasts. With the power of Splunk, we captured data, discovered trends, predicted failures, and discovered more exciting ways to use Splunk to drive value from machine-generated data across the country. Hear the full story of how three engineers had the most interesting trip to .conf2019 of all!&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Brett Roberts, Senior Systems Engineer, Dell&lt;br/&gt; Kyle Prins, Senior Systems Engineer , Dell&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577145423"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577145423
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IoT2066.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise, Splunk for Industrial IoT, VictorOps
 &lt;br/&gt;
@@ -546,19 +546,19 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577145423" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT2066.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet -->
    <item>
       <title>Threat Hunting in Industrial (ICS\OT) Environments [Splunk Enterprise Security, Splunk for Industrial IoT]</title>
-      <link>https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577145423</link>
-      <pubDate>Mon, 23 Dec 2019 18:57:03 EST</pubDate>
-      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577145423</guid>
+      <link>https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577146207</link>
+      <pubDate>Mon, 23 Dec 2019 19:10:07 EST</pubDate>
+      <guid isPermaLink="false">https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577146207</guid>
       <comments>Threat Hunting in Industrial (ICS\OT) Environments</comments>
       <description>Industrial operations comprise a diverse blend of technology that run critical processes. The proliferation of automation and networking has increased the sophistication of Industrial Control Systems (ICS), also known as Operational Technology (OT) environments.Threats targeting OT are increasing in both frequency and sophistication. Dragos tracks 9 OT-targeting activity groups, the most significant of which, XENOTIME, was responsible for the TRISIS malware that targeted safety systems (SIS) resulting in multiple plant shutdowns and the potential to cause harm to human operators.Traditional IT threat hunting is not well-suited to OT environments. This session will outline the differences between IT and OT assessments, highlight the most significant threats facing OT, and review best practices for OT-specific threat hunting engagements, including techniques that empower defenders to detect and respond more efficiently to existing and future threats, therefore reducing adversary dwell time.&lt;p/&gt;
 Speaker(s)&lt;br/&gt; Amy Bejtlich, Threat Intelligence, Dragos&lt;br/&gt; Marc  Seitz, Threat Analyst, Dragos&lt;br/&gt; 
 &lt;br/&gt;
-Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577145423"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577145423
+Slides &lt;a href="https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577146207"&gt;PDF link&lt;/a&gt; - https://conf.splunk.com/files/2019/slides/IOT1641.pdf?podcast=1577146207
 &lt;p/&gt;
 Product: Splunk Enterprise Security, Splunk for Industrial IoT
 &lt;br/&gt;
@@ -568,7 +568,7 @@ Level: Good for all skill levels
 &lt;br/&gt;
 </description>
 
-      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577145423" type="video/mp4"/>
+      <enclosure url="https://conf.splunk.com/files/2019/recordings/IoT1641.mp4?podcast=1577146207" type="video/mp4"/>
     </item>
       <!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Developer with Internet --><!-- No match IT Operations with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Developer with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match IT Operations with Internet --><!-- No match Business Analytics with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match IT Operations with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Foundations/Platform with Internet --><!-- No match Security, Compliance and Fraud with Internet --><!-- No match Security, Compliance and Fraud with Internet -->
 
